@@ -67,8 +67,6 @@ receitas_por_candidato = receitas_por_candidato %>%
              by = 'id_candidato') 
 
 # origem das receitas não identificadas
-#receitas_candidato$origem_receita = 
- # replace_na(receitas_candidato$origem_receita, 'não identificado')
 receitas_candidato = receitas_candidato %>%
   mutate(origem_receita = 
            replace_na(origem_receita, 'não identificado')) %>%
@@ -411,14 +409,6 @@ despesas_por_candidato %>%
 ggsave('output/plot10.png')
 
 # box plot por raca
-
-# despesas_por_candidato %>%
-#   filter(!is.na(resultado)) %>%
-#   ggplot(aes(x = resultado, y = valor, color = raca)) +
-#   geom_boxplot(outlier.alpha = 0.25, outlier.shape = NA) +
-#   scale_color_lancet()+
-#   theme_linedraw()+
-#   ylim(c(0, 5*10^6)) 
 
 despesas_por_candidato %>%
   filter(!is.na(resultado), ano %in% c(2014, 2018)) %>%

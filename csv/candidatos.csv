@@ -1,0 +1,1195 @@
+ano,sigla_uf,cpf,sequencial,numero,nome,nome_urna,numero_partido,sigla_partido,cargo,ocupacao,idade,genero,instrucao,estado_civil,sigla_uf_nascimento,raca
+2002,AP,08986118220,328,122,Sebastião Ferreira Da Rocha,Sebastião Rocha Bala,12,PDT,senador,medico,45,masculino,ensino superior completo,casado(a),PA,NA
+2002,AP,10811206491,279,456,Antônio Da Justa Feijão,Feijão,45,PSDB,senador,geologo,46,masculino,ensino superior completo,divorciado(a),CE,NA
+2002,AP,11907894268,335,152,Gilvam Pinheiro Borges,Gilvam Borges,15,PMDB,senador,senador deputado e vereador,44,masculino,ensino superior incompleto,casado(a),DF,NA
+2002,AP,27880575472,235,401,João Alberto Rodrigues Capiberibe,Capi,40,PSB,senador,zootecnista,55,masculino,ensino medio completo,NA,AP,NA
+2002,AP,52898431753,331,147,João Bosco Papaléo Paes,Papaléo ,14,PTB,senador,medico,50,masculino,ensino superior completo,casado(a),PA,NA
+2002,AP,78872693853,217,133,Lourival Do Carmo De Freitas,Lourival Freitas,13,PT,senador,analista de sistemas,48,masculino,ensino superior completo,casado(a),AP,NA
+2002,AM,00160288215,598,123,Jose Jefferson Carpinteiro Peres,Jefferson Peres,12,PDT,senador,servidor publico civil aposentado,71,masculino,ensino superior completo,casado(a),AM,NA
+2002,AM,02218020700,604,252,Jose Bernardo Cabral,Bernardo Cabral,25,PFL,senador,advogado,71,masculino,ensino superior completo,casado(a),AM,NA
+2002,AM,03537250215,244,432,Francisco Plinio Valerio Tomaz,Plinio Valerio,43,PV,senador,senador deputado e vereador,48,masculino,ensino superior completo,viuvo(a),AM,NA
+2002,AM,06878415268,74,161,Tarcisio Luiz Leão E Souza,Tarcisio  Leão,16,PSTU,senador,professor de ensino de primeiro e segundo graus,46,masculino,ensino superior completo,solteiro(a),AM,NA
+2002,AM,13564412204,222,150,Alberto Jose Aleixo,Aleixo,15,PMDB,senador,advogado,39,masculino,ensino superior completo,casado(a),AM,NA
+2002,AM,15498247753,150,451,Arthur Virgilio Do Carmo Ribeiro Neto,Artur Neto,45,PSDB,senador,senador deputado e vereador,57,masculino,ensino superior completo,divorciado(a),AM,NA
+2002,AM,22484710259,543,654,Lucia Regina Antony,Lucia Antony,65,PC do B,senador,odontologo,43,feminino,ensino superior completo,divorciado(a),AM,NA
+2002,MA,00014125153,361,251,Edison Lobao,Edison Lobao,25,PFL,senador,senador deputado e vereador,66,masculino,ensino superior completo,casado(a),MA,NA
+2002,MA,00308897315,181,123,Epitacio Cafeteira Afonso Pereira,Cafeteira,12,PDT,senador,nao informada,78,masculino,NA,casado(a),PB,NA
+2002,MA,03261239387,597,456,Ildemar Goncalves Dos Santos,Ildemar,45,PSDB,senador,pecuarista,53,masculino,ensino fundamental completo,casado(a),MA,NA
+2002,MA,09527389372,703,404,Terezinha De Jesus Almeida Silva Rego,Dra Terezinha Rego,40,PSB,senador,nao informada,70,feminino,ensino superior completo,casado(a),MA,NA
+2002,MA,11511699191,330,252,Roseana Sarney Murad,Roseana Sarney,25,PFL,senador,sociologo,49,feminino,ensino superior completo,casado(a),MA,NA
+2002,MA,12886459372,140,131,Haroldo Freitas Pires De Saboia,Haroldo Saboia,13,PT,senador,economista,52,masculino,ensino superior completo,solteiro(a),MA,NA
+2002,MA,17531969300,69,163,Ramon Silva Gomes,Ramon Zapata,16,PSTU,senador,outros,42,masculino,ensino superior completo,solteiro(a),MA,NA
+2002,MA,20644710306,712,402,Manoel Antonio Veiga Da Costa,Manoel De Brejo,40,PSB,senador,agricultor,50,masculino,ensino medio completo,casado(a),MA,NA
+2002,MA,52509036491,600,212,Frederico Luiz Maciel Dos Santos,Frederico Luiz ,21,PCB,senador,jornalista e redator,36,masculino,ensino superior incompleto,divorciado(a),PE,NA
+2002,AL,07399634491,619,333,Ildo Rafael De Vasconcelos,Ildo Rafael,33,PMN,senador,comunicologo,47,masculino,ensino superior completo,casado(a),AL,NA
+2002,AL,09854720144,383,456,Teotonio Brandão Vilela Filho,Teotonio Vilela Filho,45,PSDB,senador,economista,52,masculino,ensino superior completo,casado(a),AL,NA
+2002,AL,11078685487,389,151,José Renan Vasconcelos Calheiros,Renan,15,PMDB,senador,senador deputado e vereador,47,masculino,ensino superior completo,casado(a),AL,NA
+2002,AL,11117621472,617,654,Eduardo Bomfim Gomes Ribeiro,Eduardo Bomfim,65,PC do B,senador,outros,53,masculino,ensino superior completo,casado(a),AL,NA
+2002,AL,16439562487,304,161,Manoel De Assis Da Silva,Manoel De Assis,16,PSTU,senador,empresario,44,masculino,ensino superior incompleto,casado(a),AL,NA
+2002,AL,18532527434,185,121,Heth Cesar Bismarck Athayde Barbosa De Oliveira,Heth Cesar,12,PDT,senador,advogado,43,masculino,ensino superior completo,casado(a),AL,NA
+2002,AL,20920202420,115,190,Raimundo Antonio Palmeira De Araujo,Raimundo Palmeira,19,PTN,senador,advogado,43,masculino,ensino superior completo,casado(a),AL,NA
+2002,BA,00075590549,488,251,Antonio Carlos Peixoto De Magalhães,Antonio Carlos Magalhães - Acm,25,PFL,senador,medico,75,masculino,ensino superior completo,casado(a),BA,NA
+2002,BA,00366544500,171,123,João Durval Carneiro,João Durval Carneiro,12,PDT,senador,pecuarista,73,masculino,ensino superior completo,casado(a),BA,NA
+2002,BA,02053853549,337,133,Francisco Waldir Pires De Souza,Waldir Pires,13,PT,senador,senador deputado e vereador,76,masculino,ensino superior completo,casado(a),BA,NA
+2002,BA,02678730778,936,261,José Silva Gazar,José Silva Gazar,26,PAN,senador,nao informada,67,masculino,NA,casado(a),BA,NA
+2002,BA,03316637591,487,252,César Augusto Rabello Borges,César Borges,25,PFL,senador,engenheiro,54,masculino,ensino superior completo,divorciado(a),BA,NA
+2002,BA,04675118534,355,651,Haroldo Borges Rodrigues Lima,Haroldo Lima,65,PC do B,senador,senador deputado e vereador,64,masculino,ensino superior completo,casado(a),NA,NA
+2002,BA,09111921587,1299,451,Maria Del Carmen Fidalgo Sanchez Puga,Maria Del Carmen,45,PSDB,senador,engenheiro,54,feminino,ensino superior completo,casado(a),ZZ,NA
+2002,BA,12068772191,852,401,Ruy Corrêa  Soares,Ruy Corrêa,40,PSB,senador,advogado,48,masculino,ensino superior completo,solteiro(a),MG,NA
+2002,BA,15912302504,875,161,Luis Carlos França,França,16,PSTU,senador,tecnico de eletricidade eletronica e telecomunicacoes,43,masculino,ensino medio completo,casado(a),BA,NA
+2002,BA,31328148572,170,299,Alberto Rodrigues Nunes,Alberto Nunes,29,PCO,senador,comerciario,38,masculino,ensino medio incompleto,solteiro(a),BA,NA
+2002,DF,00022187120,469,115,Jofran Frejat,Jofran Frejat,11,PPB,senador,medico,65,masculino,ensino superior completo,divorciado(a),PI,NA
+2002,DF,00055379168,321,123,Lauro Alvares Da Silva Campos,Lauro Campos,12,PDT,senador,senador deputado e vereador,74,masculino,ensino superior completo,casado(a),MG,NA
+2002,DF,00373001487,1574,281,Paulo Izaias De Macêdo Filho,Coronel Paulo Izaias,28,PRTB,senador,militar reformado,70,masculino,ensino superior completo,viuvo(a),RN,NA
+2002,DF,02362163172,686,255,Paulo Octavio Alves Pereira,Pauloctávio,25,PFL,senador,senador deputado e vereador,53,masculino,ensino superior completo,casado(a),MG,NA
+2002,DF,03781895734,1032,701,Celson Carlos Batista De Oliveira,Celson Batista De Oliveira,70,PT do B,senador,nao informada,68,masculino,ensino superior completo,casado(a),MG,NA
+2002,DF,03881113134,1577,223,Gedalias Neves Da Costa,Pastor Gedalias,22,PL,senador,servidor publico civil aposentado,55,masculino,ensino superior completo,casado(a),MG,NA
+2002,DF,04621107100,480,151,José Casimiro Sobrinho,Casimiro,15,PMDB,senador,nao informada,53,masculino,ensino superior incompleto,casado(a),CE,NA
+2002,DF,06811442115,464,433,João Arnolfo Carvalho De Oliveira,João Arnolfo,43,PV,senador,economista,52,masculino,ensino superior completo,divorciado(a),GO,NA
+2002,DF,22364129168,805,133,Cristovam Ricardo Cavalcanti Buarque,Cristovam,13,PT,senador,professor de ensino superior,59,masculino,ensino superior completo,casado(a),PE,NA
+2002,DF,26656388191,493,290,Gilson Vasconcelos Dobbin,Gilson Dobbin,29,PCO,senador,servidor publico federal,39,masculino,ensino superior completo,casado(a),DF,NA
+2002,DF,29380065000,479,656,Fredo Ebling Júnior,Fredo,65,PC do B,senador,nao informada,47,masculino,ensino superior completo,casado(a),RS,NA
+2002,DF,38013908100,304,161,Antonio Ricardo Martins Guillen,Ricardo Guillen,16,PSTU,senador,professor de ensino de primeiro e segundo graus,42,masculino,ensino superior completo,divorciado(a),SP,NA
+2002,DF,60987936034,1655,199,Milton Cintra E Silva,Milton Cintra,19,PTN,senador,empresario,55,masculino,ensino superior completo,casado(a),AM,NA
+2002,CE,00044512368,384,152,Paulo De Tarso Lustosa Da Costa,Paulo Lustosa,15,PMDB,senador,economista,58,masculino,ensino superior completo,casado(a),CE,NA
+2002,CE,00152242368,1352,400,Eudoro Walter De Santana,Eudoro Santana Eudoro,40,PSB,senador,engenheiro,66,masculino,ensino superior completo,casado(a),CE,NA
+2002,CE,01032852372,787,456,Tasso Ribeiro Jereissati,Tasso,45,PSDB,senador,empresario,54,masculino,ensino superior completo,casado(a),CE,NA
+2002,CE,03178463372,620,131,Mario Mamede Filho,Mario Mamede,13,PT,senador,medico,56,masculino,ensino superior completo,divorciado(a),CE,NA
+2002,CE,10971750300,278,310,Paulo De Tarso Melo Lima,Paulo De Tarso,31,PHS,senador,professor de ensino de primeiro e segundo graus,46,masculino,ensino superior completo,solteiro(a),CE,NA
+2002,CE,11114240397,506,161,Raimundo José Aguiar Ribeiro,Aguiar,16,PSTU,senador,servidor publico federal,46,masculino,ensino superior completo,solteiro(a),CE,NA
+2002,CE,25886878300,1360,234,Patrícia Lúcia Saboya Ferreira Gomes,Patricia Gomes,23,PPS,senador,senador deputado e vereador,40,feminino,ensino superior completo,divorciado(a),CE,NA
+2002,CE,32983506720,615,222,Gelson Ferraz De Medeiros,Pastor Gelson Ferraz,22,PL,senador,senador deputado e vereador,50,masculino,ensino medio completo,casado(a),RJ,NA
+2002,ES,09629521768,463,155,Gerson Camata,Gerson Camata,15,PMDB,senador,economista,61,masculino,ensino superior completo,casado(a),ES,NA
+2002,ES,15272567404,289,222,Magno Pereira Malta,Magno Malta,22,PL,senador,senador deputado e vereador,45,masculino,ensino medio completo,casado(a),BA,NA
+2002,ES,39495760704,112,131,João Carlos Coser,João Coser,13,PT,senador,senador deputado e vereador,47,masculino,ensino superior completo,casado(a),ES,NA
+2002,ES,49321331700,158,400,Odmar Pericles Nascimento,Odmar Nascimento,40,PSB,senador,sociologo,44,masculino,ensino superior completo,casado(a),ES,NA
+2002,ES,68213832787,160,433,Ricardo Rosetti Conde,Ricardo Conde,43,PV,senador,professor de ensino superior,41,masculino,ensino superior completo,casado(a),ES,NA
+2002,ES,77488040791,33,234,Ricardo Rezende Ferraço,Ricardo Ferraço,23,PPS,senador,senador deputado e vereador,39,masculino,ensino medio completo,casado(a),ES,NA
+2002,ES,89733240710,83,290,Elias Da Costa Coelho,Elias Coelho,29,PCO,senador,agente postal,39,masculino,ensino medio completo,casado(a),BA,NA
+2002,AC,00088358291,236,152,Nabor Teles Da Rocha Junior,Nabor Junior,15,PMDB,senador,comerciante,72,masculino,ensino medio completo,casado(a),AC,NA
+2002,AC,06683975191,428,400,Geraldo Gurgel De Mesquita Júnior,Geraldinho Mesquita,40,PSB,senador,servidor publico federal,54,masculino,ensino superior completo,casado(a),CE,NA
+2002,AC,11980761272,99,131,Maria Osmarina Marina Silva De Souza,Marina Silva,13,PT,senador,professor de ensino de primeiro e segundo graus,45,feminino,ensino superior completo,casado(a),AC,NA
+2002,AC,23573562353,575,170,Jose Aleksandro Da Silva,Alex,17,PSL,senador,outros,37,masculino,ensino superior completo,casado(a),CE,NA
+2002,AC,23796332153,559,234,Marcio Miguel Bittar,Marcio Bittar,23,PPS,senador,pecuarista,39,masculino,ensino medio completo,casado(a),SP,NA
+2002,AC,35747676849,240,456,Sergio Sebastião De Barros,Sergio Barros,45,PSDB,senador,agronomo,51,masculino,ensino superior completo,casado(a),SP,NA
+2002,MS,00174742134,148,180,Pedro Pedrossian,Pedro Pedrossian,18,PST,senador,pecuarista,74,masculino,ensino superior completo,casado(a),MS,NA
+2002,MS,00254819168,253,151,Ramez Tebet,Ramez Tebet,15,PMDB,senador,advogado,66,masculino,ensino superior completo,casado(a),MS,NA
+2002,MS,01127982842,485,138,Delcidio Amaral Gomez,Delcidio,13,PT,senador,engenheiro,48,masculino,ensino superior completo,casado(a),MS,NA
+2002,MS,10203249453,300,432,Carlos Antonio Menezes Leite,Carlos Leite,43,PV,senador,agronomo,47,masculino,ensino superior completo,casado(a),PE,NA
+2002,MS,21407690078,337,407,Joao Derli Farias Souza,Joao Derli,40,PSB,senador,advogado,45,masculino,ensino superior completo,casado(a),RS,NA
+2002,MS,31329861191,191,234,Athayde Nery De Freitas Junior,Athayde Nery,23,PPS,senador,advogado,38,masculino,ensino superior completo,divorciado(a),MS,NA
+2002,MS,40364950110,339,404,Ubirajara Borges Martins,Dr. Ubirajara Martins,40,PSB,senador,advogado,36,masculino,ensino superior completo,casado(a),RS,NA
+2002,PA,00048968234,469,152,Aurelio Correa Do Carmo,Aurelio Do Carmo,15,PMDB,senador,advogado,81,masculino,ensino superior completo,casado(a),PA,NA
+2002,PA,00059536268,253,111,Gerson Dos Santos Peres,Gerson Peres,11,PPB,senador,advogado,71,masculino,ensino superior completo,casado(a),PA,NA
+2002,PA,00271446234,246,231,Telma De Carvalho Lobo,Telma Lobo,23,PPS,senador,aposentado (exceto servidor publico),57,feminino,ensino superior completo,divorciado(a),PA,NA
+2002,PA,00371025249,242,141,Sahid Xerfan,Xerfan,14,PTB,senador,senador deputado e vereador,61,masculino,ensino medio completo,casado(a),SP,NA
+2002,PA,00605387249,230,151,Elcione Therezinha Zahluth Barbalho,Elcione ,15,PMDB,senador,senador deputado e vereador,58,feminino,ensino superior completo,divorciado(a),PA,NA
+2002,PA,09540687268,710,161,João Orlando Galeno Amaral,Galeno,16,PSTU,senador,marinheiro civil canoeiro embarcado e assemelhados,58,masculino,ensino medio completo,casado(a),PI,NA
+2002,PA,11816384291,226,131,Ana Júlia De Vasconcelos Carepa,Ana Júlia,13,PT,senador,arquiteto,45,feminino,ensino superior completo,divorciado(a),PA,NA
+2002,PA,17391857220,428,654,Neuton Miranda Sobrinho,Neuton Miranda,65,PC do B,senador,administrador,55,masculino,ensino superior incompleto,casado(a),PA,NA
+2002,PA,18620060244,616,177,Raul Batista De Souza,Pastor Raul,17,PSL,senador,nao informada,39,masculino,ensino medio incompleto,casado(a),PA,NA
+2002,PA,21172625204,241,401,Isabel Maria Brito Pimentel,Isabel,40,PSB,senador,enfermeiro,41,feminino,ensino medio completo,casado(a),GO,NA
+2002,PA,25881396200,252,123,Raimundo Pinheiro Dos Santos,Raimundo,12,PDT,senador,nao informada,36,masculino,ensino medio completo,solteiro(a),PA,NA
+2002,MG,00011479191,1133,123,Israel Pinheiro Filho,Israel Pinheiro ,12,PDT,senador,engenheiro,72,masculino,ensino superior completo,divorciado(a),MG,NA
+2002,MG,00156078600,3238,233,Marcos Villela De Sant'anna,Marcos Sant'anna,23,PPS,senador,engenheiro,64,masculino,ensino superior completo,casado(a),MG,NA
+2002,MG,00653446691,913,456,Eduardo Brandão De Azeredo,Eduardo Azeredo,45,PSDB,senador,engenheiro,54,masculino,ensino superior completo,casado(a),MG,NA
+2002,MG,04762991600,935,150,Hélio Calixto Da Costa,Hélio Costa,15,PMDB,senador,jornalista e redator,63,masculino,ensino superior completo,casado(a),MG,NA
+2002,MG,04857330644,1256,441,Tibelindo Soares Resende,Tibé,44,PRP,senador,aposentado (exceto servidor publico),72,masculino,ensino medio completo,casado(a),BA,NA
+2002,MG,06465319802,882,361,Ângelo Elmo De Melo,Ângelo Elmo De Melo,36,PTC,senador,comerciante,38,masculino,ensino superior incompleto,solteiro(a),MG,NA
+2002,MG,06847110600,1004,401,Sebastião De Barros Quintão,Sebastião Quintão,40,PSB,senador,empresario,59,masculino,ensino superior completo,casado(a),MG,NA
+2002,MG,22182861653,1134,181,Mário De Oliveira,Mário De Oliveira,18,PST,senador,senador deputado e vereador,57,masculino,ensino fundamental incompleto,solteiro(a),SP,NA
+2002,MG,24267252653,1103,162,Amós Lopes De Carvalho,Amós,16,PSTU,senador,trabalhador metalurgico e siderurgico,45,masculino,ensino medio completo,casado(a),MG,NA
+2002,MG,24935590610,1009,299,Angela Maria Neri Peres,Negra Angela,29,PCO,senador,agente administrativo,48,feminino,ensino medio completo,casado(a),MG,NA
+2002,MG,26998645600,923,256,José Perrella De Oliveira Costa,Zezé Perrella,25,PFL,senador,empresario,46,masculino,ensino medio completo,casado(a),MG,NA
+2002,MG,37160338634,1137,413,Camilo Dos Santos,Camilo Dos Santos,41,PSD,senador,comerciante,42,masculino,ensino medio incompleto,divorciado(a),MG,NA
+2002,MG,58638288891,1289,131,Tilden José Santiago,Tilden Santiago,13,PT,senador,jornalista e redator,62,masculino,ensino superior completo,divorciado(a),MG,NA
+2002,MG,74022466634,1098,161,Soraya Andrea Menezes,Soraya Menezes,16,PSTU,senador,tecnico de enfermagem e trabalhador assemelhado (exceto enfermeiro),40,feminino,ensino medio completo,solteiro(a),MG,NA
+2002,GO,00247570125,258,151,Iris Rezende Machado,Iris Rezende,15,PMDB,senador,advogado,69,masculino,ensino superior completo,casado(a),GO,NA
+2002,GO,00454559100,266,152,Mauro Miranda Soares,Mauro Miranda,15,PMDB,senador,senador deputado e vereador,62,masculino,ensino superior completo,casado(a),MG,NA
+2002,GO,06693563104,632,131,Clelia Brandao Alvarenga Craveiro,Clélia Brandão,13,PT,senador,nao informada,53,feminino,ensino superior completo,casado(a),GO,NA
+2002,GO,18298702115,432,433,Martiniano Pereira Cavalcante Neto,Martiniano Cavalcante,43,PV,senador,outros,44,masculino,ensino superior completo,casado(a),GO,NA
+2002,GO,24492620168,418,231,Luciano Pedroso Bento,Luciano Pedroso,23,PPS,senador,outros,41,masculino,ensino superior completo,casado(a),GO,NA
+2002,GO,25180410100,408,251,Demostenes Lazaro Xavier Torres,Demostenes Torres,25,PFL,senador,servidor publico estadual,42,masculino,ensino superior completo,casado(a),GO,NA
+2002,GO,41365437191,241,161,Fernando Batista Leite,Fernando Leite,16,PSTU,senador,nao informada,35,masculino,ensino superior completo,casado(a),GO,NA
+2002,GO,41949820106,229,404,Miguel Angel Davico,Pastor Miguel,40,PSB,senador,professor de ensino superior,46,masculino,ensino superior completo,casado(a),ZZ,NA
+2002,GO,50908332149,451,451,Lucia Vania Abrao Costa,Lucia Vania,45,PSDB,senador,outros,58,feminino,ensino superior completo,casado(a),GO,NA
+2002,GO,59242191787,424,141,Luiz Augusto Ferraz Roma,Pupo Roma,14,PTB,senador,outros,45,masculino,ensino superior completo,casado(a),SP,NA
+2002,SC,01866648934,104,131,Milton Mendes De Oliveira,Milton Mendes,13,PT,senador,advogado,50,masculino,ensino superior completo,casado(a),SC,NA
+2002,SC,02165589991,191,151,Casildo João Maldaner,Casildo Maldaner,15,PMDB,senador,senador deputado e vereador,60,masculino,ensino superior completo,casado(a),RS,NA
+2002,SC,22022430972,400,111,Hugo Matias Biehl,Hugo Biehl,11,PPB,senador,senador deputado e vereador,50,masculino,ensino superior completo,casado(a),SC,NA
+2002,SC,22270027949,95,130,Ideli Salvatti,Ideli Salvatti,13,PT,senador,professor de ensino superior,51,feminino,ensino superior completo,divorciado(a),SP,NA
+2002,SC,24610470900,347,411,Evaldino Leite,Evaldino Leite,41,PSD,senador,agente administrativo,49,masculino,ensino fundamental incompleto,casado(a),SC,NA
+2002,SC,29150728920,198,456,Leonel Arcangelo Pavan,Leonel Pavan,45,PSDB,senador,empresario,48,masculino,ensino superior incompleto,casado(a),RS,NA
+2002,SC,29868998972,261,432,Gerson Antonio Basso,Gerson Basso,43,PV,senador,nao informada,48,masculino,ensino superior completo,casado(a),SC,NA
+2002,SC,44227132991,188,162,Viviani Bleyer Remor,Viviani Remor,16,PSTU,senador,secretarioestenografodatilograforecepcionistatelefonistataquigraf,41,feminino,ensino superior completo,divorciado(a),SC,NA
+2002,SC,48875589968,399,252,Paulo Roberto Barreto Bornhausen,Paulinho Bornhausen,25,PFL,senador,advogado,39,masculino,ensino superior completo,divorciado(a),SC,NA
+2002,SC,57618810982,184,161,Carlos Rogério Müller,Carlos Müller,16,PSTU,senador,professor de ensino superior,40,masculino,ensino superior completo,solteiro(a),RS,NA
+2002,SC,70843848987,541,234,Elisiani Schmidt Sanches,Elisiani Sanches,23,PPS,senador,senador deputado e vereador,35,feminino,ensino superior incompleto,casado(a),RS,NA
+2002,MT,00173827187,301,251,Jonas Pinheiro Da Silva,Jonas Pinheiro,25,PFL,senador,senador deputado e vereador,62,masculino,ensino superior completo,casado(a),MT,NA
+2002,MT,00524697191,483,121,Mario Márcio Gomes Torres,Mario Márcio Torres,12,PDT,senador,jornalista e redator,51,masculino,ensino medio incompleto,divorciado(a),MS,NA
+2002,MT,00834939134,356,155,Carlos Gomes Bezerra,Carlos Bezerra,15,PMDB,senador,senador deputado e vereador,61,masculino,ensino superior completo,casado(a),MT,NA
+2002,MT,11121548172,150,308,Jaques Souza De Carvalho,Jaques,30,PGT,senador,professor de ensino de primeiro e segundo graus,55,masculino,ensino superior completo,casado(a),MT,NA
+2002,MT,16034236134,401,455,Dante Martins De Oliveira,Dante De Oliveira,45,PSDB,senador,engenheiro,51,masculino,ensino superior completo,casado(a),MT,NA
+2002,MT,24239330882,645,141,Murilo Domingos,Murilo Domingos,14,PTB,senador,senador deputado e vereador,62,masculino,ensino superior completo,casado(a),SP,NA
+2002,MT,32956754149,335,404,Jacy Ribeiro De Proença,Profª  Jacy Proença,40,PSB,senador,professor de ensino de primeiro e segundo graus,39,feminino,ensino superior completo,casado(a),MT,NA
+2002,MT,43790720704,227,131,Serys Marly Slhessarenko,Serys,13,PT,senador,senador deputado e vereador,57,feminino,ensino superior completo,casado(a),RS,NA
+2002,PI,01090046391,347,151,Francisco De Assis De Moraes Souza,Mão Santa,15,PMDB,senador,medico,60,masculino,ensino superior completo,casado(a),PI,NA
+2002,PI,01446541304,418,331,Francisco Barbosa De Macedo,Francisco Macedo,33,PMN,senador,servidor publico civil aposentado,56,masculino,ensino superior completo,viuvo(a),PI,NA
+2002,PI,02547660300,266,456,Antonio De Almendra Freitas Neto,Freitas Neto,45,PSDB,senador,senador deputado e vereador,56,masculino,ensino medio completo,divorciado(a),PI,NA
+2002,PI,04737210315,411,131,Roberto John Gonçalves Da Silva,Roberto John,13,PT,senador,professor de ensino superior,50,masculino,ensino superior completo,divorciado(a),PI,NA
+2002,PI,06342850410,269,251,Heraclito De Sousa Fortes,Heraclito Fortes,25,PFL,senador,senador deputado e vereador,52,masculino,ensino medio completo,casado(a),PI,NA
+2002,PI,07248490768,351,152,Carlos Alberto De Melo Lobo,Carlos Lobo,15,PMDB,senador,professor de ensino superior,63,masculino,ensino superior completo,casado(a),PI,NA
+2002,PI,11213132304,666,123,Pedro Laurentino Reis Pereira,Pedro Laurentino,12,PDT,senador,senador deputado e vereador,46,masculino,ensino superior incompleto,casado(a),PI,NA
+2002,PI,13174967368,789,400,Luiz Carlos De Oliveira Silva,Luiz Carlos,40,PSB,senador,jornalista e redator,44,masculino,ensino superior completo,casado(a),PI,NA
+2002,PI,13398610382,629,432,Robespierre Pereira Bastos,Dr. Robespierre Bastos,43,PV,senador,medico,45,masculino,ensino superior completo,casado(a),PI,NA
+2002,PI,27424430378,624,300,Jeferson Leite Ferreira,Jeferson Leite,30,PGT,senador,bancario e economiario,39,masculino,ensino superior completo,solteiro(a),PI,NA
+2002,PI,35084553353,600,166,João Gervasio Dos Santos Neto,Gervasio Santos,16,PSTU,senador,nao informada,NA,masculino,ensino superior completo,casado(a),PI,NA
+2002,RJ,00447820710,1655,456,Paulo Alberto Artur Da Tavola Moretzsohn Monteiro De Barros,Artur Da Tavola,45,PSDB,senador,jornalista e redator,67,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RJ,06476945734,1361,311,Jovelino Ribeiro,Jovelino,31,PHS,senador,advogado,66,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RJ,13962884815,1614,111,Manoel Ferreira,Pastor Manoel Ferreira,11,PPB,senador,advogado,70,masculino,ensino superior completo,casado(a),SP,NA
+2002,RJ,17572401791,2422,191,Paulo Roberto De Mello Santoro,Coronel Paulo Santoro,19,PTN,senador,membro das forcas armadas,57,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RJ,21941157734,2794,262,Ulisses Martins,Padre Ulisses Martins,26,PAN,senador,sacerdote ou membro de ordem ou seita religiosa,59,masculino,ensino superior completo,solteiro(a),SP,NA
+2002,RJ,36796174704,1634,161,Florinda Moreira Lombardi,Florinda,16,PSTU,senador,professor de ensino de primeiro e segundo graus,52,feminino,ensino superior completo,solteiro(a),NA,NA
+2002,RJ,37138057768,1213,213,Luis Fernando De Oliveira Gutman,Gutman,21,PCB,senador,engenheiro,51,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RJ,39229092720,2736,561,Marcilio Alexandre Quaresma De Oliveira,Marcílio Quaresma,56,PRONA,senador,advogado,47,masculino,ensino superior completo,casado(a),MG,NA
+2002,RJ,43425909720,1943,123,Carlos Roberto Lupi,Lupi,12,PDT,senador,administrador,46,masculino,ensino superior completo,solteiro(a),SP,NA
+2002,RJ,43914446749,1679,131,Edson Santos De Souza,Edson Santos,13,PT,senador,senador deputado e vereador,48,masculino,ensino superior incompleto,divorciado(a),RJ,NA
+2002,RJ,46392319700,1019,222,Marcelo Bezerra Crivella,Marcelo Crivella,22,PL,senador,engenheiro,45,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RJ,52269760700,3463,282,Carlos Alberto Pereira Marques,Carlos Alberto Marques,28,PRTB,senador,engenheiro,45,masculino,NA,divorciado(a),RJ,NA
+2002,RJ,58449728487,1548,656,Fernando Paulo Figueiredo Buarque De Gusmão,Fernando Gusmão,65,PC do B,senador,senador deputado e vereador,35,masculino,ensino superior incompleto,casado(a),PE,NA
+2002,RJ,62748386787,2419,281,Jânio Carlos Almeida De Carvalho,Jânio Carlos,28,PRTB,senador,advogado,43,masculino,ensino superior completo,solteiro(a),MG,NA
+2002,RJ,63440547787,3113,223,Liliam Sa De Paula,Liliam Sá,22,PL,senador,empresario e produtor de espetaculos publicos,42,feminino,ensino medio completo,casado(a),RJ,NA
+2002,RJ,63504081791,1298,701,Joao Miguel Lima Estephanio,João Miguel,70,PT do B,senador,empresario,41,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RJ,63637030772,2661,162,Octacilio Pereira Ramalho,Otacilio,16,PSTU,senador,bancario e economiario,41,masculino,ensino superior incompleto,divorciado(a),RJ,NA
+2002,RJ,73327921768,1603,122,Leonel De Moura Brizola,Leonel Brizola,12,PDT,senador,engenheiro,81,masculino,ensino superior completo,viuvo(a),RS,NA
+2002,RJ,74463659787,1619,155,Sergio De Oliveira Cabral Santos Filho,Sérgio Cabral,15,PMDB,senador,jornalista e redator,40,masculino,ensino superior completo,divorciado(a),RJ,NA
+2002,RJ,98857347753,1126,431,Willy Ortiz De Oliveira,Willy,43,PV,senador,professor de ensino de primeiro e segundo graus,40,masculino,ensino superior completo,solteiro(a),BA,NA
+2002,SE,00409090506,541,404,Antonio Carlos Valadares,Valadares,40,PSB,senador,senador deputado e vereador,59,masculino,ensino superior completo,divorciado(a),SE,NA
+2002,SE,00728812835,101,161,Dalvacir Azevedo De Gois,Dalvacir,16,PSTU,senador,outros,44,feminino,ensino superior completo,divorciado(a),RN,NA
+2002,SE,01086030591,117,333,João Augusto Gama Da Silva,Gama,33,PMN,senador,comerciante,56,masculino,ensino superior completo,casado(a),SE,NA
+2002,SE,02245337549,544,150,Benedito De Figueiredo,Benedito Figueiredo,15,PMDB,senador,advogado,59,masculino,ensino superior completo,casado(a),SE,NA
+2002,SE,05177960587,309,301,José Antonio De Lima,Antonio Lima Pai Veio,30,PGT,senador,nao informada,55,masculino,ensino medio completo,divorciado(a),SE,NA
+2002,SE,05194466587,525,282,Rafael De Paula Faria,Rafael De Paula,28,PRTB,senador,empresario,54,masculino,ensino fundamental completo,casado(a),MG,NA
+2002,SE,05707463534,308,302,José Soares Pinto,Soares Pinto,30,PGT,senador,outros,56,masculino,ensino superior completo,casado(a),SE,NA
+2002,SE,06739890544,93,267,Genivaldo Monteiro Santos,Genivaldo Monteiro,26,PAN,senador,quimico,55,masculino,ensino superior completo,casado(a),SE,NA
+2002,SE,06827845591,522,141,Jeronimo De Oliveira Reis,Jeronimo Reis,14,PTB,senador,comerciante,47,masculino,ensino fundamental completo,divorciado(a),SE,NA
+2002,SE,07285124591,114,444,José Renato Lima Sampaio,Renato Sampaio,44,PRP,senador,membro do ministerio publico,52,masculino,ensino superior completo,casado(a),SE,NA
+2002,SE,10223738549,461,123,José Almeida Lima,Almeida Lima,12,PDT,senador,advogado,49,masculino,ensino superior completo,casado(a),SE,NA
+2002,SE,15542092500,547,456,Ivan Santos Leite,Ivan Leite,45,PSDB,senador,engenheiro,47,masculino,ensino superior completo,casado(a),SE,NA
+2002,SE,26706210587,84,266,José Aélio De Argôlo,Aélio Argolo,26,PAN,senador,outros,40,masculino,ensino superior completo,casado(a),SE,NA
+2002,PB,00343897415,340,152,Tarcísio De Miranda Buriti,Burity,15,PMDB,senador,advogado,64,masculino,ensino superior completo,casado(a),PB,NA
+2002,PB,00471739472,347,151,Jose Targino Maranhão,Zé Maranhão ,15,PMDB,senador,empresario,66,masculino,ensino superior completo,divorciado(a),PB,NA
+2002,PB,00568805453,140,252,Wilson Leite Braga,Wilson Braga,25,PFL,senador,senador deputado e vereador,71,masculino,ensino superior completo,casado(a),PB,NA
+2002,PB,07105878487,355,400,Antonio Barbosa Da Silva,Bala,40,PSB,senador,farmaceutico,49,masculino,ensino superior completo,casado(a),PB,NA
+2002,PB,10873023404,130,251,Efraim De Araújo Morais,Efraim Morais,25,PFL,senador,senador deputado e vereador,50,masculino,ensino superior completo,casado(a),PB,NA
+2002,PB,13253220400,256,231,Hermano Nepomuceno Araujo,Hermano,23,PPS,senador,professor de ensino superior,50,masculino,ensino superior completo,casado(a),PB,NA
+2002,PB,16157427434,363,161,Tania Maria De Oliveira Brito,Tânia Brito,16,PSTU,senador,servidor publico federal,47,feminino,ensino superior completo,divorciado(a),PB,NA
+2002,PB,28843401491,292,299,Joseilson Freitas Moura,Joseilson Freitas,29,PCO,senador,agente postal,42,masculino,ensino medio completo,casado(a),PB,NA
+2002,PB,31858651468,53,654,Simão De Almeida Neto,Simão,65,PC do B,senador,servidor publico federal,59,masculino,ensino superior completo,casado(a),PB,NA
+2002,PB,37975854468,55,203,Ana Lígia Costa Feliciano,Dra. Lígia,20,PSC,senador,medico,45,feminino,ensino superior completo,casado(a),PB,NA
+2002,PE,00014540487,238,256,Marco Antonio De Oliveira Maciel,Marco Maciel,25,PFL,senador,outros,62,masculino,ensino superior completo,casado(a),PE,NA
+2002,PE,01559982420,452,400,João De Andrade Arraes,João Arraes,40,PSB,senador,servidor publico civil aposentado,58,masculino,ensino superior completo,casado(a),PE,NA
+2002,PE,01659367468,232,456,Severino Sérgio Estelita Guerra,Sérgio Guerra,45,PSDB,senador,senador deputado e vereador,55,masculino,ensino superior completo,casado(a),PE,NA
+2002,PE,05938180759,695,232,Nelson Borges Gonçalves,Nelson Borges,23,PPS,senador,economista,59,masculino,ensino superior completo,NA,SP,NA
+2002,PE,07300859100,642,141,Carlos Wilson Rocha De Queiroz Campos,Carlos Wilson,14,PTB,senador,senador deputado e vereador,53,masculino,ensino superior incompleto,divorciado(a),PE,NA
+2002,PE,12222623472,857,300,Milson Xavier De Carvalho,Milson,30,PGT,senador,contador,49,masculino,ensino superior completo,casado(a),PE,NA
+2002,PE,12330191472,659,131,Dilson De Moura Peixoto Filho,Dilson Peixoto,13,PT,senador,tecnico de eletricidade eletronica e telecomunicacoes,45,masculino,ensino medio completo,casado(a),PE,NA
+2002,PE,12471925472,117,262,Samuel Marcelino Da Silva,Professor Marcelino,26,PAN,senador,professor de ensino de primeiro e segundo graus,60,masculino,ensino superior completo,casado(a),PE,NA
+2002,PE,12738603491,111,261,Ocidir Potes Vale,Cidinho,26,PAN,senador,servidor publico estadual,47,masculino,ensino superior completo,divorciado(a),PE,NA
+2002,PE,23595841468,1302,299,Marytz Mendes Barros,Marytz Mendes,29,PCO,senador,professor de ensino de primeiro e segundo graus,47,feminino,ensino medio completo,solteiro(a),PE,NA
+2002,PE,34603905491,308,161,Katia Maria Da Silva Telles,Kátia Telles,16,PSTU,senador,servidor publico federal,47,feminino,ensino superior completo,divorciado(a),PE,NA
+2002,PE,38709260404,314,162,José Carlos Pantaleão Da Silva,Pantaleão,16,PSTU,senador,servidor publico municipal,39,masculino,ensino medio completo,casado(a),PE,NA
+2002,RN,00084000406,235,456,Geraldo José Da Câmara Ferreira De Melo,Geraldo Melo,45,PSDB,senador,senador deputado e vereador,67,masculino,NA,casado(a),RN,NA
+2002,RN,00320315487,341,253,Augusto Carlos Garcia De Viveiros,Augusto Viveiros,25,PFL,senador,advogado,60,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,00363090444,163,404,Ismael Wanderley Gomes Filho,Ismael Wanderley,40,PSB,senador,advogado,61,masculino,ensino superior completo,divorciado(a),PB,NA
+2002,RN,00441392415,342,252,José Agripino Maia,José Agripino,25,PFL,senador,engenheiro,57,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,00442810482,228,154,Garibaldi Alves Filho,Garibaldi Filho,15,PMDB,senador,jornalista e redator,56,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,01980181420,113,122,Alvacir Nobre Praxedes,Alvacir Praxedes,12,PDT,senador,militar reformado,66,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,10656073420,588,444,Mauricio Pereira Dantas,Maurisom,44,PRP,senador,outros,50,masculino,ensino medio completo,casado(a),RN,NA
+2002,RN,10894349791,109,121,Henrique Miranda Sá Neto,Miranda Sá,12,PDT,senador,jornalista e redator,69,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,19258178491,282,133,Jose Marcelo De Souza,Marcelo Souza,13,PT,senador,bancario e economiario,44,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,20079559468,278,131,Hugo Manso Junior,Hugo Manso,13,PT,senador,engenheiro,43,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,32398212491,157,162,Fernando Antonio Soares Dos Santos,Fernando Antonio,16,PSTU,senador,sociologo,40,masculino,ensino superior completo,casado(a),RN,NA
+2002,RN,45522286415,152,161,Ana Célia Siqueira Ferreira,Ana Célia,16,PSTU,senador,professor de ensino de primeiro e segundo graus,36,feminino,ensino superior completo,solteiro(a),RN,NA
+2002,SP,00856008818,5481,266,Jose Costa,Diretor Jornalistico Josecosta,26,PAN,senador,jornalista e redator,42,masculino,ensino superior incompleto,casado(a),SP,NA
+2002,SP,01097334872,5534,252,Romeu Tuma,Romeu Tuma,25,PFL,senador,servidor publico civil aposentado,71,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,01162535849,5487,200,Jose Maria Marin,Marin,20,PSC,senador,advogado,70,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,01448351855,5494,281,Carlos Henrique Darde,Carlos Dardé,28,PRTB,senador,advogado,42,masculino,ensino superior completo,divorciado(a),SP,NA
+2002,SP,01659596815,8032,152,Floriano Leandrini,Leandrini,15,PMDB,senador,advogado,63,masculino,ensino superior completo,divorciado(a),SP,NA
+2002,SP,02140329813,5501,401,Rubens Wagner Calvo,Rubens Calvo,40,PSB,senador,medico,42,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,02400871868,5524,151,Orestes Quercia,Quercia,15,PMDB,senador,empresario,64,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,03920518853,5541,312,Jose Raul De Almeida Brasiliense Carneiro,Jose Raul Brasiliense,31,PHS,senador,advogado,71,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,05928773889,5514,301,Ademar Barros Bezerra,Ademar De Barros,30,PGT,senador,servidor publico estadual,38,masculino,ensino fundamental completo,casado(a),PI,NA
+2002,SP,08678553804,5529,270,Paulo Fernando Fortunato,Paulo Fortunato,27,PSDC,senador,outros,60,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,08954858856,5535,190,Thereza Tinajero Ruiz,Thereza Ruiz,19,PTN,senador,secretarioestenografodatilograforecepcionistatelefonistataquigraf,48,feminino,ensino superior completo,casado(a),SP,NA
+2002,SP,10662952200,5533,451,José Anibal Peres De Pontes,José Anibal,45,PSDB,senador,senador deputado e vereador,55,masculino,ensino superior completo,casado(a),RO,NA
+2002,SP,10825445825,5532,291,Wlamisa Carmo Moraes Feltrim,Wlamisa,29,PCO,senador,professor de ensino de primeiro e segundo graus,40,feminino,ensino superior incompleto,casado(a),PA,NA
+2002,SP,10986170887,5519,404,Mohamad Said Mourad,Mourad,40,PSB,senador,administrador,52,masculino,ensino superior completo,casado(a),ZZ,NA
+2002,SP,19730535868,5530,123,Eliseu Gabriel De Pieri,Eliseu Gabriel,12,PDT,senador,senador deputado e vereador,55,masculino,ensino superior completo,divorciado(a),SP,NA
+2002,SP,25845798809,5548,147,Willians Rafael Da Silva,Willians Rafael,14,PTB,senador,advogado,43,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,30166195804,5528,333,Lucas Albano Ribeiro Dos Santos,Lucas Albano,33,PMN,senador,advogado,52,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,47036753668,5491,162,Renato Bento Luiz,Renatão,16,PSTU,senador,trabalhador de usinagem de metais,40,masculino,ensino superior incompleto,solteiro(a),MG,NA
+2002,SP,50192400878,5536,434,Jose Luiz De França Penna,Penna,43,PV,senador,musico,57,masculino,NA,solteiro(a),RN,NA
+2002,SP,57117292849,5537,561,Paulo Cesar Correa,Dr. Paulo Correa,56,PRONA,senador,advogado,56,masculino,ensino superior completo,casado(a),SP,NA
+2002,SP,60910828849,5549,111,Antonio Henrique Bitencourt Cunha Bueno,Cunha Bueno,11,PPB,senador,corretor de imoveis seguros titulos e valores,53,masculino,ensino superior incompleto,divorciado(a),SP,NA
+2002,SP,67840990878,5538,292,Firmino Alves Rosa,Firmino,29,PCO,senador,trabalhador metalurgico e siderurgico,50,masculino,ensino superior completo,casado(a),MG,NA
+2002,SP,68344228891,5518,161,Mauro Ailton Puerro,Mauro Puerro,16,PSTU,senador,professor de ensino de primeiro e segundo graus,50,masculino,ensino superior incompleto,casado(a),SP,NA
+2002,SP,94107289834,5545,651,Wagner Gomes,Wagner Gomes,65,PC do B,senador,outros,45,masculino,ensino fundamental incompleto,casado(a),SP,NA
+2002,SP,96333731820,5542,131,Aloizio Mercadante Oliva,Mercadante,13,PT,senador,senador deputado e vereador,48,masculino,ensino superior completo,casado(a),SP,NA
+2006,AC,03766489291,10309,255,Francisco Chagas Da Costa Freitas,Chagas Freitas,25,PFL,senador,economista,52,masculino,ensino superior completo,solteiro(a),AC,NA
+2006,AC,09137394215,10028,131,Sebastião Afonso Viana Macedo Neves,Tião Viana,13,PT,senador,senador,46,masculino,ensino superior completo,casado(a),AC,NA
+2006,AC,19655924220,10002,277,Francisco Chagas Benício Dias,Chico Benicio,27,PSDC,senador,outros,42,masculino,ensino medio completo,casado(a),AC,NA
+2006,AC,21744580200,10159,500,Núcia Maria Canizo Ferreira,Núcia Maria,50,PSOL,senador,comerciante,40,feminino,ensino medio completo,solteiro(a),AC,NA
+2002,TO,01082183172,44,151,Moisés Nogueira Avelino,Moisés Avelino,15,PMDB,senador,nao informada,62,masculino,ensino superior completo,casado(a),PI,NA
+2002,TO,07525443149,82,252,Leomar De Melo Quintanilha,Leomar Quintanilha,25,PFL,senador,nao informada,57,masculino,ensino superior completo,casado(a),GO,NA
+2002,TO,11747145149,73,258,João Batista De Jesus Ribeiro,João Ribeiro,25,PFL,senador,nao informada,48,masculino,ensino medio completo,casado(a),GO,NA
+2002,TO,17025621153,51,231,Raul De Jesus Lustosa Filho,Raul Filho,23,PPS,senador,nao informada,44,masculino,ensino medio completo,casado(a),PI,NA
+2002,TO,36985597149,69,400,Célio Carmo De Sousa,Tenente Célio,40,PSB,senador,nao informada,36,masculino,ensino medio completo,casado(a),GO,NA
+2002,TO,76021068149,62,131,Divina Herly De Carvalho Santos,Divina Herly,13,PT,senador,professor de ensino de primeiro e segundo graus,37,feminino,ensino medio completo,casado(a),GO,NA
+2006,AL,02621380425,10171,123,Ronaldo Augusto Lessa Santos,Ronaldo Lessa,12,PDT,senador,engenheiro,57,masculino,ensino superior completo,divorciado(a),AL,NA
+2006,AL,02623897468,10144,500,Otavio Gomes Cabral Filho,Otavio Cabral,50,PSOL,senador,professor de ensino superior,59,masculino,ensino superior completo,casado(a),AL,NA
+2006,AL,02906287172,10541,288,Fernando Affonso Collor De Mello,Collor,28,PRTB,senador,economista,57,masculino,ensino superior completo,casado(a),RJ,NA
+2006,AL,04913434420,10053,251,José Thomaz Da Silva Nonô Netto,Nonô,25,PFL,senador,deputado,59,masculino,ensino superior completo,casado(a),AL,NA
+2006,AL,16403487434,10018,269,José Maria Vieira Da Silva,José Maria,26,PAN,senador,bancario e economiario,49,masculino,ensino superior completo,casado(a),AL,NA
+2006,AL,16448103449,10002,190,Armando Lôbo Pereira Gomes,Armando Lôbo,19,PTN,senador,administrador,49,masculino,ensino superior completo,casado(a),PE,NA
+2006,AL,21578621453,10045,222,Galba Novais De Castro Júnior,Galba Novaes,22,PL,senador,advogado,46,masculino,ensino superior completo,divorciado(a),AL,NA
+2006,AL,34741526453,10214,277,Jose Alfonso Dacal Mattos Nunes,Dacal,27,PSDC,senador,empresario,45,masculino,ensino fundamental completo,casado(a),AL,NA
+2006,AP,00060704349,10083,151,José Sarney,Sarney,15,PMDB,senador,senador,76,masculino,ensino superior completo,casado(a),MA,NA
+2006,AP,02440601268,10620,452,Juraci Freitas De Sousa,Juraci Freitas,45,PSDB,senador,comerciante,54,masculino,ensino fundamental completo,casado(a),AP,NA
+2006,AP,05597310860,10076,212,Ricardo Gonçalves Santos,Ricardo Santos,21,PCB,senador,advogado,42,masculino,ensino superior completo,solteiro(a),SP,NA
+2006,AP,25141619249,10200,401,Maria Cristina Do Rosário Almeida,Cristina Almeida 401,40,PSB,senador,tecnico contabilidade estatistica economia domestica e administracao,40,feminino,ensino superior completo,casado(a),AP,NA
+2006,AP,26356775220,10078,160,Liduina Bastos Do Nascimento,Liduina,16,PSTU,senador,cobrador de transporte coletivo,42,feminino,ensino medio completo,solteiro(a),PA,NA
+2006,AP,32948450225,10077,501,Celisa Penna Melo Capelari,Celisa Melo,50,PSOL,senador,pedagogo,38,feminino,ensino superior completo,viuvo(a),PA,NA
+2006,AP,34152741287,10566,441,Cosmo Ferreira Da Silva,Cosmo Silva,44,PRP,senador,desenhista,36,masculino,ensino medio completo,solteiro(a),AP,NA
+2006,CE,01611143349,10220,210,Tarcísio Leitão De Carvalho,Tarcísio Leitão,21,PCB,senador,advogado,71,masculino,ensino superior completo,viuvo(a),CE,NA
+2006,CE,09050752349,10271,656,Inácio Francisco De Assis Nunes Arruda,Inácio,65,PC do B,senador,servidor publico estadual,49,masculino,ensino superior incompleto,casado(a),CE,NA
+2006,CE,16104587291,10265,123,Maria Nair Fernandes Silva,Nair Fernandes,12,PDT,senador,servidor publico federal,63,feminino,ensino superior completo,divorciado(a),MG,NA
+2006,CE,23614994368,10094,271,Antonio Fernandes Da Silva Filho,Fernandes Filho,27,PSDC,senador,outros,42,masculino,ensino medio completo,divorciado(a),CE,NA
+2006,CE,32053878304,10223,161,Raimundo Pereira De Castro,Raimundão,16,PSTU,senador,trabalhador de construcao civil,57,masculino,ensino fundamental incompleto,casado(a),CE,NA
+2006,CE,33396671015,10064,252,Moroni Bing Torgan,Moroni,25,PFL,senador,deputado,50,masculino,ensino superior completo,casado(a),RS,NA
+2006,BA,00366544500,10570,123,João Durval Carneiro,João Durval,12,PDT,senador,outros,78,masculino,ensino superior completo,casado(a),BA,NA
+2006,BA,00597333815,10539,270,Jurandyr Czaczkes Chaves,Juca Chaves,27,PSDC,senador,cantor e compositor,68,masculino,ensino superior completo,casado(a),RJ,NA
+2006,BA,02372967568,10124,456,Antônio José Imbassahy Da Silva,Imbassahy,45,PSDB,senador,engenheiro,59,masculino,ensino superior completo,casado(a),BA,NA
+2006,BA,04699920500,10187,251,Rodolpho Tourinho Neto,Rodolfo Tourinho,25,PFL,senador,senador,65,masculino,ensino superior completo,divorciado(a),BA,NA
+2006,BA,21284628515,10986,161,Ednaldo Mendes Sacramento,Ednaldo Sacramento,16,PSTU,senador,petroleiro,47,masculino,ensino superior completo,casado(a),BA,NA
+2006,BA,33282897553,10856,505,André Luis Freitas Fonseca,André Luis,50,PSOL,senador,professor de ensino superior,42,masculino,ensino superior completo,divorciado(a),BA,NA
+2006,BA,60387840559,10192,299,José Maria Dos Santos,José Maria,29,PCO,senador,padeiro confeiteiro e assemelhados,35,masculino,le e escreve,casado(a),BA,NA
+2002,PR,00059200944,156,151,Paulo Cruz Pimentel,Paulo Pimentel,15,PMDB,senador,empresario,74,masculino,ensino superior completo,casado(a),SP,NA
+2002,PR,00072508949,621,231,Affonso Antoniuk,Dr Affonso Antoniuk,23,PPS,senador,medico,68,masculino,ensino superior completo,casado(a),PR,NA
+2002,PR,00249718987,273,560,Everaldo Silva,Silva,56,PRONA,senador,odontologo,63,masculino,ensino superior completo,divorciado(a),PR,NA
+2002,PR,05695295904,374,288,Abel De Souza Morangueira,Abel Morangueira,28,PRTB,senador,advogado,54,masculino,ensino superior completo,casado(a),PR,NA
+2002,PR,07244347987,703,131,Edésio Franco Passos,Edésio Passos,13,PT,senador,advogado,63,masculino,ensino superior completo,casado(a),PR,NA
+2002,PR,08002851404,445,401,Ralph Durval Moreira De Souza,Ralph,40,PSB,senador,jornalista e redator,49,masculino,ensino superior completo,viuvo(a),BA,NA
+2002,PR,15173291915,185,414,Aristides Mossambani,Mossambani ,41,PSD,senador,comerciante,50,masculino,ensino superior completo,casado(a),PR,NA
+2002,PR,17198828949,403,123,Osmar Fernandes Dias,Osmar Dias,12,PDT,senador,agronomo,50,masculino,ensino superior completo,divorciado(a),SP,NA
+2002,PR,18516440915,721,133,Flávio José Arns,Flávio Arns,13,PT,senador,senador deputado e vereador,52,masculino,ensino superior completo,casado(a),PR,NA
+2002,PR,30777674904,146,430,Eda Maria Slomp,Eda Slomp,43,PV,senador,arquiteto,56,feminino,ensino superior completo,casado(a),SC,NA
+2002,PR,32010877934,55,252,Luciano Pizzatto,Pizzatto,25,PFL,senador,empresario,46,masculino,ensino superior completo,casado(a),PR,NA
+2002,PR,35949040910,414,111,Antonio Celso Garcia,Tony Garcia,11,PPB,senador,empresario,49,masculino,ensino superior incompleto,casado(a),SP,NA
+2002,PR,36802034972,1063,452,Nitis Jacon De Araujo Moreira,Nitis Jacon,45,PSDB,senador,medico,67,feminino,ensino superior completo,casado(a),SP,NA
+2002,PR,40360059953,750,161,Julio Cezar De Jesus,Julio De Jesus ,16,PSTU,senador,servidor publico federal,42,masculino,ensino superior incompleto,divorciado(a),PR,NA
+2002,PR,44787715968,292,361,Rogério Miranda De Mello,Rogério Mello,36,PTC,senador,policial civil,41,masculino,ensino superior incompleto,NA,PR,NA
+2002,PR,49177656920,150,270,Antonio Procopiak Neto,Procopiak,27,PSDC,senador,policial civil,41,masculino,ensino superior completo,solteiro(a),PR,NA
+2002,PR,60558296904,306,200,Nely Lidia Valente De Almeida,Nely Almeida,20,PSC,senador,professor de ensino de primeiro e segundo graus,68,feminino,ensino superior completo,viuvo(a),SC,NA
+2002,RS,00635634015,371,151,Odacir Klein,Odacir Klein,15,PMDB,senador,advogado,60,masculino,ensino superior completo,casado(a),RS,NA
+2002,RS,05543762020,318,111,José Hugo Mardini,Hugo Mardini,11,PPB,senador,advogado,64,masculino,ensino superior completo,divorciado(a),RS,NA
+2002,RS,06301525000,345,231,José Alberto Fogaça De Medeiros,José Fogaça,23,PPS,senador,senador deputado e vereador,56,masculino,ensino superior completo,casado(a),RS,NA
+2002,RS,11062975049,351,131,Paulo Renato Paim,Paim,13,PT,senador,senador deputado e vereador,53,masculino,ensino medio completo,casado(a),RS,NA
+2002,RS,13567675087,321,144,Sérgio Pedro Zambiasi,Zambiasi,14,PTB,senador,locutor e comentarista de radio e televisao e radialista,53,masculino,ensino superior incompleto,casado(a),RS,NA
+2002,RS,20742207072,822,123,João Bosco Granato Vaz,Joao Bosco Vaz,12,PDT,senador,jornalista e redator,47,masculino,ensino superior completo,casado(a),RS,NA
+2002,RS,23852755034,315,161,Paulo Arletes Rios Barela,Paulo Barela,16,PSTU,senador,servidor publico federal,44,masculino,ensino superior incompleto,solteiro(a),RS,NA
+2002,RS,33473250015,1037,434,Paulo Renato Schmitt Cardoso,Paulo Careca,43,PV,senador,nao informada,42,masculino,ensino superior incompleto,casado(a),RS,NA
+2002,RS,33671710004,1039,162,Otavio Gonçalves Röhrig,Otavio,16,PSTU,senador,nao informada,41,masculino,ensino superior incompleto,casado(a),RS,NA
+2002,RS,33891176953,1118,456,Vicente Joaquim Bogo,Bogo,45,PSDB,senador,professor de ensino de primeiro e segundo graus,45,masculino,ensino superior completo,solteiro(a),SC,NA
+2002,RS,38220474068,889,133,Emilia Therezinha Xavier Fernandes,Emilia Fernandes,13,PT,senador,professor de ensino de primeiro e segundo graus,53,feminino,ensino superior completo,divorciado(a),RS,NA
+2002,RS,39331504004,360,401,Marcos Alexandre Cittolin,Marcos Cittolin,40,PSB,senador,advogado,40,masculino,ensino superior completo,solteiro(a),RS,NA
+2002,RS,41930762020,1460,290,Luis Guilherme Tarrago Giordano,Guilherme Giordano,29,PCO,senador,servidor publico federal,38,masculino,ensino superior completo,solteiro(a),RS,NA
+2002,RS,43120288004,342,565,Marisa Amaral Medeiros Da Silva,Marisa Medeiros ,56,PRONA,senador,nao informada,37,feminino,ensino medio completo,casado(a),RS,NA
+2002,RS,43636900030,325,430,Roner Anderson Fagundes Gonçalves,Roner Anderson,43,PV,senador,publicitario,36,masculino,ensino superior incompleto,casado(a),RS,NA
+2002,RS,90000374849,366,222,Valdir Caetano Da Silva,Valdir Caetano,22,PL,senador,senador deputado e vereador,47,masculino,ensino medio completo,casado(a),SP,NA
+2006,DF,00173150420,10000,211,Frank Algot Eugen Svensson,Prof. Frank,21,PCB,senador,servidor publico civil aposentado,72,masculino,ensino superior completo,divorciado(a),MG,NA
+2006,DF,00430250134,10524,151,Joaquim Domingos Roriz,Roriz,15,PMDB,senador,pecuarista,70,masculino,ensino superior completo,casado(a),GO,NA
+2006,DF,19667655504,10374,656,Agnelo Santos Queiroz Filho,Agnelo,65,PC do B,senador,deputado,48,masculino,ensino superior completo,casado(a),BA,NA
+2006,DF,26656388191,10657,290,Gílson Vasconcelos Dobbin,Gílson Dobbin,29,PCO,senador,servidor publico federal,43,masculino,ensino superior completo,divorciado(a),DF,NA
+2006,DF,28705173191,11160,255,Marcos Cardoso Cezar Da Silva,Marcos Cardoso,25,PFL,senador,empresario,45,masculino,ensino superior completo,casado(a),DF,NA
+2006,DF,33965382187,10607,123,Ezequiel Sousa Do Nascimento,Ezequiel,12,PDT,senador,servidor publico federal,41,masculino,ensino superior incompleto,solteiro(a),MA,NA
+2006,DF,35094540149,10693,170,Newton Lins Teixeira De Carvalho,Newton Lins,17,PSL,senador,advogado,44,masculino,ensino superior completo,divorciado(a),BA,NA
+2006,DF,42882761104,11000,161,Francisco José Targino,Franscisco Targino,16,PSTU,senador,comerciario,37,masculino,ensino medio completo,solteiro(a),CE,NA
+2006,DF,98920332720,11003,500,Rodrigo De Souza Dantas Mendonça Pinto,Rodrigo Dantas,50,PSOL,senador,professor de ensino superior,38,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RR,02109778253,241,251,Neudo Ribeiro Campos,Neudo Campos,25,PFL,senador,empresario,56,masculino,ensino superior completo,casado(a),RR,NA
+2002,RR,02624753320,113,151,Maria Marluce Moreira Pinto,Marluce Pinto  ,15,PMDB,senador,senador deputado e vereador,64,feminino,ensino medio completo,casado(a),CE,NA
+2002,RR,03059936749,260,222,Francisco Elair De Morais,Elair Morais   ,22,PL,senador,ministro do poder judiciario e magistrado,61,masculino,ensino superior completo,divorciado(a),AM,NA
+2002,RR,03240754215,393,133,Getúlio Alberto De Souza Cruz,Getúlio Cruz,13,PT,senador,economista,52,masculino,ensino superior completo,casado(a),RR,NA
+2002,RR,09582819472,58,456,Romero Jucá Filho,Jucá,45,PSDB,senador,senador deputado e vereador,48,masculino,ensino superior completo,casado(a),PE,NA
+2002,RR,14130238272,398,445,João Salazar De Oliveira,Salazar,44,PRP,senador,nao informada,41,masculino,ensino medio completo,casado(a),MA,NA
+2002,RR,14693062391,359,566,Hely De Deus Lima Ferreira,Hely De Deus,56,PRONA,senador,contador,45,masculino,ensino medio completo,divorciado(a),MA,NA
+2002,RR,18243142304,203,401,Josué Dos Santos Filho,Josué Filho,40,PSB,senador,advogado,43,masculino,ensino superior completo,casado(a),PI,NA
+2002,RR,19108311404,75,291,Francisco Fernandes Monteiro,Francisco,29,PCO,senador,professor de ensino de primeiro e segundo graus,44,masculino,ensino superior completo,solteiro(a),PB,NA
+2002,RR,27162893791,407,121,Augusto Affonso Botelho Neto,Augusto Botelho,12,PDT,senador,medico,55,masculino,ensino superior completo,casado(a),ES,NA
+2002,RR,33784310400,400,411,Eli De Almeida Oliveira,Irmão Eli,41,PSD,senador,empresario,36,masculino,ensino fundamental completo,NA,PB,NA
+2002,RO,00103853200,86,141,Odacir Soares Rodrigues,Odacir Soares,14,PTB,senador,advogado,64,masculino,ensino superior completo,casado(a),NA,NA
+2002,RO,02714353215,400,111,Oswaldo Piana Filho,Piana,11,PPB,senador,medico,54,masculino,ensino superior completo,casado(a),RO,NA
+2002,RO,03703282304,226,280,Silvio Rodrigues Persivo,Professor Silvio Persivo,28,PRTB,senador,economista,53,masculino,ensino superior completo,casado(a),CE,NA
+2002,RO,05019228818,289,451,Expedito Gonçalves Ferreira Junior,Expedito Junior,45,PSDB,senador,senador deputado e vereador,39,masculino,ensino medio completo,casado(a),SP,NA
+2002,RO,05156459153,112,177,Silvana Mota Davis Lourenço,Silvana Davis,17,PSL,senador,servidor publico federal,50,feminino,ensino superior completo,casado(a),RO,NA
+2002,RO,07560559468,214,199,Joaquim Clementino Neto,Kincas,19,PTN,senador,fiscal,55,masculino,ensino medio completo,divorciado(a),PB,NA
+2002,RO,12541354991,657,452,Francisco Luiz Sartori,Chico Sartori,45,PSDB,senador,senador deputado e vereador,62,masculino,ensino fundamental incompleto,casado(a),SC,NA
+2002,RO,14359537972,634,561,Fiorelo Edvard Manoel Azevedo,Fiorelo,56,PRONA,senador,servidor publico federal,49,masculino,ensino medio completo,casado(a),PR,NA
+2002,RO,15361195200,636,133,Fátima Cleide Rodrigues Da Silva,Fátima Cleide,13,PT,senador,servidor publico federal,40,feminino,ensino superior completo,solteiro(a),RO,NA
+2002,RO,16198042200,84,300,Rubens Coutinho Dos Santos,Rubens Coutinho,30,PGT,senador,jornalista e redator,37,masculino,ensino medio completo,solteiro(a),RO,NA
+2002,RO,20432607234,622,650,Nascimento Antonio Da Silva,Pimenta De Rondônia,65,PC do B,senador,mecanico de manutencao,38,masculino,ensino fundamental incompleto,solteiro(a),PR,NA
+2002,RO,34347364920,438,151,Valdir Raupp De Matos,Raupp,15,PMDB,senador,agricultor,47,masculino,ensino superior incompleto,casado(a),SC,NA
+2002,RO,41382234791,125,404,Antonio Jorge Dos Santos,Jorjão,40,PSB,senador,servidor publico estadual,47,masculino,ensino superior completo,casado(a),RJ,NA
+2002,RO,46642714687,270,314,Marcio Norberto De Castro,Professor Marcio,31,PHS,senador,professor de ensino de primeiro e segundo graus,39,masculino,ensino medio completo,casado(a),MG,NA
+2002,RO,47576286849,539,252,Rubens Moreira Mendes Filho,Moreira Mendes,25,PFL,senador,senador deputado e vereador,53,masculino,ensino superior completo,casado(a),SP,NA
+2002,RO,54122538815,471,123,Euripedes Miranda Botelho,Miranda,12,PDT,senador,senador deputado e vereador,49,masculino,ensino superior completo,casado(a),SP,NA
+2006,MA,00035530278,10054,455,Joao Castelo Ribeiro Goncalves,João Castelo,45,PSDB,senador,deputado,69,masculino,ensino superior completo,casado(a),MA,NA
+2006,MA,00308897315,10561,141,Epitacio Cafeteira Afonso Pereira,Epitácio Cafeteira,14,PTB,senador,aposentado (exceto servidor publico),82,masculino,ensino medio completo,casado(a),MA,NA
+2006,MA,06491936368,10017,500,Francisco Da Chaga Matos,Chico Matos,50,PSOL,senador,economista,54,masculino,ensino superior completo,divorciado(a),MA,NA
+2006,MA,09637648372,10409,401,Luiz Soares Filho,Vila Nova,40,PSB,senador,trabalhador rural,60,masculino,ensino fundamental incompleto,casado(a),MA,NA
+2006,MA,09819320100,10037,567,Luiz Carlos Barbosa Noleto,Luiz Carlos Noleto,56,PRONA,senador,medico,59,masculino,ensino superior completo,casado(a),TO,NA
+2006,MA,10718800397,10553,361,Nazare Bezerra Carvalho Collins,Nazaré,36,PTC,senador,advogado,49,feminino,ensino superior completo,casado(a),MA,NA
+2006,MA,17531969300,10002,163,Ramon Silva Gomes,Ramon Zapata,16,PSTU,senador,professor de ensino medio,46,masculino,ensino superior completo,solteiro(a),MA,NA
+2006,MA,40903974304,10305,131,Ubirajara Do Pindare Almeida Sousa,Bira,13,PT,senador,advogado,38,masculino,ensino superior completo,casado(a),MA,NA
+2006,MA,52509036491,10173,212,Frederico Luiz Maciel Dos Santos,Frederico Luiz,21,PCB,senador,jornalista e redator,40,masculino,ensino superior incompleto,divorciado(a),MA,NA
+2006,AM,00065919220,10588,151,Gilberto Mestrinho De Medeiros Raposo,Gilberto Mestrinho,15,PMDB,senador,senador,78,masculino,ensino medio completo,casado(a),AM,NA
+2006,AM,00693960272,10044,211,Luiz Manoel Navarro,Luiz Navarro,21,PCB,senador,comerciante,64,masculino,ensino medio completo,divorciado(a),AM,NA
+2006,AM,03465268253,10113,255,Pauderney Tomaz Avelino,Pauderney Avelino,25,PFL,senador,engenheiro,52,masculino,ensino superior completo,casado(a),AM,NA
+2006,AM,03537250215,10660,432,Francisco Plinio Valerio Tomaz,Plínio Valério,43,PV,senador,locutor e comentarista de radio e televisao e radialista,52,masculino,ensino superior completo,viuvo(a),AM,NA
+2006,AM,03912868204,10270,123,Jose Mario Frota Moreira,Mário Frota,12,PDT,senador,outros,64,masculino,ensino superior completo,divorciado(a),CE,NA
+2006,AM,05727600430,10366,222,Alfredo Pereira Do Nascimento,Alfredo Nascimento,22,PL,senador,ministro de estado,54,masculino,ensino superior completo,casado(a),RN,NA
+2006,AM,54420296534,10261,291,Ednailda Maria Dos Santos,Nai,29,PCO,senador,professor de ensino superior,36,feminino,ensino superior completo,solteiro(a),BA,NA
+2006,MS,00379816172,10013,123,João Leite Schimidt,João Leite Schimidt,12,PDT,senador,advogado,70,masculino,ensino superior completo,casado(a),MS,NA
+2006,MS,00603643191,10000,565,Ionaldo José Arce,Ionaldo Arce,56,PRONA,senador,militar reformado,60,masculino,ensino superior completo,casado(a),MS,NA
+2006,MS,00962449091,10049,131,Egon Krakhecke,Egon,13,PT,senador,engenheiro,65,masculino,ensino superior completo,casado(a),RS,NA
+2006,MS,10203249453,10262,430,Carlos Antonio Menezes Leite,Carlos Leite,43,PV,senador,outros,51,masculino,ensino superior completo,casado(a),PE,NA
+2006,MS,16270479134,10056,456,Marisa Joaquina Monteiro Serrano,Marisa Serrano,45,PSDB,senador,pedagogo,59,feminino,ensino superior completo,divorciado(a),MS,NA
+2006,MS,19970960130,10045,160,Suel Ferranti Da Silva,Suel Do Pstu,16,PSTU,senador,servidor publico federal,48,masculino,ensino superior completo,casado(a),SP,NA
+2006,MS,35659033172,10280,500,Anita Terezinha Nunes Borba,Anita Borba,50,PSOL,senador,servidor publico federal,52,feminino,ensino superior incompleto,solteiro(a),RS,NA
+2006,MG,00128708620,10103,250,Eliseu Resende,Eliseu Resende,25,PFL,senador,deputado,78,masculino,ensino superior completo,casado(a),MG,NA
+2006,MG,04857330644,10328,441,Tibelindo Soares Resende,Tibé,44,PRP,senador,aposentado (exceto servidor publico),76,masculino,ensino medio completo,casado(a),BA,NA
+2006,MG,06815278620,10223,150,Newton Cardoso,Newton Cardoso,15,PMDB,senador,empresario,68,masculino,ensino superior completo,casado(a),BA,NA
+2006,MG,09221026604,10383,432,Ronaldo Vasconcellos Novais,Ronaldo Vasconcellos,43,PV,senador,professor de ensino superior,56,masculino,ensino superior completo,divorciado(a),MG,NA
+2006,MG,21761744615,10837,291,Roberto Francisco Pereira,Betão,29,PCO,senador,servidor publico municipal,51,masculino,ensino fundamental completo,casado(a),MG,NA
+2006,MG,46389741715,11476,123,Omar Resende Peres Filho,Omar Peres,12,PDT,senador,empresario,49,masculino,ensino superior completo,divorciado(a),MG,NA
+2006,MG,47571950600,10096,210,Sílvio Pedro Rodrigues,Sílvio Rodrigues,21,PCB,senador,advogado,44,masculino,ensino superior completo,casado(a),MG,NA
+2006,MG,60355310678,10110,289,Marcilio Do Couto Aguiar,Marcilio,28,PRTB,senador,vendedor de comercio varejista e atacadista,38,masculino,ensino medio completo,divorciado(a),MG,NA
+2006,MG,63649756668,10343,500,Maria Da Consolação Rocha,Maria Da Consolação,50,PSOL,senador,professor de ensino superior,43,feminino,ensino superior completo,casado(a),MG,NA
+2006,MG,86257196787,10331,700,Ricardo Vieira Da Conceição,Sargento Ricardo Vieira,70,PT do B,senador,policial militar,40,masculino,ensino medio completo,casado(a),MG,NA
+2006,MT,03448258172,10342,200,Manoel Novaes,Zebra = Manoel Novaes,20,PSC,senador,locutor e comentarista de radio e televisao e radialista,64,masculino,ensino superior incompleto,divorciado(a),MT,NA
+2006,MT,04881044168,10321,251,Jayme Verissimo De Campos,Jayme Campos,25,PFL,senador,produtor agropecuario,55,masculino,ensino medio completo,casado(a),MT,NA
+2006,MT,16042638904,10192,455,Jose Rogerio Salles,Rogerio Salles,45,PSDB,senador,agricultor,53,masculino,ensino superior completo,casado(a),PR,NA
+2006,MT,17630169191,10120,444,Jose Aquino Batista Correa,Aquino Corrêa,44,PRP,senador,servidor publico estadual,48,masculino,ensino superior completo,casado(a),MS,NA
+2006,MT,21819807134,10240,654,Janete Oliveira De Carvalho Dantas,Professora Janete,65,PC do B,senador,professor de ensino medio,46,feminino,ensino superior completo,casado(a),GO,NA
+2006,MT,35037733987,10002,501,Cleuza Dias Leite,Cleuza Dias Leite,50,PSOL,senador,assistente social,46,feminino,ensino superior completo,solteiro(a),PR,NA
+2006,MT,35385804134,10014,312,Gisela Guth De Araujo,Pastora Gisela,31,PHS,senador,outros,60,feminino,ensino medio completo,casado(a),MG,NA
+2006,MT,43159206904,10368,277,Edson Santana Da Silva,Edson Santana,27,PSDC,senador,pecuarista,66,masculino,ensino medio incompleto,casado(a),AL,NA
+2006,PI,00149543387,10343,151,José Arimatea Martins Magalhães,Ari Magalhães,15,PMDB,senador,empresario,78,masculino,ensino medio completo,viuvo(a),PI,NA
+2006,PI,02547660300,10151,456,Antonio De Almendra Freitas Neto,Freitas Neto,45,PSDB,senador,economista,60,masculino,ensino superior completo,divorciado(a),PI,NA
+2006,PI,04248139715,10178,258,Hugo Napoleão Do Rego Neto,Hugo,25,PFL,senador,advogado,63,masculino,ensino superior completo,casado(a),PI,NA
+2006,PI,15263622104,10295,161,Geraldo Do Nascimento Carvalho,Geraldo Carvalho,16,PSTU,senador,professor de ensino medio,48,masculino,ensino superior completo,casado(a),PI,NA
+2006,PI,18518001315,10106,141,João Vicente De Macedo Claudino,João Vicente Claudino,14,PTB,senador,empresario,44,masculino,ensino superior completo,casado(a),PB,NA
+2006,PI,21729697372,10481,177,Antonio Almeida De Sousa,Antonio Almeida O Tõim,17,PSL,senador,astronomo,44,masculino,ensino superior incompleto,casado(a),PI,NA
+2006,PI,37382934349,10540,501,Zilton Vicente Duarte Junior,Zilton Duarte,50,PSOL,senador,veterinario,37,masculino,ensino superior completo,casado(a),PI,NA
+2006,PI,41231040378,10285,270,Idelfran De Carvalho Vieira Monteiro,Prof.  Idelfran,27,PSDC,senador,professor de ensino fundamental,38,masculino,ensino superior completo,casado(a),PI,NA
+2006,PI,74488333753,10161,333,Marcus Vinicius Do Carmo Ferreira,Marcus Vinicius,33,PMN,senador,professor de ensino superior,45,masculino,ensino superior completo,casado(a),CE,NA
+2006,PA,00009563253,10278,456,Mário Couto Filho,Mário Couto,45,PSDB,senador,administrador,61,masculino,ensino superior completo,casado(a),PA,NA
+2006,PA,02905523204,10549,131,Mario Andrade Cardoso,Professor Mário,13,PT,senador,deputado,56,masculino,ensino superior completo,casado(a),PA,NA
+2006,PA,04257553200,10393,151,Luiz Otávio Oliveira Campos,Luiz Otávio,15,PMDB,senador,senador,52,masculino,ensino superior completo,casado(a),PA,NA
+2006,PA,09255796291,10324,501,Neide Rocha Cunha Solimões,Neide Solimões,50,PSOL,senador,outros,58,feminino,ensino superior completo,casado(a),GO,NA
+2006,ES,00237193701,10026,290,Fábio Lopes Da Silva,Fábio Lopes,29,PCO,senador,outros,39,masculino,ensino medio completo,casado(a),ES,NA
+2006,ES,01477951768,10513,123,Max Freitas Mauro,Max Mauro,12,PDT,senador,medico,70,masculino,ensino superior completo,divorciado(a),ES,NA
+2006,ES,34318194787,10172,170,Jorge Rody,Rody,17,PSL,senador,servidor publico federal,54,masculino,ensino medio completo,casado(a),ES,NA
+2006,ES,52624773720,10007,500,Afonso Cezar Coradine,Afonso Coradine,50,PSOL,senador,advogado,51,masculino,ensino superior completo,solteiro(a),ES,NA
+2006,ES,70515182753,10448,400,José Renato Casagrande,Renato Casagrande,40,PSB,senador,deputado,46,masculino,ensino superior completo,casado(a),ES,NA
+2006,GO,01418439851,10225,656,Aldo Silva Arantes,Aldo Arantes,65,PC do B,senador,advogado,68,masculino,ensino superior completo,casado(a),GO,NA
+2006,GO,03553821809,10094,456,Marconi Ferreira Perillo Junior,Marconi Perillo,45,PSDB,senador,pecuarista,44,masculino,ensino superior incompleto,casado(a),GO,NA
+2006,GO,12313394115,10087,151,Ney Moura Teles,Ney Moura,15,PMDB,senador,advogado,51,masculino,ensino superior completo,casado(a),GO,NA
+2006,GO,16616260178,10011,251,Dione Jose De Araújo,Dione  Araújo,25,PFL,senador,pecuarista,47,masculino,ensino medio completo,viuvo(a),GO,NA
+2006,GO,47280328172,10054,210,Robson De Sousa Moraes,Robson,21,PCB,senador,professor de ensino superior,38,masculino,ensino superior completo,solteiro(a),GO,NA
+2006,RN,00084000406,10230,456,Geraldo José Da Câmara Ferreira De Melo,Geraldo Melo,45,PSDB,senador,industrial,71,masculino,ensino fundamental completo,casado(a),RN,NA
+2006,RN,00342041487,10008,144,Fernando Luiz Gonçalves Bezerra,Fernando Bezerra,14,PTB,senador,empresario,66,masculino,ensino superior completo,casado(a),RN,NA
+2006,RN,01606824449,10185,277,Joanilson De Paula Rego,Joanilson De Paula Rego,27,PSDC,senador,advogado,70,masculino,ensino superior completo,casado(a),RN,NA
+2006,RN,08460663434,10316,361,Luiz Augusto Maranhão Valle,Augusto Maranhão,36,PTC,senador,empresario,52,masculino,ensino superior completo,casado(a),PE,NA
+2006,RN,13110535491,10221,171,Antonio Sotero Da Silva,Antonio Sotero,17,PSL,senador,padeiro confeiteiro e assemelhados,49,masculino,ensino medio completo,casado(a),RN,NA
+2006,RN,19951698468,10151,252,Rosalba Ciarlini Rosado,Rosalba Ciarlini,25,PFL,senador,medico,54,feminino,ensino superior completo,casado(a),RN,NA
+2006,RN,50310402468,10194,212,Edgar Nazareno Caldas,Edgar,21,PCB,senador,outros,38,masculino,ensino superior incompleto,solteiro(a),SP,NA
+2006,RN,57550930406,10203,161,Veronica Simone Dutra Veras,Simone Dutra,16,PSTU,senador,servidor publico estadual,41,feminino,ensino superior completo,solteiro(a),PB,NA
+2006,PE,00105457434,10300,156,Jarbas De Andrade Vasconcelos,Jarbas,15,PMDB,senador,advogado,64,masculino,ensino superior completo,divorciado(a),PE,NA
+2006,PE,03627845404,10213,400,Jorge José Gomes,Jorge Gomes,40,PSB,senador,medico,61,masculino,ensino superior completo,casado(a),PE,NA
+2006,PE,12607355400,10544,656,Luciano Roberto Rosas De Siqueira,Luciano Siqueira,65,PC do B,senador,medico,60,masculino,ensino superior completo,casado(a),RN,NA
+2006,PE,16652045400,10380,567,Pedro Correa Gondim,Pedro Gondim,56,PRONA,senador,medico,51,masculino,ensino superior completo,casado(a),PE,NA
+2006,PE,21623430453,10130,282,Delta Marim Moraes De Farias,Delta Farias,28,PRTB,senador,servidor publico federal,54,feminino,ensino superior completo,divorciado(a),PE,NA
+2006,PE,21755272472,10600,211,Aluísio De Araújo Figueirôa,Aluísio Figueirôa,21,PCB,senador,outros,47,masculino,ensino medio completo,casado(a),PE,NA
+2006,PE,22062092415,10124,161,Hélio Cabral Lima,Hélio Cabral,16,PSTU,senador,servidor publico federal,47,masculino,ensino superior completo,casado(a),PE,NA
+2006,PE,45300330400,10903,700,Severino Jose Belarmino Da Silva,Belarmino,70,PT do B,senador,advogado,44,masculino,ensino superior completo,divorciado(a),PE,NA
+2006,PB,03848051753,10225,151,Ney Robinson Suassuna,Ney Suassuna,15,PMDB,senador,senador,65,masculino,ensino superior completo,viuvo(a),PB,NA
+2006,PB,08699305400,10340,289,Walter Amorim De Araújo,Dr. Walter Amorim,28,PRTB,senador,medico,52,masculino,ensino superior completo,divorciado(a),PB,NA
+2006,PB,10933425449,10183,215,Antonio Pereira Da Silva,Antonio Pereira,21,PCB,senador,advogado,61,masculino,ensino superior completo,casado(a),PB,NA
+2006,PB,14248832453,10057,456,Cícero De Lucena Filho,Cícero Lucena,45,PSDB,senador,outros,49,masculino,ensino superior incompleto,casado(a),PB,NA
+2006,PB,28843401491,10343,299,Joseilson Freitas Moura,Joseilson Freitas,29,PCO,senador,servidor publico federal,46,masculino,ensino medio completo,casado(a),PB,NA
+2006,PB,37386310706,10294,500,Vital Farias,Vital Farias,50,PSOL,senador,musico,64,masculino,ensino superior completo,solteiro(a),PB,NA
+2006,PB,43712274491,10002,277,Livieto Regis Filho,Dr. Livieto Régis,27,PSDC,senador,advogado,41,masculino,ensino superior completo,casado(a),PB,NA
+2006,PB,48674109420,10311,177,Ronaldo Nobrega Medeiros,Ronaldo Medeiros,17,PSL,senador,empresario,37,masculino,ensino superior incompleto,casado(a),PB,NA
+2006,RO,05019228818,10406,234,Expedito Gonçalves Ferreira Junior,Expedito Junior,23,PPS,senador,professor de ensino fundamental,43,masculino,ensino medio completo,casado(a),SP,NA
+2006,RO,13378988649,10053,289,José Augusto De Oliveira,Dr. José Augusto,28,PRTB,senador,servidor publico federal,59,masculino,ensino superior completo,divorciado(a),MG,NA
+2006,RO,20404778291,10322,151,Melkisedk Donadon,Melki Donadon,15,PMDB,senador,agricultor,42,masculino,ensino medio completo,casado(a),PR,NA
+2006,RO,22023380200,10160,500,Marcos Augusto Gomes Sussuarana,Marcos Sussuarana,50,PSOL,senador,professor de ensino medio,41,masculino,ensino superior completo,casado(a),RO,NA
+2006,RO,44435630915,10063,123,Acir Marcos Gurgacz,Acir,12,PDT,senador,empresario,45,masculino,ensino medio completo,casado(a),PR,NA
+2006,PR,00274003953,10778,456,Alvaro Fernandes Dias,Alvaro Dias,45,PSDB,senador,senador,62,masculino,ensino superior completo,casado(a),SP,NA
+2006,PR,01762800900,10001,231,Luiz Felipe Haj Mussi,Mussi,23,PPS,senador,advogado,61,masculino,ensino superior completo,casado(a),PR,NA
+2006,PR,13994026920,10837,200,José Roberto Sandoval,Sandoval,20,PSC,senador,vereador,57,masculino,ensino fundamental completo,casado(a),MT,NA
+2006,PR,27433730915,10350,289,Aparecido Custodio Da Silva,Custodio Da Silva,28,PRTB,senador,vereador,50,masculino,ensino superior incompleto,divorciado(a),PR,NA
+2006,PR,45724938987,10902,437,Paulo Salamuni,Salamuni,43,PV,senador,vereador,46,masculino,ensino superior completo,solteiro(a),PR,NA
+2006,PR,49177656920,10585,270,Antonio Procopiak Neto,Procopiak,27,PSDC,senador,policial civil,45,masculino,ensino superior completo,solteiro(a),PR,NA
+2006,PR,67677061915,10220,131,Gleisi Helena Hoffmann,Gleisi,13,PT,senador,advogado,41,feminino,ensino superior completo,divorciado(a),PR,NA
+2006,PR,74897837987,10556,160,Ivan Ramos Bernardo,Professor Ivan Bernardo,16,PSTU,senador,professor de ensino medio,37,masculino,ensino superior completo,casado(a),PR,NA
+2006,PR,96344199920,10376,177,Sandra Borges,Sandra Borges,17,PSL,senador,assistente social,47,feminino,ensino superior completo,solteiro(a),SC,NA
+2006,RS,00225843072,10480,151,Pedro Jorge Simon,Simon,15,PMDB,senador,senador,77,masculino,ensino superior completo,casado(a),RS,NA
+2006,RS,02276151072,10250,430,Nélson Carvalho Vasconcelos,Nélson Vasconcelos,43,PV,senador,advogado,61,masculino,ensino superior completo,casado(a),RS,NA
+2006,RS,05676592087,10102,272,Odette Fernandes Martins Gonçalves,Odette Gonçalves,27,PSDC,senador,servidor publico civil aposentado,90,feminino,ensino superior completo,viuvo(a),RS,NA
+2006,RS,15723569015,10622,234,Mario Bernd Neto,Mario Bernd,23,PPS,senador,medico,56,masculino,ensino superior completo,divorciado(a),RS,NA
+2006,RS,17868122072,10307,123,Valmir Martins Batista,Valmir Batista,12,PDT,senador,advogado,53,masculino,ensino superior completo,casado(a),RS,NA
+2006,RS,22240578068,10781,290,Oscar Jorge De Souza,Oscar De Souza,29,PCO,senador,trabalhador de construcao civil,54,masculino,ensino fundamental completo,divorciado(a),RS,NA
+2006,RS,29732514000,10001,131,Miguel Soldatelli Rossetto,Miguel Rossetto,13,PT,senador,tecnico de mecanica,46,masculino,ensino superior incompleto,casado(a),RS,NA
+2006,RS,43149782015,10151,161,Vera Justina Guasso,Vera Guasso,16,PSTU,senador,tecnico em informatica,43,feminino,ensino superior incompleto,solteiro(a),RS,NA
+2006,RS,60247770000,10158,401,João Batista Lima Conceição,Batista Conceição,40,PSB,senador,vereador,40,masculino,ensino superior completo,solteiro(a),RS,NA
+2006,RS,76471977034,10832,111,Mônica Leal Markusons,Mônica Leal,11,PP,senador,jornalista e redator,50,feminino,ensino superior completo,casado(a),RS,NA
+2006,SE,06823530510,10002,123,Nilton Vieira Lima,Nilton Vieira Lima,12,PDT,senador,advogado,54,masculino,ensino superior completo,casado(a),SE,NA
+2006,SE,15523870544,10104,251,Maria Do Carmo Do Nascimento Alves,Maria Do Carmo,25,PFL,senador,advogado,65,feminino,ensino superior completo,casado(a),SE,NA
+2006,SE,34758640610,10040,131,José Eduardo De Barros Dutra,Zé Eduardo,13,PT,senador,geologo,49,masculino,ensino superior completo,divorciado(a),RJ,NA
+2006,SE,36312614549,10233,211,João Bosco Santos,Professor Bosco,21,PCB,senador,professor de ensino fundamental,39,masculino,ensino superior completo,casado(a),SE,NA
+2006,SE,50748645772,10228,500,Heitor Pereira Alves Filho,Heitor,50,PSOL,senador,petroleiro,50,masculino,ensino superior completo,divorciado(a),RJ,NA
+2006,RJ,00842818715,10151,111,Francisco Oswaldo Neves Dornelles,Francisco Dornelles,11,PP,senador,deputado,72,masculino,ensino superior completo,casado(a),MG,NA
+2006,RJ,01067254757,12720,170,Luiz Henrique Mendonça Valente,Pingo,17,PSL,senador,policial militar,37,masculino,ensino medio completo,casado(a),RJ,NA
+2006,RJ,02363020782,10142,212,Raymundo Theodoro Carvalho De Oliveira,Raymundo De Oliveira,21,PCB,senador,professor de ensino superior,66,masculino,ensino superior completo,casado(a),RJ,NA
+2006,RJ,10999965700,10423,456,Ronaldo Cezar Coelho,Ronaldo Cezar Coelho,45,PSDB,senador,deputado,60,masculino,ensino superior completo,divorciado(a),RJ,NA
+2006,RJ,11155744772,11405,122,Edialeda Salgado Do Nascimento,Dra. Edialeda,12,PDT,senador,medico,66,feminino,ensino superior completo,viuvo(a),RJ,NA
+2006,RJ,21953317715,11096,441,Oswaldo Souza Oliveira,Oswaldo Souza,44,PRP,senador,advogado,68,masculino,ensino superior completo,solteiro(a),BA,NA
+2006,RJ,36516082715,12171,310,Ornisson Jose Fernandes,Ornisson Fernandes,31,PHS,senador,comerciante,56,masculino,ensino medio completo,divorciado(a),RJ,NA
+2006,RJ,43428169700,10885,651,Jandira Feghali,Jandira Feghali,65,PC do B,senador,deputado,49,feminino,ensino superior completo,casado(a),PR,NA
+2006,RJ,50498029700,12680,272,Irvanio Dos Santos,Irvanio Santos,27,PSDC,senador,analista de sistemas,48,masculino,ensino medio completo,casado(a),RJ,NA
+2006,RJ,69738866715,10420,433,Alfredo Helio Sirkis,Alfredo Sirkis,43,PV,senador,jornalista e redator,56,masculino,ensino superior completo,divorciado(a),RJ,NA
+2006,RJ,82863989715,10145,100,Rosangela De Souza Gomes,Rosangela Gomes,10,PRB,senador,vereador,40,feminino,ensino superior completo,solteiro(a),RJ,NA
+2006,SP,00498173887,10109,252,Guilherme Afif Domingos,Guilherme Afif,25,PFL,senador,empresario,63,masculino,ensino superior completo,casado(a),SP,NA
+2006,SP,02174211807,11811,123,Elza De Fatima Costa Pereira,Elza,12,PDT,senador,trabalhador metalurgico e siderurgico,47,feminino,ensino medio completo,casado(a),SP,NA
+2006,SP,05816007890,12582,700,Paulo Flavio Affonso Piasenti,Paulo Piasenti,70,PT do B,senador,vereador,42,masculino,ensino medio completo,casado(a),SP,NA
+2006,SP,05909198815,12607,131,Eduardo Matarazzo Suplicy,Eduardo Suplicy,13,PT,senador,economista,65,masculino,ensino superior completo,divorciado(a),SP,NA
+2006,SP,07828844824,12264,190,João Dárcio Ribamar Sacchi,João Dárcio Filho,19,PTN,senador,advogado,36,masculino,ensino superior completo,casado(a),SP,NA
+2006,SP,10435207830,12385,400,Marcelo Gatti Reis Lobo,Marcelo Reis Lobo,40,PSB,senador,advogado,38,masculino,ensino superior completo,casado(a),SP,NA
+2006,SP,12558378880,10002,561,Robson Malek,Malek,56,PRONA,senador,administrador,36,masculino,ensino superior completo,solteiro(a),SP,NA
+2006,SP,22898719072,12587,360,Ana Elizabeth Noll Prudente,Ana Prudente,36,PTC,senador,empresario,49,feminino,ensino medio incompleto,divorciado(a),RS,NA
+2006,SP,27152316872,10763,266,João De Rezende Neto,João Rezende,26,PAN,senador,aposentado (exceto servidor publico),59,masculino,ensino superior completo,casado(a),SP,NA
+2006,SP,37663720849,10646,151,Alda Marco Antonio,Alda Marco Antonio,15,PMDB,senador,engenheiro,62,feminino,ensino superior completo,solteiro(a),SP,NA
+2006,SP,69142742749,11014,430,Domingos Fernandes,Domingos Fernandes,43,PV,senador,economista,61,masculino,ensino superior completo,divorciado(a),RJ,NA
+2006,SP,74564226720,12067,161,Luiz Carlos Prates,Mancha,16,PSTU,senador,eletricista e assemelhados,51,masculino,ensino superior incompleto,solteiro(a),SP,NA
+2006,SP,75480204815,11603,201,Manoel Barbosa Do Nascimento,Ten Nascimento,20,PSC,senador,policial militar,53,masculino,ensino medio completo,casado(a),SP,NA
+2006,SP,76802035804,10821,333,Jose Ribamar Dantas,Ribamar Dantas,33,PMN,senador,advogado,53,masculino,ensino superior completo,casado(a),RN,NA
+2006,SP,78955700725,11446,291,Antonio Carlos Silva,Prof. Antonio Carlos,29,PCO,senador,professor de ensino medio,44,masculino,ensino superior completo,casado(a),RJ,NA
+2006,SC,22642552934,10283,361,Osmar Pickler,Osmar,36,PTC,senador,advogado,76,masculino,ensino superior completo,viuvo(a),SC,NA
+2006,SC,29568420991,10024,251,João Raimundo Colombo,Raimundo Colombo,25,PFL,senador,pecuarista,52,masculino,ensino medio completo,divorciado(a),SC,NA
+2006,SC,29868998972,10515,432,Gerson Antonio Basso,Gerson Basso,43,PV,senador,advogado,52,masculino,ensino superior completo,divorciado(a),SC,NA
+2006,SC,38334828004,10399,123,Pedro Flori Ramos,Bispo Flori,12,PDT,senador,sacerdote ou membro de ordem ou seita religiosa,45,masculino,ensino superior incompleto,casado(a),RS,NA
+2006,SC,40122751949,10451,161,Gilmar Salgado Dos Santos,Gilmar Salgado,16,PSTU,senador,servidor publico estadual,46,masculino,ensino superior incompleto,casado(a),SC,NA
+2006,SC,60000155934,10328,400,Izío Inácio,Hulk,40,PSB,senador,vereador,39,masculino,ensino fundamental completo,casado(a),SC,NA
+2006,SC,70740178920,10205,130,Luci Teresinha Choinacki,Luci,13,PT,senador,agricultor,53,feminino,ensino fundamental incompleto,divorciado(a),SC,NA
+2010,AP,11907894268,30000000296,152,Gilvam Pinheiro Borges,Gilvam Borges,15,PMDB,senador,senador,52,masculino,ensino superior incompleto,casado(a),DF,NA
+2010,AP,12617555291,30000000001,123,Antonio Waldez Goes Da Silva,Waldez,12,PDT,senador,servidor publico federal,49,masculino,ensino superior incompleto,casado(a),PA,NA
+2010,AP,21014787220,30000000014,131,Marcos Roberto Marques Da Silva,Professor Marcos,13,PT,senador,professor e instrutor de formacao profissional,39,masculino,ensino superior completo,divorciado(a),AP,NA
+2010,AP,27880575472,30000000013,401,Joao Alberto Rodrigues Capiberibe,Capi,40,PSB,senador,outros,63,masculino,ensino superior incompleto,casado(a),PA,NA
+2010,AP,43187943268,30000000664,500,Randolph Frederich Rodrigues Alves,Randolfe,50,PSOL,senador,professor de ensino superior,38,masculino,ensino superior completo,casado(a),PE,NA
+2010,AP,52898431753,30000000297,456,Joao Bosco Papaleo Paes,Papaleo,45,PSDB,senador,senador,58,masculino,ensino superior completo,casado(a),PA,NA
+2010,BA,00229946534,50000000743,147,Edvaldo Pereira De Brito,Edvaldo Brito,14,PTB,senador,advogado,73,masculino,ensino superior completo,casado(a),BA,NA
+2010,BA,01782037500,50000000003,255,José Carlos Aleluia Costa,Aleluia,25,DEM,senador,deputado,63,masculino,ensino superior completo,casado(a),BA,NA
+2010,BA,03316637591,50000000742,222,Cesar Augusto Rabello Borges,Cesar Borges,22,PR,senador,senador,62,masculino,ensino superior completo,casado(a),BA,NA
+2010,BA,05411688515,50000000004,251,José Ronaldo De Carvalho,José Ronaldo,25,DEM,senador,servidor publico estadual,59,masculino,ensino superior completo,casado(a),BA,NA
+2010,BA,14264790506,50000000917,130,Walter De Freitas Pinheiro,Walter Pinheiro,13,PT,senador,deputado,51,masculino,ensino medio completo,casado(a),BA,NA
+2010,BA,14672049515,50000000916,400,Lidice Da Mata E Souza,Lidice,40,PSB,senador,deputado,55,feminino,ensino superior completo,divorciado(a),BA,NA
+2010,BA,15912302504,50000000632,500,Luis Carlos França,França,50,PSOL,senador,tecnico de eletricidade eletronica e telecomunicacoes,51,masculino,ensino medio completo,casado(a),BA,NA
+2010,BA,38251051568,50000000121,434,Edson Goncalves Duarte,Edson Duarte,43,PV,senador,deputado,45,masculino,ensino superior completo,casado(a),BA,NA
+2010,BA,65798651568,50000001310,160,Albione Souza Silva,Albione,16,PSTU,senador,servidor publico municipal,38,masculino,ensino superior completo,divorciado(a),BA,NA
+2010,BA,88499448534,50000001290,505,Zilmar Alverita Da Silva,Zilmar,50,PSOL,senador,estudante bolsista estagiario e assemelhados,35,feminino,ensino superior completo,solteiro(a),BA,NA
+2010,AM,06878415268,40000000276,161,Tarcísio Luiz Leão E Souza,Tarcísio Leão,16,PSTU,senador,professor de ensino medio,54,masculino,ensino superior completo,casado(a),AM,NA
+2010,AM,07584962220,40000000252,130,Marilene Correa Da Silva Freitas,Marilene Correa,13,PT,senador,professor de ensino superior,60,feminino,ensino superior completo,casado(a),AM,NA
+2010,AM,07810423215,40000000291,155,Carlos Eduardo De Souza Braga,Eduardo Braga,15,PMDB,senador,engenheiro,50,masculino,ensino superior completo,casado(a),PA,NA
+2010,AM,13429612268,40000000251,123,Jefferson Praia Bezerra,Jefferson Praia,12,PDT,senador,senador,51,masculino,ensino superior completo,divorciado(a),AM,NA
+2010,AM,15498247753,40000000449,451,Arthur Virgilio Do Carmo Ribeiro Neto,Artur,45,PSDB,senador,diplomata,65,masculino,ensino superior completo,casado(a),AM,NA
+2010,AM,16114620291,40000000292,656,Vanessa Grazziotin,Vanessa Grazziotin,65,PC do B,senador,deputado,49,feminino,ensino superior completo,casado(a),SC,NA
+2010,AM,64505065472,40000000947,500,Marcos Antonio De Queiroz,Professor Queiroz,50,PSOL,senador,professor de ensino medio,43,masculino,ensino superior completo,solteiro(a),PB,NA
+2010,AL,00294632468,20000000304,234,Jose Oliveira Costa,Zé Costa,23,PPS,senador,advogado,75,masculino,ensino superior completo,divorciado(a),AL,NA
+2010,AL,00322598400,20000000303,111,Benedito De Lira,Benedito De Lira,11,PP,senador,deputado,68,masculino,ensino superior completo,casado(a),AL,NA
+2010,AL,00489441149,20000000315,288,Ildelfonso Reboucas Lacerda,Afonso Lacerda,28,PRTB,senador,administrador,66,masculino,ensino superior completo,casado(a),AL,NA
+2010,AL,11078685487,20000000276,151,José Renan Vasconcelos Calheiros,Renan,15,PMDB,senador,senador,55,masculino,ensino superior completo,casado(a),AL,NA
+2010,AL,11117621472,20000000275,654,Eduardo Bomfim Gomes Ribeiro,Eduardo Bomfim,65,PC do B,senador,advogado,61,masculino,ensino superior completo,casado(a),AL,NA
+2010,AL,11141786400,20000000061,144,Alvaro José Do Monte Vasconcelos,Alvaro Vasconcelos,14,PTB,senador,pecuarista,54,masculino,ensino superior completo,casado(a),AL,NA
+2010,AL,30998883468,20000000528,287,Paulo Roberto Nunes Calaça,Paulo Nunes,28,PRTB,senador,outros,49,masculino,ensino superior completo,casado(a),AL,NA
+2010,AL,36450316420,20000000003,500,Heloisa Helena Lima De Moraes Carvalho,Heloisa Helena,50,PSOL,senador,professor de ensino superior,48,feminino,ensino superior completo,casado(a),AL,NA
+2010,AL,75768488472,20000000062,145,Flavio Emilio Arruda Silva,Flavio Emilio,14,PTB,senador,administrador,38,masculino,ensino superior incompleto,casado(a),AL,NA
+2006,RR,00131555200,10098,145,Francisco Mozarildo De Melo Cavalcanti,Mozarildo,14,PTB,senador,senador,62,masculino,ensino superior completo,casado(a),RR,NA
+2006,RR,05022555875,10325,567,Gleen David Schiaveto,Gleen,56,PRONA,senador,professor e instrutor de formacao profissional,44,masculino,ensino medio completo,divorciado(a),SP,NA
+2006,RR,30969522053,10583,444,Hermelino Wenceslau Abadi Liscano,Gaucho Da Moca,44,PRP,senador,comerciante,48,masculino,ensino medio incompleto,solteiro(a),RS,NA
+2006,RR,32797346220,10479,299,Bartolomeu Da Silva Tomaz,Bartô,29,PCO,senador,artista plastico e assemelhados,38,masculino,ensino medio completo,solteiro(a),RR,NA
+2006,RR,36623903968,10341,500,João Luciano Rosa,Luciano Rosa,50,PSOL,senador,historiador,46,masculino,ensino superior completo,divorciado(a),MG,NA
+2006,RR,38534460191,10102,234,Maria Teresa Saenz Surita Jucá,Teresa,23,PPS,senador,publicitario,50,feminino,ensino superior completo,casado(a),SP,NA
+2010,AC,03329178272,10000000132,151,Joao Correia Lima Sobrinho,Joao Correia,15,PMDB,senador,professor de ensino superior,57,masculino,ensino superior completo,casado(a),AC,NA
+2010,AC,09604332287,10000000133,333,Sergio De Oliveira Cunha,Petecao,33,PMN,senador,deputado,50,masculino,ensino medio completo,solteiro(a),AC,NA
+2010,AC,21675368287,10000000124,651,Edvaldo Soares De Magalhaes,Edvaldo Magalhães,65,PC do B,senador,deputado,45,masculino,ensino superior incompleto,casado(a),AC,NA
+2010,AC,96980486853,10000000125,131,Jorge Ney Viana Macedo Neves,Jorge Viana,13,PT,senador,engenheiro,51,masculino,ensino superior completo,divorciado(a),AC,NA
+2010,DF,04086830744,70000000054,500,Jorge De Freitas Antunes,Jorge Antunes,50,PSOL,senador,professor de ensino superior,68,masculino,ensino superior completo,casado(a),RJ,NA
+2010,DF,11324406100,70000000149,178,Sebastiao Geronimo Filho,Geronimo,17,PSL,senador,outros,56,masculino,ensino superior completo,divorciado(a),MG,NA
+2010,DF,11636114172,70000000053,501,Francisco Claudio Correa Meyer Sant'anna,Chico Sant'anna,50,PSOL,senador,jornalista e redator,53,masculino,ensino superior completo,casado(a),RJ,NA
+2010,DF,11939141168,70000000712,255,Joao Alberto Fraga Silva,Alberto Fraga,25,DEM,senador,deputado,54,masculino,ensino superior completo,casado(a),SE,NA
+2010,DF,15390039149,70000000873,432,Carlos Eduardo Valadares Araújo,Cadu Valadares,43,PV,senador,gerente,53,masculino,ensino superior completo,casado(a),MG,NA
+2010,DF,20913974153,70000000148,190,Milton Tadashi Miyagawa,Pr Milton Tadashi,19,PTN,senador,engenheiro,52,masculino,ensino superior completo,casado(a),MT,NA
+2010,DF,22364129168,70000000647,123,Cristovam Ricardo Cavalcanti Buarque,Cristovam Buarque,12,PDT,senador,senador,67,masculino,ensino superior completo,casado(a),PE,NA
+2010,DF,24529850153,70000000648,400,Rodrigo Sobral Rollemberg,Rollemberg,40,PSB,senador,deputado,51,masculino,ensino superior completo,casado(a),RJ,NA
+2010,DF,32332491287,70000000003,160,Robson Raymundo Da Silva,Robson,16,PSTU,senador,professor de ensino medio,40,masculino,ensino superior completo,solteiro(a),RJ,NA
+2010,DF,69627827800,70000000870,433,Moacir Bueno Arruda,Moacir Bueno,43,PV,senador,biologo,58,masculino,ensino superior completo,divorciado(a),SP,NA
+2010,ES,00185066747,80000000434,456,Rita De Cássia Paste Camata,Rita Camata,45,PSDB,senador,jornalista e redator,50,feminino,ensino superior completo,casado(a),ES,NA
+2010,ES,03104286701,80000000387,500,Renato Almeida De Andrade,Professor Renato,50,PSOL,senador,servidor publico municipal,36,masculino,ensino superior completo,casado(a),ES,NA
+2010,ES,15272567404,80000000184,222,Magno Pereira Malta,Magno Malta,22,PR,senador,servidor publico federal,53,masculino,ensino superior completo,casado(a),BA,NA
+2010,ES,77488040791,80000000185,156,Ricardo De Rezende Ferraco,Ricardo Ferraço,15,PMDB,senador,outros,47,masculino,ensino superior incompleto,casado(a),ES,NA
+2006,TO,12364983134,10210,131,Célio Alves De Moura,Célio Moura,13,PT,senador,advogado,53,masculino,ensino superior completo,divorciado(a),MG,NA
+2006,TO,15277658149,10095,456,Jose Eduardo Siqueira Campos,Eduardo Siqueira Campos,45,PSDB,senador,senador,48,masculino,ensino superior completo,divorciado(a),SP,NA
+2006,TO,31037305000,10002,500,Claudio Dallabrida,Dallabrida,50,PSOL,senador,bancario e economiario,46,masculino,ensino superior completo,divorciado(a),RS,NA
+2006,TO,55727441153,10621,277,Weder Marcio Da Silva Santos,Weder Santos,27,PSDC,senador,trabalhador de construcao civil,35,masculino,ensino medio completo,solteiro(a),TO,NA
+2006,TO,61330345134,10268,255,Kátia Regina De Abreu,Kátia Abreu,25,PFL,senador,deputado,45,feminino,ensino superior completo,viuvo(a),GO,NA
+2010,MS,00263382893,120000000269,123,Dagoberto Nogueira Filho,Dagoberto Nogueira,12,PDT,senador,deputado,55,masculino,ensino superior completo,casado(a),SP,NA
+2010,MS,01127982842,120000000270,138,Delcídio Do Amaral Gomez,Delcídio,13,PT,senador,senador,56,masculino,ensino superior completo,casado(a),MS,NA
+2010,MS,14332604172,120000000004,151,Waldemir Moka Miranda De Brito,Moka,15,PMDB,senador,deputado,59,masculino,ensino superior completo,divorciado(a),MS,NA
+2010,MS,74706721849,120000000003,255,Murilo Zauith,Murilo Zauith,25,DEM,senador,empresario,60,masculino,ensino superior completo,casado(a),SP,NA
+2010,MA,00014125153,100000000206,151,Edison Lobão,Lobão,15,PMDB,senador,senador,74,masculino,ensino superior completo,casado(a),MA,NA
+2010,MA,00138754349,100000000585,400,Jose Reinaldo Carneiro Tavares,Zé Reinaldo,40,PSB,senador,aposentado (exceto servidor publico),72,masculino,ensino superior completo,divorciado(a),MA,NA
+2010,MA,00176907300,100000000013,455,Edson Carvalho Vidigal,Vidigal,45,PSDB,senador,advogado,66,masculino,ensino superior completo,casado(a),MA,NA
+2010,MA,00180173391,100000000207,152,João Alberto De Souza,João Alberto,15,PMDB,senador,economista,75,masculino,ensino superior completo,casado(a),MA,NA
+2010,MA,18619908391,100000000272,500,Paulo Roberto Rios Ribeiro,Paulo Rios,50,PSOL,senador,servidor publico federal,49,masculino,ensino superior completo,casado(a),MA,NA
+2010,MA,23843616353,100000000004,163,Luiz Carlos Noleto Chaves,Noleto,16,PSTU,senador,servidor publico estadual,47,masculino,ensino superior completo,solteiro(a),MA,NA
+2010,MA,25056956368,100000000014,456,Roberto Coelho Rocha,Roberto Rocha,45,PSDB,senador,deputado,45,masculino,ensino superior completo,casado(a),MA,NA
+2010,MA,48325759372,100000000743,212,Charles Miranda Vieira,Charles Vieira,21,PCB,senador,outros,36,masculino,ensino medio completo,solteiro(a),MA,NA
+2010,MA,56250134387,100000000003,161,Claudicea Alves Durans,Claudicea Durans,16,PSTU,senador,servidor publico federal,41,feminino,ensino superior completo,casado(a),MA,NA
+2010,MA,67675760344,100000000771,651,Adonilson Lima,Prof Adonilson,65,PC do B,senador,outros,36,masculino,ensino superior completo,casado(a),MA,NA
+2010,CE,01032852372,60000000367,456,Tasso Ribeiro Jereissati,Tasso Jereissati,45,PSDB,senador,senador,62,masculino,ensino superior completo,casado(a),CE,NA
+2010,CE,03679004320,60000000154,151,Eunicio Lopes De Oliveira,Eunicio,15,PMDB,senador,empresario,58,masculino,ensino superior completo,casado(a),CE,NA
+2010,CE,06532535320,60000000155,135,Jose Barroso Pimentel,Pimentel,13,PT,senador,deputado,57,masculino,ensino superior completo,casado(a),PI,NA
+2010,CE,15432653320,60000000389,500,Marilene Torres De Vasconcelos,Marilene Torres,50,PSOL,senador,servidor publico civil aposentado,55,feminino,ensino medio completo,solteiro(a),CE,NA
+2010,CE,21091862320,60000000003,234,Alexandre Pereira Silva,Alexandre Pereira,23,PPS,senador,empresario,45,masculino,ensino superior completo,casado(a),CE,NA
+2010,CE,39313450330,60000000666,212,Benedito Oliveira Viana,Benedito Oliveira,21,PCB,senador,trabalhador de construcao civil,44,masculino,ensino fundamental incompleto,casado(a),CE,NA
+2010,CE,42445647304,60000000729,161,Raquel Dias Araujo,Raquel Dias,16,PSTU,senador,professor de ensino superior,42,feminino,ensino superior completo,solteiro(a),CE,NA
+2010,CE,53398386334,60000000730,162,Reginaldo Ferreira De Araujo,Reginaldo,16,PSTU,senador,fiscal,37,masculino,ensino superior completo,casado(a),CE,NA
+2010,GO,00423190130,90000000598,131,Pedro Wilson Guimaraes,Pedro Wilson,13,PT,senador,professor de ensino superior,69,masculino,ensino superior completo,casado(a),GO,NA
+2010,GO,01404377115,90000000367,111,Paulo Roberto Cunha,Paulo Roberto Cunha,11,PP,senador,pecuarista,68,masculino,ensino superior completo,casado(a),GO,NA
+2010,GO,21291373187,90000000410,161,Rubens Donizzeti Pires,Rubens Donizzeti,16,PSTU,senador,advogado,53,masculino,ensino superior completo,divorciado(a),GO,NA
+2010,GO,23166053387,90000000402,210,Bernardo Bispo Beserra,Bernardo Bispo,21,PCB,senador,comerciante,50,masculino,ensino superior completo,casado(a),CE,NA
+2010,GO,25180410100,90000000115,251,Demostenes Lazaro Xavier Torres,Demostenes Torres,25,DEM,senador,senador,50,masculino,ensino superior completo,divorciado(a),GO,NA
+2010,GO,26144158120,90000001026,112,João Batista Feitosa,Renner,11,PP,senador,vereador,47,masculino,ensino superior completo,casado(a),GO,NA
+2010,GO,42289440191,90000000409,500,Elias Vaz De Andrade,Elias Vaz,50,PSOL,senador,vereador,44,masculino,ensino superior incompleto,casado(a),GO,NA
+2010,GO,50908332149,90000000116,451,Lúcia Vânia Abrão Costa,Lúcia Vânia,45,PSDB,senador,senador,66,feminino,ensino superior completo,divorciado(a),GO,NA
+2010,MT,10342931172,110000000024,455,Antero Paes De Barros Neto,Antero,45,PSDB,senador,jornalista e redator,58,masculino,ensino superior completo,casado(a),MT,NA
+2010,MT,24204404987,110000000012,222,Blairo Borges Maggi,Blairo Maggi,22,PR,senador,empresario,54,masculino,ensino superior completo,casado(a),RS,NA
+2010,MT,32898371904,110000000597,432,Naildo Da Silva Lopes,Naildo,43,PV,senador,engenheiro,52,masculino,ensino superior completo,casado(a),PR,NA
+2010,MT,40540448168,110000000165,123,José Pedro Gonçalves Taques,Pedro Taques,12,PDT,senador,professor de ensino superior,43,masculino,ensino superior completo,divorciado(a),MT,NA
+2010,MT,55277497820,110000000025,251,Jorge Yoshiaki Yanai,Jorge Yanai,25,DEM,senador,medico,63,masculino,ensino superior completo,casado(a),PR,NA
+2010,MT,69721106704,110000000013,132,Carlos Augusto Abicalil,Abicalil,13,PT,senador,professor de ensino medio,49,masculino,ensino superior completo,solteiro(a),RJ,NA
+2010,MT,80200800159,110000000003,500,Mauro César Lara De Barros,Procurador Mauro,50,PSOL,senador,servidor publico federal,35,masculino,ensino superior completo,casado(a),MT,NA
+2010,PI,01076760368,180000000703,132,Antonio Jose Castelo Branco Medeiros,Antonio Jose Medeiros,13,PT,senador,professor de ensino superior,60,masculino,ensino superior completo,casado(a),PI,NA
+2010,PI,01090046391,180000000100,200,Francisco De Assis De Moraes Souza,Mao Santa,20,PSC,senador,senador,68,masculino,ensino superior completo,casado(a),PI,NA
+2010,PI,06342850410,180000000101,251,Heraclito De Sousa Fortes,Heraclito Fortes,25,DEM,senador,senador,60,masculino,ensino medio completo,casado(a),PI,NA
+2010,PI,07930836304,180000000183,431,Antônio Florentino De Souza Filho,Antonio Florentino,43,PV,senador,engenheiro,53,masculino,ensino superior completo,casado(a),PI,NA
+2010,PI,18084877372,180000000675,112,Eduardo Rodrigues Da Silva,Sgt. R. Silva,11,PP,senador,militar reformado,56,masculino,ensino medio completo,divorciado(a),PI,NA
+2010,PI,18255663304,180000000704,131,Jose Wellington Barroso De Araujo Dias,Wellington Dias,13,PT,senador,bancario e economiario,49,masculino,ensino superior incompleto,casado(a),PI,NA
+2010,PI,21729697372,180000000364,177,Antonio Almeida De Sousa,Toim Dufrango,17,PSL,senador,empresario,48,masculino,ensino superior incompleto,casado(a),PI,NA
+2010,PI,34190392391,180000000229,111,Ciro Nogueira Lima Filho,Ciro Nogueira,11,PP,senador,advogado,42,masculino,ensino superior completo,casado(a),PI,NA
+2010,PI,35084553353,180000000357,160,João Gervásio Dos Santos Neto,Gervásio Santos,16,PSTU,senador,professor de ensino fundamental,44,masculino,ensino superior completo,casado(a),PI,NA
+2010,PI,44610890372,180000000321,331,Moises Franco Pinto,Pastor Moises,33,PMN,senador,advogado,48,masculino,ensino superior completo,casado(a),MA,NA
+2010,PR,05195223890,160000000079,160,Claudio Roberto Timossi,Timossi,16,PSTU,senador,outros,46,masculino,ensino medio completo,solteiro(a),PR,NA
+2010,PR,05660890920,160000000917,151,Roberto Requião De Mello E Silva,Requião,15,PMDB,senador,advogado,70,masculino,ensino superior completo,casado(a),PR,NA
+2010,PR,06629474953,160000000204,430,Rubens Artur Hering,Rubens Hering,43,PV,senador,economista,58,masculino,ensino superior completo,casado(a),SC,NA
+2010,PR,32299036920,160000001057,707,Irineu Carlos Fritz,Irineu Fritz,70,PT do B,senador,administrador,52,masculino,ensino superior completo,divorciado(a),PR,NA
+2010,PR,32350830063,160000000609,500,Valmor Venturini,Valmor,50,PSOL,senador,servidor publico municipal,50,masculino,ensino superior completo,divorciado(a),RS,NA
+2010,PR,42478979934,160000001074,111,Ricardo Jose Magalhaes Barros,Ricardo Barros,11,PP,senador,deputado,51,masculino,ensino superior completo,casado(a),PR,NA
+2010,PR,45977771991,160000000608,505,Luiz Romeiro Piva,Professor Piva,50,PSOL,senador,professor de ensino medio,48,masculino,ensino superior completo,casado(a),PR,NA
+2010,PR,55919405953,160000000852,211,Gilberto Carlos De Araujo,Gilberto,21,PCB,senador,tecnico de eletricidade eletronica e telecomunicacoes,44,masculino,ensino medio completo,casado(a),PR,NA
+2010,PR,64446379968,160000001073,456,Gustavo Bonato Fruet,Gustavo Fruet,45,PSDB,senador,deputado,47,masculino,ensino superior completo,solteiro(a),PR,NA
+2010,PR,64561542949,160000000889,287,Rivaldir Jensen,Sgt Jensen,28,PRTB,senador,membro das forcas armadas,44,masculino,ensino superior completo,casado(a),PR,NA
+2010,PR,67677061915,160000000916,131,Gleisi Helena Hoffmann,Gleisi,13,PT,senador,advogado,45,feminino,ensino superior completo,divorciado(a),PR,NA
+2010,PR,69454507915,160000000888,280,Ademir Correa Pedroso,Sgt Qe Pedroso,28,PRTB,senador,membro das forcas armadas,44,masculino,ensino medio completo,casado(a),PR,NA
+2010,MG,00378925687,130000000953,234,Itamar Augusto Cautiero Franco,Itamar Franco,23,PPS,senador,engenheiro,81,masculino,ensino superior completo,divorciado(a),BA,NA
+2010,MG,02870153864,130000001758,501,Waldeir Fernandes Da Silva,Mineirinho,50,PSOL,senador,comerciante,50,masculino,ensino medio completo,casado(a),MG,NA
+2010,MG,12984531604,130000002032,133,Fernando Damata Pimentel,Pimentel,13,PT,senador,economista,60,masculino,ensino superior completo,casado(a),MG,NA
+2010,MG,30719577691,130000001107,161,José João Da Silva,José João Da Silva,16,PSTU,senador,trabalhador metalurgico e siderurgico,52,masculino,ensino medio incompleto,casado(a),MG,NA
+2010,MG,34878050730,130000001128,313,Jose Miguel Martini,Miguel Martini,31,PHS,senador,deputado,56,masculino,ensino superior completo,casado(a),ES,NA
+2010,MG,48599700634,130000001959,212,Rafael Sales Pimenta,Rafael Pimenta,21,PCB,senador,advogado,51,masculino,ensino superior completo,casado(a),MG,NA
+2010,MG,53944119649,130000001757,500,Marilda Terezinha Da Silva Ribeiro Fonseca,Marilda Ribeiro,50,PSOL,senador,advogado,47,feminino,ensino superior completo,casado(a),MG,NA
+2010,MG,54591384691,130000001106,160,Efraim Gomes De Moura,Efraim Moura,16,PSTU,senador,tecnico de laboratorio e raios x,45,masculino,ensino medio completo,solteiro(a),MG,NA
+2010,MG,55025919649,130000002033,650,Jose Vieira Filho,Zito Vieira,65,PC do B,senador,cientista politico,45,masculino,ensino superior completo,solteiro(a),MG,NA
+2010,MG,66728983791,130000000952,456,Aécio Neves Da Cunha,Aécio Neves,45,PSDB,senador,economista,51,masculino,ensino superior completo,divorciado(a),MG,NA
+2010,PB,10873023404,150000000289,256,Efraim De Araujo Morais,Efraim Morais,25,DEM,senador,engenheiro,58,masculino,ensino superior completo,casado(a),PB,NA
+2010,PB,16159977415,150000000337,151,Jose Wilson Santiago,Wilson Santiago,15,PMDB,senador,deputado,53,masculino,ensino superior completo,casado(a),PB,NA
+2010,PB,37386310706,150000000003,211,Vital Farias,Vital Farias,21,PCB,senador,cantor e compositor,68,masculino,ensino superior completo,solteiro(a),PB,NA
+2010,PB,38014726472,150000000338,155,Vital Do Rego Filho,Vitalzinho,15,PMDB,senador,deputado,47,masculino,ensino superior completo,casado(a),PB,NA
+2010,PB,42787432468,150000000288,456,Cassio Rodrigues Da Cunha Lima,Cassio Cunha Lima,45,PSDB,senador,advogado,47,masculino,ensino superior completo,casado(a),PB,NA
+2010,PB,43685200410,150000000032,501,Marcos Antonio De Oleveira Dias,Marcos Dias,50,PSOL,senador,professor de ensino medio,47,masculino,ensino superior completo,divorciado(a),PB,NA
+2010,RJ,02317850700,190000002190,500,Jorge Milton Temer,Milton Temer,50,PSOL,senador,jornalista e redator,72,masculino,ensino superior completo,solteiro(a),RJ,NA
+2010,RJ,04656342734,190000002200,233,Marcello Augusto Diniz Cerqueira,Marcelo Cerqueira,23,PPS,senador,advogado,72,masculino,ensino superior completo,divorciado(a),RJ,NA
+2010,RJ,17888646700,190000001659,211,Wladimir Da Silva Vasconcelos,Wladimir Mutt,21,PCB,senador,servidor publico civil aposentado,65,masculino,ensino superior completo,divorciado(a),RJ,NA
+2010,RJ,30798914068,190000000628,162,Claiton Coffy,Claiton,16,PSTU,senador,petroleiro,50,masculino,ensino superior completo,casado(a),RS,NA
+2010,RJ,37295527753,190000000989,251,Cesar Epitacio Maia,Cesar Maia,25,DEM,senador,outros,65,masculino,ensino superior completo,casado(a),RJ,NA
+2010,RJ,40956652700,190000000132,155,Jorge Sayed Picciani,Jorge Picciani,15,PMDB,senador,deputado,56,masculino,ensino superior completo,casado(a),RJ,NA
+2010,RJ,46392319700,190000003213,100,Marcelo Bezerra Crivella,Marcelo Crivella,10,PRB,senador,senador,53,masculino,ensino superior completo,casado(a),RJ,NA
+2010,RJ,55018394749,190000002670,700,Carlos Dias Filho,Carlos Dias,70,PT do B,senador,empresario,51,masculino,ensino superior completo,casado(a),RJ,NA
+2010,RJ,69049351468,190000000133,131,Luiz Lindbergh Farias Filho,Lindberg,13,PT,senador,outros,41,masculino,ensino superior incompleto,casado(a),PB,NA
+2010,RJ,76382940763,190000000629,161,Heitor Fernandes Filho,Heitor,16,PSTU,senador,servidor publico federal,48,masculino,ensino medio completo,casado(a),RJ,NA
+2010,RJ,91621089720,190000002671,707,Wagner Dias Bastos,Waguinho Senador - 707,70,PT do B,senador,cantor e compositor,45,masculino,ensino medio completo,casado(a),RJ,NA
+2010,PA,00018031234,140000000180,151,Jader Fontenelle Barbalho,Jader Barbalho,15,PMDB,senador,deputado,66,masculino,ensino superior completo,casado(a),PA,NA
+2010,PA,00107735253,140000000319,456,Fernando De Souza Flexa Ribeiro,Flexa Ribeiro,45,PSDB,senador,senador,65,masculino,ensino superior completo,divorciado(a),PA,NA
+2010,PA,00138525234,140000000120,501,João Augusto Figueiredo De Oliveira,João Augusto,50,PSOL,senador,advogado,74,masculino,ensino superior completo,casado(a),PA,NA
+2010,PA,11611642272,140000000121,500,Marinor Jorge Brito,Marinor Brito,50,PSOL,senador,professor de ensino medio,52,feminino,ensino superior completo,divorciado(a),PA,NA
+2010,PA,29698952268,140000000110,161,Paulo Roberto Oliveira Braga,Paulo Braga,16,PSTU,senador,eletricista e assemelhados,43,masculino,ensino medio completo,casado(a),PA,NA
+2010,PA,57127654204,140000000109,160,Abelcio Nazareno Santos Ribeiro,Abel Ribeiro,16,PSTU,senador,sociologo,41,masculino,ensino superior completo,casado(a),PA,NA
+2010,RS,00406338884,210000000003,500,Bernadete De Lourdes Rodrigues De Menezes,Berna Menezes,50,PSOL,senador,servidor publico federal,51,feminino,ensino superior incompleto,solteiro(a),PA,NA
+2010,RS,01158597053,210000001296,111,Ana Amelia De Lemos,Ana Amélia Lemos,11,PP,senador,jornalista e redator,66,feminino,ensino superior completo,casado(a),RS,NA
+2010,RS,11062975049,210000000474,131,Paulo Renato Paim,Paim,13,PT,senador,senador,61,masculino,ensino medio completo,casado(a),RS,NA
+2010,RS,22376283000,210000000692,151,Germano Antônio Rigotto,Rigotto,15,PMDB,senador,empresario,61,masculino,ensino superior completo,casado(a),RS,NA
+2010,RS,29673097020,210000000290,333,Jose Luis Schneider,Jose Schinaider,33,PMN,senador,outros,52,masculino,ensino fundamental completo,divorciado(a),RS,NA
+2010,RS,38512092068,210000000473,651,Dilce Abgail Rodrigues Pereira,Abgail Pereira,65,PC do B,senador,servidor publico municipal,50,feminino,ensino superior completo,divorciado(a),RS,NA
+2010,RS,43149782015,210000001416,161,Vera Justina Guasso,Vera Guasso,16,PSTU,senador,tecnico em informatica,47,feminino,ensino superior incompleto,solteiro(a),RS,NA
+2010,RS,43565379049,210000001425,361,Roberto De Souza Gross,Roberto Gross,36,PTC,senador,outros,46,masculino,ensino medio incompleto,solteiro(a),RS,NA
+2010,RS,73250481904,210000001301,430,Marcos Leandro Greff Monteiro,Prof Marcos Monteiro,43,PV,senador,historiador,38,masculino,ensino superior completo,casado(a),RS,NA
+2010,RN,00441392415,200000000180,252,José Agripino Maia,José Agripino,25,DEM,senador,senador,65,masculino,ensino superior completo,casado(a),RN,NA
+2010,RN,00442810482,200000000098,154,Garibaldi Alves Filho,Garibaldi Alves Filho,15,PMDB,senador,senador,64,masculino,ensino superior completo,casado(a),RN,NA
+2010,RN,01606824449,200000000306,277,Joanilson De Paula Rêgo,Dr. Joanilson,27,PSDC,senador,advogado,74,masculino,ensino superior completo,casado(a),RN,NA
+2010,RN,15077195404,200000000353,651,Sávio Ximenes Hackradt,Sávio,65,PC do B,senador,jornalista e redator,54,masculino,ensino superior completo,casado(a),RN,NA
+2010,RN,20045972400,200000000267,400,Wilma Maria De Faria,Vilma,40,PSB,senador,professor de ensino fundamental,66,feminino,ensino superior completo,divorciado(a),RN,NA
+2010,RN,20079559468,200000000266,131,Hugo Manso Junior,Hugo Manso,13,PT,senador,engenheiro,51,masculino,ensino superior completo,casado(a),RN,NA
+2010,RN,27476273818,200000000022,502,Antonio Ronaldo Gomes Garcia,Ronaldo Garcia,50,PSOL,senador,professor de ensino superior,41,masculino,ensino superior completo,divorciado(a),RN,NA
+2010,SC,00586935991,240000000203,155,Luiz Henrique Da Silveira,Luiz Henrique Da Silveira,15,PMDB,senador,advogado,71,masculino,ensino superior completo,casado(a),SC,NA
+2010,SC,22022430972,240000000076,111,Hugo Matias Biehl,Hugo Biehl,11,PP,senador,empresario,58,masculino,ensino superior completo,casado(a),SC,NA
+2010,SC,29397057987,240000000204,456,Paulo Roberto Bauer,Paulo Bauer,45,PSDB,senador,deputado,54,masculino,ensino superior completo,casado(a),SC,NA
+2010,SC,34212299968,240000000077,112,Maria Elizabeth Pelegrini Tiscoski,Beth Tiscoski,11,PP,senador,assistente social,60,feminino,ensino superior completo,casado(a),SC,NA
+2010,SC,34233385987,240000000385,650,João Ghizoni,Ghizoni,65,PC do B,senador,bancario e economiario,50,masculino,ensino superior completo,casado(a),SC,NA
+2010,SC,56341954972,240000000150,500,Paulo Afonso Piovezan,Paulo Afonso,50,PSOL,senador,professor de ensino medio,41,masculino,ensino superior incompleto,divorciado(a),SC,NA
+2010,SC,58988327934,240000000384,130,Claudio Antônio Vignatti,Vignatti,13,PT,senador,deputado,44,masculino,ensino medio completo,casado(a),SC,NA
+2010,SC,77484177920,240000000529,430,Fabiano Luiz Piovezan,Fabiano Piovezan,43,PV,senador,vereador,38,masculino,ensino medio completo,casado(a),SC,NA
+2010,SC,84889152920,240000000137,161,Alex Sander Da Silva,Alex,16,PSTU,senador,servidor publico estadual,36,masculino,ensino superior completo,casado(a),SC,NA
+2010,RR,01131958268,230000000607,433,Luiz Aimbere Soares De Freitas,Aimberê Freitas,43,PV,senador,professor de ensino superior,64,masculino,ensino superior completo,casado(a),RR,NA
+2010,RR,02624753320,230000000059,456,Maria Marluce Moreira Pinto,Marluce Pinto,45,PSDB,senador,outros,72,feminino,ensino medio completo,viuvo(a),CE,NA
+2010,RR,04273230291,230000000143,123,Telmario Mota De Oliveira,Telmário Mota,12,PDT,senador,vereador,53,masculino,ensino superior completo,casado(a),RR,NA
+2010,RR,09582819472,230000000060,156,Romero Juca Filho,Romero Jucá,15,PMDB,senador,senador,56,masculino,ensino superior completo,casado(a),PE,NA
+2010,RR,14997169234,230000000084,311,Hiran Manuel Goncalves Da Silva,Hiran Gonçalves,31,PHS,senador,medico,53,masculino,ensino superior completo,casado(a),AM,NA
+2010,RR,19965303215,230000000506,131,Angela Maria Gomes Portela,Angela Portela,13,PT,senador,deputado,49,feminino,ensino superior completo,casado(a),CE,NA
+2010,RO,15361195200,220000000125,133,Fátima Cleide Rodrigues Da Silva,Fátima Cleide,13,PT,senador,senador,48,feminino,ensino superior completo,solteiro(a),RO,NA
+2010,RO,20432607234,220000000614,501,Nascimento Antônio Da Silva,Pimenta De Rondônia,50,PSOL,senador,comerciante,46,masculino,ensino medio completo,casado(a),PR,NA
+2010,RO,30476640997,220000000179,111,Ivo Narciso Cassol,Ivo Cassol,11,PP,senador,empresario,52,masculino,ensino fundamental completo,casado(a),SC,NA
+2010,RO,31687059268,220000000103,200,Agnaldo Muniz,Agnaldo Muniz,20,PSC,senador,advogado,40,masculino,ensino superior completo,casado(a),PR,NA
+2010,RO,34347364920,220000000003,151,Valdir Raupp De Matos,Valdir Raupp,15,PMDB,senador,administrador,55,masculino,ensino superior completo,casado(a),SC,NA
+2010,RO,40366316168,220000000030,500,Aluizio Vidal Flor,Pastor Aluizio Vidal,50,PSOL,senador,psicologo,42,masculino,ensino superior completo,casado(a),MS,NA
+2014,AC,21644063204,10000000154,654,Maria Perpetua De Almeida,Perpétua Almeida,65,PC do B,senador,deputado,50,feminino,ensino medio completo,casado(a),AC,parda
+2014,AC,28508696272,10000000141,500,Fortunato Martins Filho,Professor Fortunato,50,PSOL,senador,professor de ensino superior,47,masculino,ensino superior completo,solteiro(a),AM,indigena
+2014,AC,43461107204,10000000001,111,Gladson De Lima Cameli,Gladson Cameli,11,PP,senador,deputado,37,masculino,ensino superior completo,casado(a),AC,parda
+2014,AC,67681468072,10000000355,333,Roberto Duarte Junior,Dr. Roberto Duarte,33,PMN,senador,advogado,39,masculino,ensino superior completo,divorciado(a),RS,branca
+2014,AP,04176340215,30000000484,441,Jorvan Tavares Nascimento,Pastor Jorvan,44,PRP,senador,militar reformado,59,masculino,ensino superior completo,casado(a),AP,parda
+2014,AP,09348417215,30000000013,333,Raquel Capiberibe Da Silva,Raquel Capibribe,33,PMN,senador,servidor publico civil aposentado,75,feminino,ensino superior completo,casado(a),PA,branca
+2014,AP,11907894268,30000000113,152,Gilvam Pinheiro Borges,Gilvam,15,PMDB,senador,outros,56,masculino,ensino superior completo,casado(a),DF,parda
+2014,AP,22657371272,30000000010,369,Palmira Das Neves Bittencourt,Coronel Palmira,36,PTC,senador,policial militar,46,feminino,ensino superior completo,divorciado(a),AP,branca
+2014,AP,38850761287,30000000481,131,Doralice Nascimento De Souza,Dora Nascimento,13,PT,senador,governador,47,feminino,ensino superior completo,solteiro(a),AP,preta
+2014,AP,38871033272,30000000016,280,Marco Antonio Reis De Abreu,Marquinho Abreu,28,PRTB,senador,empresario,48,masculino,ensino superior completo,solteiro(a),PA,parda
+2014,AP,41070445649,30000000364,511,Moises Rivaldo Pereira,Promotor Moisés,51,PEN,senador,membro do ministerio publico,52,masculino,ensino superior completo,casado(a),MG,branca
+2014,AP,50826280200,30000000006,161,Paulo Ricardo Oliveira Farias,Professor Paulo Ricardo,16,PSTU,senador,professor de ensino medio,39,masculino,ensino superior completo,solteiro(a),AP,branca
+2014,AP,50900226234,30000000027,255,David Samuel Alcolumbre Tobelem,Davi Alcolumbre,25,DEM,senador,comerciante,37,masculino,ensino superior incompleto,solteiro(a),AP,parda
+2010,PE,00014540487,170000000157,256,Marco Antônio De Oliveira Maciel,Marco Maciel,25,DEM,senador,senador,70,masculino,ensino superior completo,casado(a),PE,NA
+2010,PE,03881229434,170000000003,140,Armando De Queiroz Monteiro Neto,Armando Monteiro,14,PTB,senador,deputado,59,masculino,ensino superior completo,divorciado(a),PE,NA
+2010,PE,15288455449,170000000004,130,Humberto Sergio Costa Lima,Humberto Costa,13,PT,senador,medico,53,masculino,ensino superior completo,casado(a),SP,NA
+2010,PE,17977991420,170000000689,433,Josefa Rene Santos Patriota,Renê Patriota,43,PV,senador,advogado,54,feminino,ensino superior completo,divorciado(a),AL,NA
+2010,PE,22062092415,170000000443,161,Helio Cabral Lima,Helio Cabral,16,PSTU,senador,servidor publico federal,51,masculino,ensino superior completo,casado(a),PE,NA
+2010,PE,24444928468,170000000158,232,Raul Belens Jungmann Pinto,Raul Jungmann,23,PPS,senador,deputado,58,masculino,ensino medio completo,solteiro(a),PE,NA
+2010,PE,48393258472,170000000444,162,Simone Fontana,Simone Fontana,16,PSTU,senador,servidor publico estadual,45,feminino,ensino superior completo,solteiro(a),SP,NA
+2010,PE,60825766834,170000000920,211,Danubio José Rocha Aguiar,Danúbio Aguiar,21,PCB,senador,publicitario,67,masculino,ensino medio completo,casado(a),PE,NA
+2010,PE,71211837491,170000000616,281,Lairson De Lucena Nascimento,Lairson Lucena,28,PRTB,senador,professor de ensino superior,42,masculino,ensino superior completo,divorciado(a),PE,NA
+2010,SP,01097334872,250000003108,141,Romeu Tuma,Romeu Tuma,14,PTB,senador,senador,79,masculino,ensino superior completo,casado(a),SP,NA
+2010,SP,01257841807,250000002543,430,Ricardo Young Silva,Ricardo Young,43,PV,senador,empresario,54,masculino,ensino superior completo,divorciado(a),SP,NA
+2010,SP,01329335864,250000001514,451,Aloysio Nunes Ferreira Filho,Aloysio Nunes,45,PSDB,senador,servidor publico civil aposentado,65,masculino,ensino superior completo,casado(a),SP,NA
+2010,SP,02506856803,250000002788,400,Alexandre Eugenio Serpa,Serpa,40,PSB,senador,economista,48,masculino,ensino superior completo,solteiro(a),SP,NA
+2010,SP,03008703887,250000002789,177,Moacyr De Oliveira Franco,Moacyr Franco,17,PSL,senador,musico,74,masculino,ensino fundamental incompleto,divorciado(a),MG,NA
+2010,SP,03615171810,250000004261,111,Sergio De Azevedo Redó,Dr. Redó,11,PP,senador,advogado,53,masculino,ensino superior completo,casado(a),SP,NA
+2010,SP,03899095804,250000004201,290,Afonso Teixeira Filho,Afonso Teixeira,29,PCO,senador,tradutor interprete e filologo,51,masculino,ensino superior completo,casado(a),SP,NA
+2010,SP,07618069891,250000001972,360,Ciro Tiziani Moura,Ciro,36,PTC,senador,administrador,65,masculino,ensino superior completo,casado(a),SP,NA
+2010,SP,13342850809,250000002143,500,Marcelo Henrique,Marcelo Henrique,50,PSOL,senador,advogado,40,masculino,ensino superior completo,casado(a),SP,NA
+2010,SP,13527572813,250000001429,650,José De Paula Neto,Netinho,65,PC do B,senador,vereador,40,masculino,ensino superior incompleto,solteiro(a),SP,NA
+2010,SP,29187729091,250000001987,160,Ana Luiza De Figueiredo Gomes,Ana Luiza,16,PSTU,senador,servidor publico federal,52,feminino,ensino superior incompleto,divorciado(a),RS,NA
+2010,SP,69915890800,250000001430,133,Marta Suplicy,Marta Suplicy,13,PT,senador,psicologo,66,feminino,ensino superior completo,divorciado(a),SP,NA
+2010,TO,06477534215,270000000345,131,Paulo Sardinha Mourão,Paulo Mourão,13,PT,senador,empresario,55,masculino,ensino superior completo,casado(a),TO,NA
+2010,TO,11747145149,270000000077,221,João Batista De Jesus Ribeiro,João Ribeiro,22,PR,senador,senador,56,masculino,ensino medio completo,casado(a),GO,NA
+2010,TO,15965961120,270000000078,222,Vicente Alves De Oliveira,Vicentinho Alves,22,PR,senador,deputado,53,masculino,ensino medio completo,casado(a),TO,NA
+2018,TO,06477534215,270000626090,131,Paulo Sardinha Mourão,Paulo Mourão,13,PT,senador,empresario,63,masculino,ensino superior completo,casado(a),GO,branca
+2018,TO,08584060120,270000618820,101,César Hanna Halun,César Halum,10,PRB,senador,veterinario,65,masculino,ensino superior completo,casado(a),GO,branca
+2018,TO,12745294172,270000625482,177,Antonio Jorge Godinho,Antônio Jorge,17,PSL,senador,pecuarista,67,masculino,ensino superior completo,solteiro(a),TO,parda
+2018,TO,14721929153,270000602793,455,Ataídes De Oliveira,Ataídes Oliveira,45,PSDB,senador,empresario,59,masculino,ensino superior completo,casado(a),GO,branca
+2018,TO,15965961120,270000602794,222,Vicente Alves De Oliveira,Vicentinho,22,PR,senador,senador,61,masculino,ensino superior incompleto,casado(a),TO,parda
+2018,TO,31340261120,270000629454,777,Carlos Eduardo Torres Gomes,Eduardo Gomes,77,SOLIDARIEDADE,senador,outros,52,masculino,ensino medio completo,casado(a),TO,branca
+2018,TO,32303165172,270000627774,500,Melquesedec Magalhaes Aires,Melk Aires,50,PSOL,senador,comerciario,55,masculino,ensino superior completo,viuvo(a),TO,branca
+2018,TO,56123787004,270000625486,170,Farlei Meyer,Farlei O Federal,17,PSL,senador,servidor publico federal,50,masculino,ensino superior completo,casado(a),RS,branca
+2018,TO,60507306104,270000626087,555,Irajá Silvestre Filho,Irajá,55,PSD,senador,empresario,36,masculino,ensino superior completo,divorciado(a),GO,branca
+2014,CE,01032852372,60000000605,456,Tasso Ribeiro Jereissati,Tasso Jereissati,45,PSDB,senador,empresario,66,masculino,ensino superior completo,casado(a),CE,branca
+2014,CE,15336735191,60000000765,900,Carlos Mauro Benevides Filho,Mauro Filho,90,PROS,senador,economista,56,masculino,ensino superior completo,casado(a),CE,parda
+2014,CE,42445647304,60000000422,161,Raquel Dias Araujo,Raquel Dias,16,PSTU,senador,professor de ensino superior,46,feminino,ensino superior completo,divorciado(a),CE,preta
+2014,CE,46824669334,60000000091,400,Geovana Maria Cartaxo De Arruda Freire,Geovana Cartaxo,40,PSB,senador,professor de ensino superior,44,feminino,ensino superior completo,casado(a),CE,branca
+2014,AL,02906287172,20000000199,144,Fernando Affonso Collor De Mello,Collor,14,PTB,senador,economista,65,masculino,ensino superior completo,casado(a),RJ,branca
+2014,AL,09133810559,20000000028,511,Marcos Antonio Cardoso De Brito,Coronel  Brito,51,PEN,senador,policial militar,60,masculino,ensino superior completo,casado(a),AL,branca
+2014,AL,14502038415,20000000040,288,Oldemberg Fonseca Paranhos,Oldemberg Paranhos,28,PRTB,senador,servidor publico estadual,57,masculino,ensino superior completo,casado(a),AL,parda
+2014,AL,29175011468,20000000101,255,Omar Coelho De Mello,Omar,25,DEM,senador,servidor publico estadual,54,masculino,ensino superior completo,casado(a),AL,branca
+2014,AL,31242448420,20000000034,192,Marcos Barros Aguiar,Marcos Aguiar,19,PTN,senador,advogado,53,masculino,ensino superior completo,casado(a),AL,branca
+2014,AL,33200017449,20000000402,369,Elias Barros Dias,Elias Barros,36,PTC,senador,advogado,52,masculino,ensino superior completo,casado(a),AL,branca
+2014,AL,36450316420,20000000012,500,Heloísa Helena Lima De Moraes,Heloísa Helena,50,PSOL,senador,servidor publico federal,52,feminino,ensino superior completo,casado(a),AL,parda
+2018,RR,00324043287,230000615947,144,Julio Augusto Magalhães Martins,Júlio Martins,14,PTB,senador,aposentado (exceto servidor publico),81,masculino,ensino medio completo,casado(a),RR,parda
+2018,RR,07654871449,230000601673,255,Francisco De Assis Rodrigues,Chico Rodrigues,25,DEM,senador,engenheiro,67,masculino,ensino superior completo,casado(a),PE,parda
+2018,RR,09582819472,230000601676,156,Romero Jucá Filho,Romero Jucá,15,MDB,senador,senador,64,masculino,ensino superior completo,casado(a),PE,branca
+2018,RR,11210702215,230000615949,434,Rudson Leite Da Silva,Rudson Leite,43,PV,senador,senador,55,masculino,ensino superior completo,casado(a),RR,parda
+2018,RR,11218789204,230000609420,107,Antônio Mecias Pereira De Jesus,Mecias De Jesus,10,PRB,senador,administrador,57,masculino,ensino superior completo,casado(a),MA,preta
+2018,RR,11227974272,230000609417,177,Isamar Pessoa Ramalho,Pr.Isamar Ramalho,17,PSL,senador,servidor publico estadual,56,masculino,ensino superior completo,casado(a),RR,parda
+2018,RR,12776181787,230000614386,222,Luciano De Souza Castro,Luciano Castro,22,PR,senador,economista,69,masculino,ensino superior completo,divorciado(a),CE,branca
+2018,RR,19965303215,230000614388,123,Angela Maria Gomes Portela,Angela Portela,12,PDT,senador,senador,57,feminino,ensino superior completo,casado(a),CE,branca
+2018,RR,38278782253,230000614196,212,Telma Marques Da Silva,Telma Taurepang,21,PCB,senador,professor de ensino fundamental,46,feminino,ensino medio completo,solteiro(a),RR,indigena
+2018,RR,79265723220,230000614179,161,Lourival Gomes Da Silva Ferreira,Lourival,16,PSTU,senador,trabalhador de construcao civil,35,masculino,ensino medio completo,solteiro(a),MA,branca
+2018,RO,03733831187,220000618467,152,Confucio Aires Moura,Confucio Moura,15,MDB,senador,medico,70,masculino,ensino superior completo,casado(a),TO,parda
+2018,RO,04232187863,220000604629,400,Jesualdo Pires Ferreira Junior,Jesualdo Pires,40,PSB,senador,prefeito,59,masculino,ensino superior completo,casado(a),SP,branca
+2018,RO,11943964882,220000609854,100,Edesio Fernandes Da Silva,Pastor Edésio Fernandes,10,PRB,senador,outros,50,masculino,ensino superior completo,casado(a),SP,branca
+2018,RO,23797380259,220000627024,280,Ted Wilson De Almeida Ferreira,Ted Wilson,28,PRTB,senador,outros,49,masculino,ensino medio completo,casado(a),RO,parda
+2018,RO,34347364920,220000618466,151,Valdir Raupp De Matos,Valdir Raupp,15,MDB,senador,senador,63,masculino,ensino superior completo,casado(a),SC,branca
+2018,RO,36547050653,220000604628,111,Carlos Magno Ramos,Carlos Magno,11,PP,senador,outros,60,masculino,ensino medio completo,casado(a),MG,parda
+2018,RO,38380196953,220000625840,177,Jaime Maximino Bagattoli,Jaime Bagattoli,17,PSL,senador,empresario,57,masculino,ensino medio incompleto,casado(a),SC,branca
+2018,RO,40366316168,220000627641,180,Aluízio Vidal Flor,Aluízio Vidal,18,REDE,senador,psicologo,50,masculino,ensino superior completo,casado(a),MS,parda
+2018,RO,40980316200,220000600266,300,Fabricio Grisi Médici Jurado,Fabricio Jurado,30,NOVO,senador,advogado,43,masculino,ensino superior completo,casado(a),RO,branca
+2018,RO,60232064253,220000609853,255,Marcos Rogério Da Silva Brito,Marcos Rogério,25,DEM,senador,jornalista e redator,40,masculino,ensino superior completo,casado(a),RO,branca
+2010,SE,00253391504,260000000133,456,Albano Do Prado Pimentel Franco,Albano Franco,45,PSDB,senador,deputado,70,masculino,ensino superior completo,casado(a),SE,NA
+2010,SE,00409090506,260000000175,404,Antonio Carlos Valadares,Valadares,40,PSB,senador,senador,67,masculino,ensino superior completo,divorciado(a),SE,NA
+2010,SE,03388190534,260000000244,250,José Carlos Machado,Machado,25,DEM,senador,deputado,62,masculino,ensino superior completo,viuvo(a),SE,NA
+2010,SE,15450562500,260000000034,280,Paulo Vieira Dos Anjos,Paulinho Da União Tur,28,PRTB,senador,motorista de veiculos de transporte coletivo de passageiros,51,masculino,ensino fundamental completo,casado(a),AL,NA
+2010,SE,17023122591,260000000243,231,Emanuel Messias Oliveira Cacho,Emanuel Cacho,23,PPS,senador,advogado,51,masculino,ensino superior completo,casado(a),SE,NA
+2010,SE,17067235553,260000000024,161,Maria De Lourdes Alves Dos Anjos,Lourdinha,16,PSTU,senador,assistente social,56,feminino,ensino superior completo,solteiro(a),AL,NA
+2010,SE,23500948553,260000000303,270,João Augusto Botto De Barros Nascimento,João Augusto Nascimento,27,PSDC,senador,estudante bolsista estagiario e assemelhados,48,masculino,ensino superior incompleto,casado(a),SE,NA
+2010,SE,23629711553,260000000176,200,Eduardo Alves Do Amorim,Eduardo Amorim,20,PSC,senador,deputado,47,masculino,ensino superior completo,casado(a),SE,NA
+2010,SE,40059286504,260000000092,211,Luis Antonio De Melo Barreto,Prof. Lula,21,PCB,senador,professor de ensino medio,44,masculino,ensino superior incompleto,casado(a),SE,NA
+2010,SE,50626248515,260000000033,284,Liberato Ferreira Antao,Gugu Liberato,28,PRTB,senador,outros,44,masculino,ensino fundamental completo,solteiro(a),SE,NA
+2010,SE,67939287400,260000000003,500,Jose Atamario Cordeiro Da Silva,Atamario Cordeiro,50,PSOL,senador,servidor publico federal,40,masculino,ensino superior incompleto,casado(a),AL,NA
+2010,SE,70363048804,260000000134,432,Antonio Dos Santos Leite,Antonio Leite,43,PV,senador,astronomo,59,masculino,ensino medio completo,casado(a),SE,NA
+2014,MA,01196553300,100000000379,151,Gastão Dias Vieira,Gastão Vieira,15,PMDB,senador,deputado,68,masculino,ensino superior completo,casado(a),MA,branca
+2014,MA,12886459372,100000000199,500,Haroldo Freitas Pires De Saboia,Haroldo Saboia,50,PSOL,senador,servidor publico federal,64,masculino,ensino superior completo,casado(a),MA,branca
+2014,MA,25056956368,100000000016,400,Roberto Coelho Rocha,Roberto Rocha,40,PSB,senador,outros,49,masculino,ensino superior completo,casado(a),MA,branca
+2014,MA,25698443300,100000000003,163,Marcos Antonio Silva Do Nascimento,Marcos Silva,16,PSTU,senador,servidor publico estadual,49,masculino,ensino superior completo,solteiro(a),MA,preta
+2014,MA,30411050397,100000000134,541,Gerson Dos Santos Cardoso Da Silva,Gersão,54,PPL,senador,outros,45,masculino,ensino medio completo,casado(a),MA,parda
+2014,MA,89317980325,100000000536,212,Evandnilson Conceição De Andrade,Evan De Andrade,21,PCB,senador,servidor publico federal,35,masculino,ensino superior incompleto,divorciado(a),MA,parda
+2018,MA,00014125153,100000608136,150,Edison Lobão,Edison Lobão,15,MDB,senador,senador,82,masculino,ensino superior completo,casado(a),MA,branca
+2018,MA,00138754349,100000612585,455,Jose Reinaldo Carneiro Tavares,Zé Reinaldo,45,PSDB,senador,deputado,80,masculino,ensino superior completo,divorciado(a),MA,branca
+2018,MA,00338520309,100000602468,163,Luciana Costa Correa,Preta Lu,16,PSTU,senador,fiandeiro tecelao tingidor e assemelhados,37,feminino,ensino superior incompleto,solteiro(a),MA,preta
+2018,MA,14737418315,100000608138,432,Jose Sarney Filho,Sarney Filho,43,PV,senador,deputado,61,masculino,ensino superior completo,casado(a),MA,branca
+2018,MA,47594136349,100000602467,161,Saulo Costa Arcangeli,Saulo Arcangeli,16,PSTU,senador,servidor publico federal,47,masculino,ensino superior completo,casado(a),MA,branca
+2018,MA,62929399368,100000603920,123,Weverton Rocha Marques De Sousa,Weverton,12,PDT,senador,deputado,39,masculino,ensino superior completo,casado(a),MA,preta
+2018,MA,64893049372,100000612587,456,Alexandre Vicente De Paula Almeida,Alexandre Almeida,45,PSDB,senador,advogado,35,masculino,ensino superior completo,casado(a),DF,branca
+2018,MA,75242788372,100000603923,232,Eliziane Pereira Gama Melo,Eliziane Gama,23,PPS,senador,deputado,42,feminino,ensino superior completo,casado(a),MA,parda
+2018,MA,81151080306,100000613999,170,Samoel Campelo,Samoel De Itapecuru,17,PSL,senador,tecnico contabilidade estatistica economia domestica e administracao,44,masculino,ensino medio completo,casado(a),MA,parda
+2018,MA,96138777387,100000618769,212,Iêgo Brunno Costa Castro,Iêgo Brunno,21,PCB,senador,servidor publico estadual,35,masculino,ensino superior incompleto,solteiro(a),MA,branca
+2018,MA,98324446320,100000618783,500,Saulo Pinto Silva,Saulo Pinto,50,PSOL,senador,professor de ensino superior,37,masculino,ensino superior completo,divorciado(a),MA,preta
+2014,AM,01806998220,40000000866,333,Jonatas Almeida De Oliveira,Jonatas Almeida,33,PMN,senador,servidor publico estadual,62,masculino,ensino superior completo,casado(a),AM,parda
+2014,AM,02581680210,40000000074,131,Francisco Ednaldo Praciano,Praciano,13,PT,senador,deputado,63,masculino,ensino superior completo,casado(a),CE,branca
+2014,AM,07588615249,40000000489,555,Omar Jose Abdel Aziz,Omar Aziz,55,PSD,senador,engenheiro,56,masculino,ensino superior completo,casado(a),SP,branca
+2014,AM,21424799287,40000000007,161,Julio Cezar Ferraz De Souza,Júlio Ferraz,16,PSTU,senador,tecnico de laboratorio e raios x,51,masculino,ensino medio completo,solteiro(a),AM,parda
+2014,AM,50864173253,40000000598,400,Marcelo Augusto Da Eira Correa,Marcelo Serafim,40,PSB,senador,vereador,38,masculino,ensino superior completo,casado(a),AM,branca
+2014,AM,64505065472,40000000708,500,Marcos Antonio De Queiroz,Professor Queiroz,50,PSOL,senador,servidor publico estadual,47,masculino,ensino superior completo,solteiro(a),PB,branca
+2018,PE,00105457434,170000604551,156,Jarbas De Andrade Vasconcelos,Jarbas,15,MDB,senador,deputado,76,masculino,ensino superior completo,divorciado(a),PE,branca
+2018,PE,03266589475,170000617292,900,Lidia Brunes Silva De Souza,Lidia Brunes,90,PROS,senador,administrador,39,feminino,ensino superior completo,solteiro(a),PE,preta
+2018,PE,04319891414,170000607380,505,Maria Eugenia Wanderley Lima,Eugênia,50,PSOL,senador,outros,35,feminino,ensino superior completo,solteiro(a),PE,preta
+2018,PE,10481389415,170000617293,700,Silvio Serafim Costa,Silvio Costa,70,AVANTE,senador,deputado,62,masculino,ensino superior completo,casado(a),PE,branca
+2018,PE,15288455449,170000604548,130,Humberto Sérgio Costa Lima,Humberto Costa,13,PT,senador,senador,61,masculino,ensino superior completo,divorciado(a),SP,parda
+2018,PE,22062092415,170000606878,161,Helio Cabral Lima,Helio Cabral,16,PSTU,senador,professor de ensino superior,59,masculino,ensino superior completo,casado(a),PE,preta
+2018,PE,40530086468,170000605130,252,Jose Mendonca Bezerra Filho,Mendonca Filho,25,DEM,senador,outros,52,masculino,ensino superior completo,casado(a),PE,parda
+2018,PE,45799040449,170000607402,500,Albanise Pires Ferreira De Azevedo,Albanise,50,PSOL,senador,servidor publico federal,52,feminino,ensino superior completo,solteiro(a),PE,branca
+2018,PE,66673283491,170000627509,188,Adriana Rocha De Holanda Coutinho,Adriana Rocha,18,REDE,senador,advogado,49,feminino,ensino superior completo,solteiro(a),PE,branca
+2018,PE,73467260497,170000605133,456,Bruno Cavalcanti De Araújo,Bruno Araujo,45,PSDB,senador,advogado,47,masculino,ensino superior completo,casado(a),PE,branca
+2018,PE,98788523420,170000627506,180,Jairo Lima Da Silva,Pastor Jairinho,18,REDE,senador,outros,42,masculino,ensino superior completo,casado(a),PE,branca
+2014,ES,02460944780,80000000003,161,Raphael Góes Furtado,Raphael Furtado,16,PSTU,senador,professor de ensino superior,41,masculino,ensino superior completo,divorciado(a),ES,branca
+2014,ES,07003976714,80000000484,500,Andre Luiz Moreira,Andre Moreira,50,PSOL,senador,advogado,42,masculino,ensino superior completo,casado(a),ES,preta
+2014,ES,37967517768,80000000426,156,Rosilda De Freitas,Rose De Freitas,15,PMDB,senador,deputado,66,feminino,ensino superior incompleto,solteiro(a),MG,branca
+2014,ES,39495760704,80000000397,131,Joao Carlos Coser,Joao Coser,13,PT,senador,advogado,59,masculino,ensino superior completo,casado(a),ES,branca
+2014,ES,81824726791,80000000762,433,Neucimar Ferreira Fraga,Neucimar Fraga,43,PV,senador,empresario,48,masculino,ensino medio completo,divorciado(a),BA,parda
+2018,MT,04447999153,110000622010,188,Sebastião Carlos Gomes De Carvalho,Sebastião Carlos,18,REDE,senador,advogado,70,masculino,ensino superior completo,casado(a),GO,branca
+2018,MT,04881044168,110000612714,251,Jayme Verissimo De Campos,Jayme Campos,25,DEM,senador,empresario,67,masculino,ensino medio completo,casado(a),MT,parda
+2018,MT,10818405104,110000600720,300,Waldir Caldas Rodrigues,Dr Waldir Caldas,30,NOVO,senador,advogado,64,masculino,ensino superior completo,casado(a),MS,branca
+2018,MT,17732441168,110000621994,547,Aladir Leite Albuquerque,Aladir,54,PPL,senador,servidor publico civil aposentado,61,masculino,ensino superior completo,casado(a),GO,parda
+2018,MT,28391780104,110000607696,505,Gilberto Lopes Filho,Gilberto Lopes Filho,50,PSOL,senador,servidor publico federal,56,masculino,ensino superior completo,solteiro(a),MS,branca
+2018,MT,34577521172,110000613182,456,Nilson Aparecido Leitão,Nilson Leitão,45,PSDB,senador,deputado,50,masculino,ensino medio completo,casado(a),MS,parda
+2018,MT,44901100068,110000613185,170,Selma Rosane Santos Arruda,Juiza Selma Arruda,17,PSL,senador,aposentado (exceto servidor publico),56,feminino,ensino superior completo,casado(a),RS,branca
+2018,MT,45360707968,110000609946,100,Adilton Domingos Sachetti,Adilton Sachetti,10,PRB,senador,arquiteto,63,masculino,ensino superior completo,viuvo(a),SC,branca
+2018,MT,60435593820,110000609944,654,Maria Lucia Cavalli Neder,Professora Maria Lucia,65,PC do B,senador,professor de ensino superior,67,feminino,ensino superior completo,casado(a),SP,parda
+2018,MT,62918311987,110000612717,555,Carlos Henrique Baqueta Favaro,Fávaro,55,PSD,senador,produtor agropecuario,49,masculino,ensino superior completo,casado(a),PR,branca
+2018,MT,80200800159,110000607694,500,Mauro César Lara De Barros,Procurador Mauro,50,PSOL,senador,servidor publico federal,43,masculino,ensino superior completo,casado(a),MT,preta
+2014,SC,00421407905,240000000500,333,Alan Alves Moreira,Alan Alves Moreira,33,PMN,senador,empresario,36,masculino,ensino superior incompleto,solteiro(a),SC,branca
+2014,SC,01866648934,240000000189,130,Milton Mendes De Oliveira,Milton Mendes,13,PT,senador,advogado,62,masculino,ensino superior completo,casado(a),SC,branca
+2014,SC,18333532004,240000000116,444,Junara Aparecida Goncalves Ferraz,Professora Junara Ferraz,44,PRP,senador,professor de ensino medio,62,feminino,ensino superior completo,divorciado(a),RS,branca
+2014,SC,34195491991,240000000209,155,Dário Elias Berger,Dário,15,PMDB,senador,administrador,58,masculino,ensino superior completo,divorciado(a),SC,branca
+2014,SC,47583819920,240000000199,160,Rosane De Souza,Rosane De Souza,16,PSTU,senador,servidor publico civil aposentado,54,feminino,ensino superior completo,divorciado(a),SC,branca
+2014,SC,48875589968,240000000461,401,Paulo Roberto Barreto Bornhausen,Paulo Bornhausen,40,PSB,senador,advogado,51,masculino,ensino superior completo,casado(a),SC,branca
+2014,SC,57941815915,240000000059,500,Amauri Soares,Sargento Soares,50,PSOL,senador,deputado,48,masculino,ensino superior completo,casado(a),PR,branca
+2014,MS,01099561760,120000000278,151,Simone Nassar Tebet,Simone Tebet,15,PMDB,senador,outros,45,feminino,ensino superior completo,casado(a),MS,branca
+2014,MS,02457938104,120000000085,555,Antonio Joao Hugo Rodrigues,Antonio João,55,PSD,senador,jornalista e redator,67,masculino,ensino fundamental completo,casado(a),MS,branca
+2014,MS,06060365809,120000000003,167,Valdemir Cassimiro De Souza,Valdemir Do Pstu,16,PSTU,senador,porteiro de edificio ascensorista garagista e zelador,50,masculino,ensino medio completo,solteiro(a),DF,parda
+2014,MS,31183700172,120000000483,500,Lucien Roberto Garcia De Rezende,Lucien Rezende,50,PSOL,senador,trabalhador rural,51,masculino,ensino superior incompleto,solteiro(a),MS,branca
+2014,MS,34388800163,120000000440,111,Alcides Jesus Peralta Bernal,Alcides Bernal,11,PP,senador,advogado,49,masculino,ensino superior completo,casado(a),MS,branca
+2014,MS,50125818149,120000000285,133,Ricardo Ayache,Ricardo Ayache,13,PT,senador,medico,44,masculino,ensino superior completo,casado(a),MS,branca
+2014,GO,05206375187,90000000640,551,Vilmar Da Silva Rocha,Vilmar Rocha,55,PSD,senador,deputado,64,masculino,ensino superior completo,casado(a),GO,branca
+2014,GO,19681780159,90000000318,131,Marina Pignataro Sant Anna,Marina Sant Anna,13,PT,senador,advogado,56,feminino,ensino medio completo,solteiro(a),SP,parda
+2014,GO,21982694149,90000000026,401,Aguimar Jesuíno Da Silva,Aguimar Jesuíno,40,PSB,senador,servidor publico federal,54,masculino,ensino superior completo,casado(a),GO,branca
+2014,GO,26472058768,90000000605,251,Ronaldo Ramos Caiado,Ronaldo Caiado,25,DEM,senador,medico,65,masculino,ensino superior completo,casado(a),GO,branca
+2014,GO,37702645172,90000000512,500,Elber Sampaio,Elber Sampaio,50,PSOL,senador,outros,48,masculino,ensino superior incompleto,solteiro(a),GO,branca
+2014,GO,78200253104,90000000909,210,Antônio Vieira Neto,Antônio Neto,21,PCB,senador,professor de ensino fundamental,39,masculino,ensino superior completo,casado(a),GO,branca
+2014,GO,84255773734,90000000001,271,Aldo Muro Junior,Aldo Muro,27,PSDC,senador,servidor publico federal,47,masculino,ensino superior completo,casado(a),RJ,branca
+2018,SE,00283219521,260000624581,177,Carlos Eduardo Silva,Cadu Silva,17,PSL,senador,empresario,36,masculino,ensino superior incompleto,casado(a),SE,branca
+2018,SE,00409090506,260000614792,404,Antonio Carlos Valadares,Valadares,40,PSB,senador,senador,75,masculino,ensino superior completo,casado(a),SE,parda
+2018,SE,03862232549,260000623589,155,Jackson Barreto De Lima,Jackson Barreto,15,MDB,senador,advogado,74,masculino,ensino superior completo,solteiro(a),SE,branca
+2018,SE,10210431504,260000610791,161,Clarckson Messias Araujo Do Nascimento,Clarckson Messias,16,PSTU,senador,petroleiro,62,masculino,ensino superior completo,casado(a),SE,preta
+2018,SE,22708863568,260000600284,500,Sonia Meire Santos Azevedo De Jesus,Professora Sonia Meire,50,PSOL,senador,professor de ensino superior,56,feminino,ensino superior completo,viuvo(a),SP,parda
+2018,SE,34361014515,260000610534,433,Reynaldo Nunes De Morais,Reynaldo Nunes,43,PV,senador,servidor publico estadual,53,masculino,ensino superior completo,casado(a),SE,parda
+2018,SE,41168720591,260000623617,131,Rogerio Carvalho Santos,Rogerio Carvalho Santos,13,PT,senador,professor de ensino superior,50,masculino,ensino superior completo,divorciado(a),SE,branca
+2018,SE,45006776587,260000621984,100,José Heleno Da Silva,Pastor Heleno,10,PRB,senador,agronomo,51,masculino,ensino superior incompleto,casado(a),SE,branca
+2018,SE,45501645572,260000614793,540,Henri Clay Santos Andrade,Henri Clay,54,PPL,senador,advogado,49,masculino,ensino superior completo,casado(a),SE,branca
+2018,SE,55686176515,260000621976,200,André Luis Dantas Ferreira,André Moura,20,PSC,senador,deputado,47,masculino,ensino superior incompleto,casado(a),BA,branca
+2018,SE,71943790582,260000601810,181,Alessandro Vieira,Delegado Alessandro Vieira,18,REDE,senador,policial civil,43,masculino,ensino superior completo,casado(a),RS,parda
+2018,SE,82037701500,260000600292,505,Jossimário De Souza Mick,Professor Jossimário Mick,50,PSOL,senador,professor de ensino medio,36,masculino,ensino superior completo,solteiro(a),SE,preta
+2018,MS,04064992172,120000620261,133,Jose Orcirio Miranda Dos Santos,Zeca Do Pt,13,PT,senador,deputado,69,masculino,ensino superior completo,casado(a),MS,branca
+2018,MS,05594388850,120000627285,200,Sergio Fernando Raimundo Harfouche,Promotor Sergio Harfouche,20,PSC,senador,membro do ministerio publico,55,masculino,ensino superior completo,casado(a),MS,branca
+2018,MS,08854147800,120000628740,100,Gilmar Neri De Souza,Gilmar Da Cruz,10,PRB,senador,vereador,50,masculino,ensino superior incompleto,casado(a),SP,branca
+2018,MS,14332604172,120000624873,151,Waldemir Moka Miranda De Britto,Moka,15,MDB,senador,senador,67,masculino,ensino superior completo,viuvo(a),MT,branca
+2018,MS,30547741120,120000603540,356,Dorival Betini,Betini,35,PMB,senador,servidor publico estadual,55,masculino,ensino superior completo,casado(a),PR,branca
+2018,MS,36776726191,120000603773,190,Humberto Savio Abussafi Figueiró,Beto Figueiró,19,PODE,senador,advogado,51,masculino,ensino superior completo,casado(a),MS,branca
+2018,MS,40448118149,120000606866,144,Nelson Trad Filho,Nelsinho Trad,14,PTB,senador,medico,57,masculino,ensino superior completo,casado(a),MS,branca
+2018,MS,40901343153,120000612741,500,Anisio Guilherme Da Fonseca,Anisio Guato,50,PSOL,senador,porteiro de edificio ascensorista garagista e zelador,52,masculino,ensino superior completo,casado(a),MS,indigena
+2018,MS,52817776100,120000606861,456,Ednei Marcelo Miglioli,Marcelo Miglioli,45,PSDB,senador,pecuarista,47,masculino,ensino superior completo,casado(a),SP,branca
+2018,MS,60838965172,120000623873,177,Soraya Vieira Thronicke,Soraya Thronicke,17,PSL,senador,advogado,45,feminino,ensino superior completo,casado(a),MS,branca
+2018,MS,88507130968,120000605501,654,Mario Cesar Fonseca Da Silva,Mario  Fonseca,65,PC do B,senador,advogado,45,masculino,ensino superior completo,solteiro(a),MS,branca
+2014,TO,31340261120,270000000281,777,Carlos Eduardo Torres Gomes,Eduardo Gomes,77,SOLIDARIEDADE,senador,deputado,48,masculino,ensino superior incompleto,casado(a),SE,branca
+2014,TO,37519239187,270000000318,500,Elvio Quirino Pereira,Elvio Quirino,50,PSOL,senador,administrador,49,masculino,ensino superior completo,casado(a),GO,branca
+2014,TO,43754686453,270000000124,900,Manoel Aragão Da Silva,Sargento Aragão,90,PROS,senador,deputado,49,masculino,ensino superior completo,casado(a),PE,parda
+2014,TO,61330345134,270000000011,155,Katia Regina De Abreu,Katia Abreu,15,PMDB,senador,senador,53,feminino,ensino superior completo,viuvo(a),GO,branca
+2014,TO,74159038387,270000000002,211,Maria Da Conceição Silva De Oliveira,Ceiça,21,PCB,senador,pedagogo,40,feminino,ensino superior completo,solteiro(a),MA,preta
+2018,SC,00383736960,240000609726,177,Lucas De Souza Esmeraldino,Lucas Esmeraldino,17,PSL,senador,odontologo,36,masculino,ensino superior completo,casado(a),SC,branca
+2018,SC,03703699981,240000610040,160,Ricardo Walter Lautert,Ricardo Lautert,16,PSTU,senador,professor de ensino medio,37,masculino,ensino superior completo,casado(a),PR,branca
+2018,SC,11268786934,240000621326,111,Esperidião Amin Helou Filho,Esperidião Amin,11,PP,senador,deputado,71,masculino,ensino superior completo,casado(a),SC,branca
+2018,SC,22270027949,240000624339,130,Ideli Salvatti,Ideli Salvatti,13,PT,senador,aposentado (exceto servidor publico),67,feminino,ensino superior completo,casado(a),SC,branca
+2018,SC,25084119904,240000609539,222,Jorginho Dos Santos Mello,Jorginho Mello,22,PR,senador,deputado,62,masculino,ensino superior completo,divorciado(a),SC,parda
+2018,SC,28886402953,240000614221,331,Roberto Luiz Salum,Roberto Salum,33,PMN,senador,servidor publico estadual,62,masculino,ensino superior completo,solteiro(a),SC,branca
+2018,SC,29397057987,240000609536,456,Paulo Roberto Bauer,Paulo Bauer,45,PSDB,senador,contador,62,masculino,ensino superior completo,casado(a),SC,branca
+2018,SC,29568420991,240000621322,555,João Raimundo Colombo,Raimundo Colombo,55,PSD,senador,administrador,64,masculino,ensino medio incompleto,divorciado(a),SC,branca
+2018,SC,32165721881,240000616323,188,Diego Oliveira De Paola,Diego Mezzogiorno,18,REDE,senador,outros,35,masculino,ensino medio completo,solteiro(a),SP,branca
+2018,SC,34298703991,240000624344,131,Lédio Rosa De Andrade,Lédio Rosa,13,PT,senador,advogado,60,masculino,ensino superior completo,solteiro(a),SC,branca
+2018,SC,45448035949,240000601867,500,Pedro Cabral Filho,Professor Pedro Cabral,50,PSOL,senador,professor de ensino fundamental,58,masculino,ensino superior completo,solteiro(a),SC,preta
+2018,SC,50334735904,240000601872,505,Antônio Valmor De Campos,Professor Antonio,50,PSOL,senador,professor de ensino superior,55,masculino,ensino superior completo,casado(a),RS,branca
+2018,SC,51245094904,240000616320,181,Miriam Prochnow,Miriam Prochnow,18,REDE,senador,outros,54,feminino,ensino superior completo,casado(a),SC,branca
+2018,AL,00322598400,20000616688,111,Benedito De Lira,Benedito De Lira,11,PP,senador,senador,76,masculino,ensino superior completo,casado(a),AL,branca
+2018,AL,00987752430,20000616686,456,Rodrigo Santos Cunha,Rodrigo Cunha,45,PSDB,senador,advogado,37,masculino,ensino superior completo,casado(a),AL,parda
+2018,AL,06841888723,20000616900,177,Flavio Antonio Moreno Da Silva,Flavio Moreno,17,PSL,senador,servidor publico federal,43,masculino,ensino superior completo,casado(a),RJ,parda
+2018,AL,11078685487,20000621738,151,José Renan Vasconcelos Calheiros,Renan,15,MDB,senador,senador,63,masculino,ensino superior completo,casado(a),AL,branca
+2018,AL,43814123468,20000619789,500,Cicero Ferreira Albuquerque,Prof. Cicero Albuquerque,50,PSOL,senador,professor de ensino medio,53,masculino,ensino superior completo,solteiro(a),AL,parda
+2018,AL,43915779768,20000616928,511,Sergio Cabral Barbosa,Sergio Cabral,51,PATRIOTA,senador,outros,65,masculino,ensino fundamental completo,divorciado(a),AL,branca
+2018,AL,80328598453,20000619794,210,Osvaldo Batista Acioly Maciel,Osvaldo Maciel,21,PCB,senador,professor de ensino superior,47,masculino,ensino superior completo,casado(a),AL,branca
+2018,AL,80355633434,20000621740,222,Maurício Quintella Malta Lessa,Mauricio Quintella,22,PR,senador,deputado,48,masculino,ensino superior completo,casado(a),AL,parda
+2014,SE,15523870544,260000000082,251,Maria Do Carmo Do Nascimento Alves,Maria Do Carmo,25,DEM,senador,advogado,73,feminino,ensino superior completo,casado(a),SE,branca
+2014,SE,17123720504,260000000264,543,Moacir Cruz Dos Santos,Bila,54,PPL,senador,servidor publico municipal,56,masculino,le e escreve,casado(a),SE,parda
+2014,SE,33619107572,260000000036,212,José Antônio Marques De Oliveira,Professor Marques,21,PCB,senador,professor de ensino medio,49,masculino,ensino superior completo,casado(a),SE,preta
+2014,SE,39068650530,260000000001,161,Edivaldo Soares Leandro,Leandro,16,PSTU,senador,petroleiro,52,masculino,ensino superior incompleto,divorciado(a),SE,parda
+2014,SE,41168720591,260000000079,131,Rogério Carvalho Santos,Rogério,13,PT,senador,deputado,46,masculino,ensino superior completo,divorciado(a),SE,branca
+2018,PB,02043033468,150000603512,134,Luiz Albuquerque Couto,Luiz Couto,13,PT,senador,deputado,74,masculino,ensino superior completo,solteiro(a),PB,branca
+2018,PB,08647488415,150000600162,505,José Nivaldo Mangueira De Assis,Nivaldo Mangueira,50,PSOL,senador,professor de ensino superior,69,masculino,ensino superior completo,casado(a),PB,branca
+2018,PB,36764736472,150000611212,151,Antonio Roberto De Sousa Paulino,Roberto Paulino,15,MDB,senador,advogado,67,masculino,ensino superior completo,casado(a),PB,branca
+2018,PB,42787432468,150000615603,456,Cássio Rodrigues Da Cunha Lima,Cássio Cunha Lima,45,PSDB,senador,advogado,55,masculino,ensino superior completo,casado(a),PB,branca
+2018,PB,69108919453,150000600159,500,Nelson Aleixo Da Silva Júnior,Professor Nelson Júnior,50,PSOL,senador,professor de ensino superior,49,masculino,ensino superior completo,casado(a),RN,parda
+2018,PB,71346376468,150000603510,400,Veneziano Vital Do Rêgo Segundo Neto,Veneziano,40,PSB,senador,deputado,48,masculino,ensino superior completo,casado(a),PB,branca
+2018,PB,82671400420,150000615600,111,Daniella Velloso Borges Ribeiro,Daniella Ribeiro,11,PP,senador,pedagogo,47,feminino,ensino superior completo,casado(a),PB,branca
+2018,PI,02382091304,180000614005,151,Marcelo Costa E Castro,Marcelo Castro,15,MDB,senador,deputado,68,masculino,ensino superior completo,casado(a),PI,branca
+2018,PI,05004970874,180000600808,277,Joaquim Jose Saraiva Da Penha,Joaquim Saraiva,27,DC,senador,estudante bolsista estagiario e assemelhados,56,masculino,ensino medio completo,casado(a),PI,branca
+2018,PI,06444555353,180000604104,400,Wilson Nunes Martins,Wilson Martins,40,PSB,senador,medico,65,masculino,ensino superior completo,casado(a),PI,branca
+2018,PI,09645802334,180000622409,200,Genival Oliveira Lima,Genival Oliveira ,20,PSC,senador,aposentado (exceto servidor publico),61,masculino,ensino superior completo,solteiro(a),MA,preta
+2018,PI,13384139372,180000604101,258,Robert Rios Magalhães,Robert Rios,25,DEM,senador,deputado,59,masculino,ensino superior completo,divorciado(a),PI,parda
+2018,PI,14511886334,180000625900,170,Antônio José De Freitas Lira,Antônio José Lira,17,PSL,senador,empresario,58,masculino,ensino superior incompleto,casado(a),PI,branca
+2018,PI,15062619300,180000600806,278,Lafayette Pereira Andrade,Lafayette Andrade,27,DC,senador,advogado,59,masculino,ensino superior completo,casado(a),PI,branca
+2018,PI,18141900315,180000607150,500,Jesus Rodrigues Alves,Jesus Rodrigues,50,PSOL,senador,outros,59,masculino,ensino superior completo,casado(a),RJ,branca
+2018,PI,32766076387,180000625910,177,Elizeu Morais De Aguiar,Elizeu Aguiar,17,PSL,senador,empresario,52,masculino,ensino medio completo,casado(a),PI,parda
+2018,PI,34190392391,180000614004,111,Ciro Nogueira Lima Filho,Ciro Nogueira,11,PP,senador,senador,50,masculino,ensino superior completo,casado(a),PI,branca
+2018,PI,35010649349,180000626505,290,Albetiza Moreira De Araujo,Albetiza,29,PCO,senador,professor de ensino medio,50,feminino,ensino superior completo,solteiro(a),PI,parda
+2018,PI,35084553353,180000613688,166,João Gervasio Dos Santos Neto,Gervasio Santos,16,PSTU,senador,professor de ensino medio,52,masculino,ensino superior completo,casado(a),PI,preta
+2018,PI,39448070306,180000626826,181,Paulo Henrique Da Costa Pinheiro,Paulo Henrique,18,REDE,senador,professor de ensino superior,49,masculino,ensino superior completo,casado(a),CE,parda
+2018,PI,39495400325,180000608767,101,Francineto Luz De Aguiar,Frank Aguiar,10,PRB,senador,cantor e compositor,48,masculino,ensino superior completo,casado(a),PI,parda
+2018,PI,41250516315,180000626178,700,Francisco Das Chagas Costa Oliveira,Quem Quem,70,AVANTE,senador,empresario,47,masculino,ensino medio completo,casado(a),PI,parda
+2018,PI,62550128320,180000615099,444,Flávia Da Silva Oliveira Barbosa,Flávia Barbosa,44,PRP,senador,outros,41,feminino,ensino superior completo,casado(a),PI,branca
+2018,PI,70434271349,180000607144,211,Fausto Luiz Duarte Ripardo,Professor Fausto Ripardo,21,PCB,senador,professor de ensino medio,51,masculino,ensino superior completo,casado(a),PI,parda
+2018,PI,89823362300,180000608764,361,Marcos Vinicius Cunha Dias,Dr. Marcos,36,PTC,senador,medico,37,masculino,ensino superior completo,casado(a),PI,branca
+2014,RS,00225843072,210000001241,151,Pedro Jorge Simon,Simon,15,PMDB,senador,senador,85,masculino,ensino superior completo,casado(a),RS,branca
+2014,RS,01124552049,210000000283,123,Lasier Costa Martins,Lasier Martins,12,PDT,senador,jornalista e redator,72,masculino,ensino superior completo,divorciado(a),RS,branca
+2014,RS,05012643020,210000000002,131,Olívio De Oliveira Dutra,Olívio Dutra,13,PT,senador,aposentado (exceto servidor publico),73,masculino,ensino superior completo,casado(a),RS,branca
+2014,RS,05879582000,210000000296,333,Ciro Castilho Machado,Ciro Machado,33,PMN,senador,advogado,65,masculino,ensino superior completo,casado(a),RS,branca
+2014,RS,21601070004,210000000313,444,Rubens Goldenberg,Gold,44,PRP,senador,empresario,59,masculino,ensino superior incompleto,casado(a),RS,branca
+2014,RS,39540391091,210000000067,160,Julio Cezar Leirias Flores,Julio Flores,16,PSTU,senador,professor de ensino medio,55,masculino,ensino superior completo,casado(a),RS,branca
+2014,RS,92926142072,210000000632,111,Simone Regina Diefenthaeler Leite,Simone Leite,11,PP,senador,empresario,37,feminino,ensino superior completo,casado(a),RS,branca
+2018,AC,05610427053,10000600229,177,Paulo Luiz Pedrazza,Pedrazza,17,PSL,senador,advogado,68,masculino,ensino superior completo,casado(a),AC,branca
+2018,AC,09604332287,10000603058,555,Sérgio De Oliveira Cunha,Petecão,55,PSD,senador,senador,58,masculino,ensino medio completo,casado(a),AC,branca
+2018,AC,21722099291,10000600003,181,Minoru Martins Kinpara,Minoru Kinpara,18,REDE,senador,servidor publico federal,50,masculino,ensino superior completo,casado(a),GO,amarela
+2018,AC,23796332153,10000603061,151,Marcio Miguel Bittar,Márcio Bittar,15,MDB,senador,historiador,55,masculino,ensino superior completo,casado(a),SP,branca
+2018,AC,59549050297,10000615660,133,Joziney Alves Amorim,Ney Amorim,13,PT,senador,deputado,42,masculino,ensino superior incompleto,solteiro(a),AC,branca
+2018,AC,96980486853,10000615657,131,Jorge Ney Viana Macedo Neves,Jorge Viana,13,PT,senador,senador,59,masculino,ensino superior completo,divorciado(a),AC,parda
+2018,AM,03537250215,40000603706,455,Francisco Plinio Valerio Tomaz,Plinio Valerio,45,PSDB,senador,vereador,64,masculino,ensino superior completo,casado(a),AM,branca
+2018,AM,05727600430,40000610064,222,Alfredo Pereira Do Nascimento,Alfredo Nascimento,22,PR,senador,deputado,66,masculino,ensino superior completo,casado(a),RN,parda
+2018,AM,07396570204,40000610393,180,Luiz Castro Andrade Neto,Luiz Castro,18,REDE,senador,deputado,60,masculino,ensino superior completo,casado(a),SP,branca
+2018,AM,07810423215,40000618261,155,Carlos Eduardo De Souza Braga,Eduardo Braga,15,MDB,senador,senador,58,masculino,ensino superior completo,casado(a),PA,branca
+2018,AM,16114620291,40000627725,656,Vanessa Grazziotin,Vanessa,65,PC do B,senador,senador,57,feminino,ensino superior completo,casado(a),SC,branca
+2018,AM,28429338268,40000602401,500,Luiz Fernando De Souza Santos,Luiz Fernando Santos,50,PSOL,senador,professor de ensino superior,52,masculino,ensino superior completo,casado(a),AM,parda
+2018,AM,51340836220,40000602419,508,Rondinely Fonseca Da Silveira,Rondinely Fonseca,50,PSOL,senador,jornalista e redator,40,masculino,ensino superior completo,casado(a),AM,preta
+2018,AM,64440249272,40000610062,123,Hissa Nagib Abrahao Filho,Hissa Abrahão,12,PDT,senador,empresario,38,masculino,ensino superior completo,casado(a),AM,branca
+2014,PA,00009563253,140000000871,456,Mario Couto Filho,Mario Couto,45,PSDB,senador,senador,69,masculino,ensino superior completo,casado(a),PA,branca
+2014,PA,02366010249,140000000650,131,Paulo Roberto Galvao Da Rocha,Paulo Rocha,13,PT,senador,aposentado (exceto servidor publico),64,masculino,ensino superior incompleto,solteiro(a),PA,branca
+2014,PA,12218324253,140000000034,433,Simão Hernan Bendayan,Professor Simão,43,PV,senador,professor de ensino medio,55,masculino,ensino superior completo,divorciado(a),AM,branca
+2014,PA,18404596204,140000000153,161,Angela Soares De Azevedo,Angela Azevedo,16,PSTU,senador,servidor publico federal,56,feminino,ensino superior completo,solteiro(a),PA,parda
+2014,PA,23287829220,140000000211,777,Marcela Giovana Gusmão Tolentino De Matos,Enfermeira Marcela Tolentino,77,SOLIDARIEDADE,senador,vereador,46,feminino,ensino superior completo,casado(a),RJ,branca
+2014,PA,35236728215,140000000340,555,Helenilson Cunha Pontes,Helenilson Pontes,55,PSD,senador,advogado,43,masculino,ensino superior completo,casado(a),PA,branca
+2014,PA,45831424200,140000000150,500,Pedro Holanda Maia,Pedrinho Maia,50,PSOL,senador,administrador,41,masculino,ensino superior completo,solteiro(a),PA,parda
+2014,PA,59598409287,140000000796,111,Jefferson Ely Vale De Lima,Jefferson Lima,11,PP,senador,outros,40,masculino,ensino medio completo,casado(a),PA,parda
+2014,DF,01796869848,70000000146,144,Jorge Afonso Argello,Gim Argello,14,PTB,senador,senador,52,masculino,ensino superior completo,divorciado(a),SP,branca
+2014,DF,05975530172,70000000986,456,Sandra Sueli Quezado Soares,Sandra Quezado,45,PSDB,senador,outros,60,feminino,ensino superior completo,casado(a),RJ,branca
+2014,DF,21134375620,70000000820,133,Geraldo Magela Pereira,Magela,13,PT,senador,deputado,58,masculino,ensino superior completo,casado(a),MG,branca
+2014,DF,22062386168,70000000812,290,Expedito Carneiro De Mendonça,Expedito Mendonça,29,PCO,senador,servidor publico federal,54,masculino,ensino superior completo,solteiro(a),MG,branca
+2014,DF,32332491287,70000000161,160,Robson Raymundo Da Silva,Robson,16,PSTU,senador,professor de ensino medio,44,masculino,ensino superior completo,casado(a),RJ,preta
+2014,DF,47236787434,70000000181,500,Aldemario Araujo Castro,Aldemario,50,PSOL,senador,advogado,48,masculino,ensino superior completo,divorciado(a),AL,branca
+2014,DF,77867556834,70000000156,211,Jamil Magari,Jamil Magari,21,PCB,senador,professor de ensino medio,58,masculino,ensino superior completo,divorciado(a),SP,branca
+2014,DF,78229766134,70000000436,123,José Antonio Machado Reguffe,Reguffe,12,PDT,senador,deputado,42,masculino,ensino superior completo,casado(a),RJ,branca
+2014,MT,16042638904,110000000542,456,Jose Rogério Salles,Rogério Salles,45,PSDB,senador,produtor agropecuario,61,masculino,ensino superior completo,casado(a),PR,branca
+2014,MT,23019093104,110000000293,222,Wellington Antonio Fagundes,Wellington Fagundes,22,PR,senador,deputado,57,masculino,ensino superior completo,casado(a),MT,branca
+2014,MT,28391780104,110000000029,500,Gilberto Lopes Filho,Gilberto Lopes Filho,50,PSOL,senador,servidor publico estadual,52,masculino,ensino superior completo,solteiro(a),MT,parda
+2014,MT,33719578100,110000000159,555,Rui Carlos Ottoni Prado,Rui Prado,55,PSD,senador,veterinario,51,masculino,ensino superior completo,casado(a),MS,branca
+2014,RO,40366316168,220000000005,500,Aluizio Vidal Flor,Aluizio Vidal,50,PSOL,senador,sacerdote ou membro de ordem ou seita religiosa,46,masculino,ensino superior completo,casado(a),MS,branca
+2014,RO,44435630915,220000000189,123,Acir Marcos Gurgacz,Acir Gurgacz,12,PDT,senador,senador,53,masculino,ensino superior incompleto,casado(a),PR,branca
+2014,RO,57178020210,220000000277,111,Ivone Mezzomo Cassol,Ivone Cassol,11,PP,senador,empresario,54,feminino,ensino fundamental completo,casado(a),SC,branca
+2014,BA,05985234568,50000000403,555,Otto Roberto Mendonca De Alencar,Otto Alencar,55,PSD,senador,medico,67,masculino,ensino superior completo,casado(a),BA,branca
+2014,BA,10602011434,50000000177,400,Eliana Calmon Alves,Eliana Calmon,40,PSB,senador,aposentado (exceto servidor publico),70,feminino,ensino superior completo,divorciado(a),BA,branca
+2014,BA,22062734115,50000000621,150,Geddel Quadros Vieira Lima,Geddel Vieira Lima,15,PMDB,senador,empresario,56,masculino,ensino superior completo,casado(a),BA,branca
+2014,BA,23946857515,50000000021,500,Hamilton Moreira De Assis,Hamilton Assis,50,PSOL,senador,servidor publico municipal,52,masculino,ensino superior completo,solteiro(a),BA,preta
+2014,BA,59753080549,50000001223,511,Marcelo Augusto Evangelista Sousa,Marcelo Evangelista,51,PEN,senador,sacerdote ou membro de ordem ou seita religiosa,44,masculino,ensino fundamental completo,casado(a),BA,parda
+2014,PB,00471739472,150000000158,155,José Targino Maranhão,Jose Maranhão,15,PMDB,senador,empresario,81,masculino,ensino superior completo,casado(a),PB,branca
+2014,PB,16159977415,150000000409,145,José Wilson Santiago,Wilson Santiago,14,PTB,senador,servidor publico estadual,57,masculino,ensino superior completo,casado(a),PB,branca
+2014,PB,20610335472,150000000001,360,Walter Correia De Brito Filho,Walter Brito,36,PTC,senador,empresario,54,masculino,ensino superior incompleto,casado(a),PB,branca
+2014,PB,60100990487,150000000054,133,Lucélio Cartaxo Pires De Sá,Lucélio Cartaxo,13,PT,senador,farmaceutico,50,masculino,ensino superior completo,casado(a),PB,parda
+2014,PB,69108919453,150000000022,500,Nelson Aleixo Da Silva Júnior,Nelson Júnior,50,PSOL,senador,servidor publico estadual,45,masculino,ensino superior completo,casado(a),RN,parda
+2014,PB,84096047449,150000000372,900,Leila De Cássia Tavares Da Fonseca,Professora Leila,90,PROS,senador,professor de ensino superior,39,feminino,ensino superior completo,casado(a),PB,branca
+2014,PB,95383026487,150000000333,161,Severina Dos Ramos Silva Dantas,Rama Dantas,16,PSTU,senador,professor de ensino fundamental,45,feminino,ensino superior completo,divorciado(a),PB,parda
+2018,RN,00084000406,200000611398,456,Geraldo Jose Da Camara Ferreira De Melo,Geraldo Melo,45,PSDB,senador,empresario,83,masculino,ensino superior completo,casado(a),RN,branca
+2018,RN,00442810482,200000610644,154,Garibaldi Alves Filho,Garibaldi Filho,15,MDB,senador,senador,72,masculino,ensino superior completo,casado(a),RN,branca
+2018,RN,01195796420,200000626720,180,Eann Styvenson Valentim Mendes,Capitão Styvenson,18,REDE,senador,policial militar,42,masculino,ensino superior completo,casado(a),AC,branca
+2018,RN,01606824449,200000602579,277,Joanilson De Paula Rego,Dr Joanilson,27,DC,senador,advogado,82,masculino,ensino superior completo,casado(a),RN,branca
+2018,RN,05640202491,200000601386,500,Lailson De Almeida,Professor Lailson,50,PSOL,senador,professor de ensino superior,68,masculino,ensino superior completo,casado(a),RN,parda
+2018,RN,12352993415,200000606729,313,Zenaide Maia Calado Pereira Dos Santos,Dr. Zenaide Maia,31,PHS,senador,deputado,64,feminino,ensino superior completo,casado(a),PB,branca
+2018,RN,17519084884,200000623084,282,Levi Ferreira Da Costa,Levi Costa,28,PRTB,senador,outros,46,masculino,ensino medio completo,casado(a),RN,branca
+2018,RN,35431520415,200000602577,777,Maria Magnolia Sousa Figueiredo,Magnólia,77,SOLIDARIEDADE,senador,servidor publico municipal,55,feminino,ensino superior completo,casado(a),RN,branca
+2018,RN,35843225453,200000610643,199,Antônio Jácome De Lima Junior,Jácome,19,PODE,senador,medico,56,masculino,ensino superior completo,casado(a),PB,branca
+2018,RN,36995134400,200000601385,502,Telma Gurgel Da Silva,Telma Gurgel,50,PSOL,senador,assistente social,54,feminino,ensino superior completo,divorciado(a),RN,preta
+2018,RN,45522286415,200000611620,161,Ana Celia Siqueira Ferreira,Ana Celia,16,PSTU,senador,professor de ensino fundamental,52,feminino,ensino superior completo,solteiro(a),RN,preta
+2018,RN,53859669400,200000606724,131,Alexandre Motta Camara,Alexandre Motta,13,PT,senador,medico,55,masculino,ensino superior completo,casado(a),RN,branca
+2018,RN,65272846400,200000611622,169,João Morais Pereira,João Morais ,16,PSTU,senador,servidor publico estadual,53,masculino,ensino superior incompleto,casado(a),RN,preta
+2018,RN,67203345491,200000627396,188,João Maria Napoleão De Medeiros,Napoleão,18,REDE,senador,servidor publico municipal,50,masculino,ensino superior completo,casado(a),RN,parda
+2018,MG,00445689676,130000604556,250,Rodrigo Otávio Soares Pacheco,Rodrigo Pacheco,25,DEM,senador,advogado,42,masculino,ensino superior completo,divorciado(a),RO,branca
+2018,MG,03053788640,130000628818,130,Miguel Correa Da Silva Júnior,Miguel Correa,13,PT,senador,deputado,40,masculino,ensino superior completo,casado(a),MG,parda
+2018,MG,04967383645,130000606704,500,Duda Salabert,Professora Duda Salabert,50,PSOL,senador,professor de ensino medio,37,feminino,ensino superior completo,solteiro(a),MG,branca
+2018,MG,05548342606,130000606639,210,Túlio Cesar Dias Lopes,Professor Tulio Lopes,21,PCB,senador,estudante bolsista estagiario e assemelhados,36,masculino,ensino superior completo,solteiro(a),MG,parda
+2018,MG,08791393744,130000624867,180,Carlos Eduardo Braga Menezes,Kaka Menezes,18,REDE,senador,servidor publico municipal,39,masculino,ensino medio completo,casado(a),MG,branca
+2018,MG,13326724691,130000626944,133,Dilma Vana Rousseff,Dilma Rousseff,13,PT,senador,outros,71,feminino,ensino superior completo,divorciado(a),MG,branca
+2018,MG,24433977691,130000627683,540,Elio Antonio Lacerda,Coronel Lacerda,54,PPL,senador,policial militar,64,masculino,ensino superior completo,casado(a),BA,branca
+2018,MG,40890708649,130000612381,310,Carlos Alberto Dias Viana,Jornalista Carlos Viana,31,PHS,senador,jornalista e redator,56,masculino,ensino superior completo,casado(a),MG,parda
+2018,MG,51929147600,130000600704,300,Rodrigo Antônio De Paiva,Rodrigo Paiva,30,NOVO,senador,empresario,55,masculino,ensino superior completo,casado(a),MG,branca
+2018,MG,55755925615,130000627686,544,Alcindor Ribeiro Damasceno,Bispo Damasceno,54,PPL,senador,empresario,54,masculino,ensino superior completo,casado(a),MG,preta
+2018,MG,67960553653,130000606598,700,Edson Andre Dos Reis,Edson Andre P,70,AVANTE,senador,outros,51,masculino,ensino superior completo,casado(a),MG,preta
+2018,MG,72465581600,130000629443,123,Luíz Fábio Cherem,Fábio Cherem,12,PDT,senador,deputado,50,masculino,ensino superior completo,casado(a),MG,branca
+2018,MG,78798477668,130000622066,161,Vanessa Portugal Barbosa,Vanessa Portugal Barbosa,16,PSTU,senador,professor de ensino fundamental,48,feminino,ensino superior completo,casado(a),MG,branca
+2018,MG,84319089634,130000604554,777,Dinis Antônio Pinheiro,Dinis Pinheiro,77,SOLIDARIEDADE,senador,empresario,51,masculino,ensino superior completo,casado(a),MG,branca
+2018,CE,03088065300,60000605121,177,Pedro Ribeiro Filho,Pastor Pedro Ribeiro,17,PSL,senador,sacerdote ou membro de ordem ou seita religiosa,72,masculino,ensino superior completo,casado(a),CE,branca
+2018,CE,03679004320,60000605116,151,Eunício Lopes De Oliveira,Eunício,15,MDB,senador,senador,66,masculino,ensino superior completo,casado(a),CE,parda
+2018,CE,11638176353,60000622554,180,João Francisco Saraiva Menezes,João Saraiva,18,REDE,senador,servidor publico municipal,62,masculino,ensino superior completo,casado(a),CE,branca
+2018,CE,20912013320,60000610981,123,Cid Ferreira Gomes,Cid Gomes,12,PDT,senador,engenheiro,55,masculino,ensino superior completo,casado(a),CE,branca
+2018,CE,31966810334,60000611597,900,Luis Eduardo Grangeiro Girão,Eduardo Girão,90,PROS,senador,empresario,46,masculino,ensino medio completo,casado(a),CE,parda
+2018,CE,38558661391,60000611596,456,Mayra Isabel Correia Pinheiro,Dra. Mayra,45,PSDB,senador,medico,52,feminino,ensino superior completo,divorciado(a),CE,branca
+2018,CE,51353377334,60000605120,178,Marcio Antonio Almeida Pinheiro,Dr Márcio Pinheiro,17,PSL,senador,medico,41,masculino,ensino superior completo,casado(a),CE,branca
+2018,CE,54846757315,60000620531,505,Anna Karina Cavalcante De Oliveira,Anna Karina,50,PSOL,senador,professor de ensino medio,45,feminino,ensino superior completo,casado(a),CE,branca
+2018,CE,55535100315,60000620534,500,Jamieson Rodrigues Simões,Pastor Simões,50,PSOL,senador,sacerdote ou membro de ordem ou seita religiosa,42,masculino,ensino superior completo,casado(a),PA,preta
+2018,AP,04179196204,30000622839,333,Jorge Wagner Costa Gomes,Wagner Gomes,33,PMN,senador,advogado,66,masculino,ensino superior completo,solteiro(a),PA,parda
+2018,AP,05597310860,30000602700,177,Ricardo Gonçalves Santos,Dr Ricardo Santos,17,PSL,senador,advogado,54,masculino,ensino superior completo,divorciado(a),SP,branca
+2018,AP,07019858287,30000605846,151,Fátima Lúcia Pelaes,Fátima Pelaes,15,MDB,senador,sociologo,60,feminino,ensino superior completo,casado(a),AP,branca
+2018,AP,08986118220,30000620108,450,Sebastião Ferreira Da Rocha,Bala Rocha,45,PSDB,senador,servidor publico federal,61,masculino,ensino superior completo,casado(a),PA,branca
+2018,AP,11907894268,30000605843,152,Gilvam Pinheiro Borges,Gilvam Borges,15,MDB,senador,sociologo,60,masculino,ensino superior completo,divorciado(a),DF,parda
+2018,AP,20912340282,30000607892,147,Luiz Cantuária Barreto,Lucas Barreto,14,PTB,senador,tecnico de eletricidade eletronica e telecomunicacoes,54,masculino,ensino medio completo,casado(a),AP,branca
+2018,AP,43187943268,30000620104,180,Randolph Frederich Rodrigues Alves,Randolfe ,18,REDE,senador,senador,46,masculino,ensino superior completo,divorciado(a),PE,branca
+2018,AP,58637508200,30000623196,360,Guaracy Batista Da Silveira Junior,Guaracy,36,PTC,senador,empresario,44,masculino,ensino superior completo,solteiro(a),PA,branca
+2018,AP,62723693015,30000610398,161,Davi Ivã Martins Da Silva,Dr. Davi,16,PSTU,senador,advogado,48,masculino,ensino superior completo,casado(a),RS,branca
+2018,BA,00376299568,50000608057,150,Jorge Vianna Dias Da Silva,Jorge Vianna,15,MDB,senador,medico,80,masculino,ensino superior completo,viuvo(a),BA,branca
+2018,BA,10660410591,50000608315,456,Jutahy Magalhaes Junior,Jutahy Magalhaes Junior,45,PSDB,senador,deputado,63,masculino,ensino superior completo,casado(a),BA,branca
+2018,BA,17224500534,50000622084,170,Kleber Rebouças Rangel,Comandante Rangel,17,PSL,senador,empresario,59,masculino,ensino medio completo,divorciado(a),BA,parda
+2018,BA,26471620772,50000607712,130,Jaques Wagner,Jaques Wagner,13,PT,senador,industrial,68,masculino,ensino superior incompleto,casado(a),RJ,branca
+2018,BA,27386956800,50000600866,500,Fabio Nogueira De Oliveira,Fabio Nogueira,50,PSOL,senador,professor de ensino superior,40,masculino,ensino superior completo,divorciado(a),MS,preta
+2018,BA,30942608534,50000608313,200,Antonio Lázaro Silva,Irmão Lázaro,20,PSC,senador,empresario,52,masculino,ensino medio completo,casado(a),BA,preta
+2018,BA,40689387504,50000618936,290,Adroaldo Oliveira Dos Santos,Adroaldo Dos Santos,29,PCO,senador,professor de ensino superior,51,masculino,ensino superior completo,solteiro(a),BA,branca
+2018,BA,46811532572,50000623173,188,Francisco José Dos Santos,Francisco José,18,REDE,senador,advogado,51,masculino,ensino superior completo,divorciado(a),BA,parda
+2018,BA,55974643534,50000608112,277,Marcos De Oliveira Mauricio,Marcos Mauricio,27,DC,senador,policial civil,45,masculino,ensino superior completo,casado(a),BA,branca
+2018,BA,77865111568,50000607716,555,Angelo Mario Coronel De Azevedo Martins,Angelo Coronel,55,PSD,senador,deputado,60,masculino,ensino superior completo,casado(a),BA,branca
+2018,BA,90027736504,50000622083,280,Celso Zallio Coelho,Celsinho Cotrim,28,PRTB,senador,administrador,43,masculino,ensino superior completo,solteiro(a),BA,parda
+2014,RJ,05954436134,190000001408,100,Sebastião Neves,Diplomata Sebastião Neves,10,PRB,senador,diplomata,72,masculino,ensino superior completo,casado(a),PR,branca
+2014,RJ,37295527753,190000001651,255,Cesar Epitacio Maia,Cesar Maia,25,DEM,senador,economista,69,masculino,ensino superior completo,casado(a),RJ,branca
+2014,RJ,41070747220,190000000410,500,Pedro Rosa Cabral,Pedro Rosa,50,PSOL,senador,geografo,43,masculino,ensino superior completo,solteiro(a),PA,parda
+2014,RJ,43425909720,190000002501,123,Carlos Roberto Lupi,Carlos Lupi,12,PDT,senador,outros,58,masculino,ensino superior completo,casado(a),SP,parda
+2014,RJ,63440547787,190000000588,901,Liliam Sá De Paula,Liliam Sá,90,PROS,senador,deputado,54,feminino,ensino superior incompleto,casado(a),RJ,branca
+2014,RJ,76382940763,190000000102,161,Heitor Fernandes Filho,Heitor Fernandes,16,PSTU,senador,agente postal,52,masculino,ensino medio completo,casado(a),RJ,preta
+2014,RJ,90671953753,190000000675,400,Romário De Souza Faria,Romário,40,PSB,senador,deputado,49,masculino,ensino superior incompleto,divorciado(a),RJ,parda
+2014,RN,05640202491,200000000099,500,Lailson De Almeida,Professor Lailson,50,PSOL,senador,professor e instrutor de formacao profissional,64,masculino,ensino superior completo,casado(a),RN,branca
+2014,RN,16025733449,200000000244,131,Maria De Fátima Bezerra,Fátima,13,PT,senador,deputado,59,feminino,ensino superior completo,solteiro(a),PB,parda
+2014,RN,20045972400,200000000129,400,Wilma Maria De Faria,Vilma Maria De Faria,40,PSB,senador,aposentado (exceto servidor publico),70,feminino,ensino superior completo,divorciado(a),RN,branca
+2014,RN,45522286415,200000000003,161,Ana Célia Siqueira Ferreira,Ana Celia,16,PSTU,senador,professor de ensino fundamental,48,feminino,ensino superior completo,solteiro(a),RN,preta
+2014,SP,04497643387,250000002333,210,Edmilson Silva Costa,Edmilson Costa,21,PCB,senador,professor de ensino superior,64,masculino,ensino superior completo,divorciado(a),MA,parda
+2014,SP,05909198815,250000000499,131,Eduardo Matarazzo Suplicy,Eduardo Suplicy,13,PT,senador,senador,73,masculino,ensino superior completo,divorciado(a),SP,branca
+2014,SP,08884761832,250000002089,555,Gilberto Kassab,Gilberto Kassab,55,PSD,senador,empresario,54,masculino,ensino superior completo,solteiro(a),SP,branca
+2014,SP,13341133860,250000002955,441,Luiz Fernando Amaral Lucas,Fernando Lucas,44,PRP,senador,empresario,39,masculino,ensino superior completo,casado(a),SP,branca
+2014,SP,14226873840,250000000898,430,Carlos Alberto Dos Santos,Kaka Wera,43,PV,senador,antropologo,51,masculino,ensino superior completo,casado(a),SP,indigena
+2014,SP,29187729091,250000001855,161,Ana Luiza De Figueiredo Gomes,Ana Luiza,16,PSTU,senador,servidor publico federal,56,feminino,ensino superior incompleto,divorciado(a),RS,branca
+2014,SP,85885177872,250000002562,140,Marlene Oliveira De Campos Machado,Marlene Campos Machado,14,PTB,senador,empresario,56,feminino,ensino superior completo,casado(a),SP,branca
+2014,SP,86088866853,250000002261,281,Ricardo Simon Flaquer,Senador Fláquer,28,PRTB,senador,advogado,58,masculino,ensino superior completo,casado(a),SP,branca
+2014,SP,93565968834,250000001674,456,José Serra,José Serra,45,PSDB,senador,economista,73,masculino,ensino superior completo,casado(a),SP,branca
+2014,MG,02948853664,130000001760,210,Pablo Luiz De Oliveira Lima,Pablo Lima,21,PCB,senador,professor de ensino superior,37,masculino,ensino superior completo,casado(a),MG,branca
+2014,MG,23231998620,130000001246,400,Margarida Luiza De Matos Vieira,Margarida Vieira,40,PSB,senador,professor de ensino superior,66,feminino,ensino superior completo,casado(a),MG,branca
+2014,MG,47555882604,130000001777,456,Antonio Augusto Junho Anastasia,Antonio Anastasia,45,PSDB,senador,servidor publico estadual,53,masculino,ensino superior completo,solteiro(a),MG,branca
+2014,MG,49379577672,130000000910,150,Josué Christiano Gomes Da Silva,Josué Alencar,15,PMDB,senador,empresario,51,masculino,ensino superior completo,casado(a),MG,branca
+2014,MG,64119840697,130000001160,700,Edilson Jose Do Nascimento,Edilson Nascimento,70,PT do B,senador,outros,45,masculino,ensino superior completo,divorciado(a),MG,branca
+2014,MG,66349605691,130000000532,270,Jose Tarcisio Dos Santos,Tarcisio,27,PSDC,senador,outros,52,masculino,ensino medio completo,casado(a),MG,preta
+2014,MG,72962143687,130000000421,290,Maria Das Graças Sousa Vieira,Graça,29,PCO,senador,servidor publico estadual,60,feminino,ensino medio completo,solteiro(a),BA,preta
+2014,MG,99245060659,130000000295,161,Geraldo De Araújo Silva,Geraldo Batata,16,PSTU,senador,trabalhador metalurgico e siderurgico,42,masculino,ensino superior incompleto,casado(a),MG,branca
+2014,PE,01077887809,170000000026,400,Fernando Bezerra De Souza Coelho,Fernando Bezerra Coelho,40,PSB,senador,administrador,57,masculino,ensino superior completo,casado(a),PE,branca
+2014,PE,07993137420,170000000651,130,João Paulo Lima E Silva,João Paulo,13,PT,senador,deputado,62,masculino,ensino medio completo,casado(a),PE,parda
+2014,PE,45799040449,170000000455,500,Albanise Pires Ferreira De Azevedo,Albanise Pires,50,PSOL,senador,servidor publico federal,48,feminino,ensino superior completo,solteiro(a),PE,branca
+2014,PE,48393258472,170000000005,162,Simone Fontana,Simone Fontana,16,PSTU,senador,professor de ensino medio,49,feminino,ensino superior completo,divorciado(a),PE,branca
+2014,PE,84274220834,170000000015,211,Antonio Elias Pereira,Oxis,21,PCB,senador,aposentado (exceto servidor publico),60,masculino,ensino medio completo,solteiro(a),PE,parda
+2018,GO,03553821809,90000609445,456,Marconi Ferreira Perillo Júnior,Marconi Perillo,45,PSDB,senador,advogado,56,masculino,ensino superior completo,casado(a),GO,branca
+2018,GO,14464969291,90000609234,111,Vanderlan Vieira Cardoso,Vanderlan,11,PP,senador,empresario,56,masculino,ensino medio completo,casado(a),GO,branca
+2018,GO,21800391153,90000619105,135,Luís Cesar Bueno E Freitas,Luis César Bueno,13,PT,senador,deputado,58,masculino,ensino superior completo,divorciado(a),GO,branca
+2018,GO,21840571187,90000613472,444,Jorge Kajuru Reis Da Costa Nasser,Jorge Kajuru,44,PRP,senador,jornaleiro,58,masculino,ensino fundamental incompleto,divorciado(a),SP,branca
+2018,GO,25194879172,90000619107,131,Maria Geli Sanches,Professora Geli,13,PT,senador,vereador,58,feminino,ensino superior completo,casado(a),GO,branca
+2018,GO,45434581172,90000613469,251,Wilder Pedro De Morais,Wilder Morais,25,DEM,senador,senador,50,masculino,ensino superior completo,divorciado(a),GO,branca
+2018,GO,48460648168,90000618808,290,Alessandro Aquino Cirqueira,Professor Alessandro Aquino,29,PCO,senador,advogado,27,masculino,ensino superior completo,casado(a),GO,branca
+2018,GO,50908332149,90000609449,405,Lúcia Vânia Abrão,Lúcia Vânia,40,PSB,senador,senador,74,feminino,ensino superior completo,divorciado(a),GO,branca
+2018,GO,52659887187,90000609233,150,Agenor Mariano Da Silva Neto,Agenor,15,MDB,senador,empresario,44,masculino,ensino superior completo,casado(a),GO,parda
+2018,GO,78173019134,90000621005,210,Magda Maria Borges,Professora Magda Borges,21,PCB,senador,estudante bolsista estagiario e assemelhados,45,feminino,ensino superior completo,divorciado(a),GO,branca
+2018,GO,88696596153,90000602021,500,Fabricio Silva Rosa,Fabrício Rosa,50,PSOL,senador,servidor publico federal,39,masculino,ensino superior completo,casado(a),GO,parda
+2014,PR,00274003953,160000000560,456,Alvaro Fernandes Dias,Alvaro Dias,45,PSDB,senador,senador,70,masculino,ensino superior completo,casado(a),SP,branca
+2014,PR,45977771991,160000000023,505,Luiz Romeiro Piva,Professor Piva,50,PSOL,senador,servidor publico estadual,52,masculino,ensino superior completo,divorciado(a),PR,branca
+2014,PR,50038516934,160000001024,444,Mauri Viana Pereira,Mauri Viana,44,PRP,senador,outros,51,masculino,ensino medio completo,casado(a),PR,branca
+2014,PR,59802596949,160000000321,151,Marcelo Beltrao De Almeida,Marcelo Almeida,15,PMDB,senador,engenheiro,48,masculino,ensino superior completo,casado(a),PR,branca
+2014,PR,67388230963,160000000636,282,Adilson Dos Santos Silva,Adilson Senador Da Familia,28,PRTB,senador,outros,40,masculino,ensino medio completo,casado(a),PR,branca
+2014,PR,75923157934,160000000647,650,Ricardo Crachineski Gomyde,Ricardo Gomyde,65,PC do B,senador,outros,44,masculino,ensino superior incompleto,casado(a),PR,branca
+2014,PR,94094110925,160000001093,160,Evandro José Castagna,Castagna,16,PSTU,senador,servidor publico municipal,39,masculino,ensino superior completo,casado(a),PR,branca
+2018,DF,000000000-4,70000602381,300,Paulo Roberto Roque Antonio Khouri,Paulo Roque ,30,NOVO,senador,nao divulgavel,NA,NA,NA,NA,Não divulgável,NA
+2018,DF,06801480197,70000625515,456,Izalci Lucas Ferreira,Izalci,45,PSDB,senador,deputado,62,masculino,ensino superior completo,casado(a),MG,branca
+2018,DF,11636114172,70000602706,501,Francisco Claudio Correa Meyer Sant Anna,Chico Sant Anna,50,PSOL,senador,jornalista e redator,61,masculino,ensino superior completo,casado(a),RJ,branca
+2018,DF,16066189620,70000610833,131,Wasny Nakle De Roure,Wasny,13,PT,senador,deputado,67,masculino,ensino superior completo,casado(a),GO,branca
+2018,DF,22364129168,70000613822,233,Cristovam Ricardo Cavalcanti Buarque,Cristovam Buarque,23,PPS,senador,senador,75,masculino,ensino superior completo,casado(a),PE,branca
+2018,DF,28337410817,70000602707,500,Marivaldo De Castro Pereira,Marivaldo Pereira,50,PSOL,senador,servidor publico federal,39,masculino,ensino superior completo,solteiro(a),DF,preta
+2018,DF,31247679420,70000610832,133,Marcelo Da Costa Pinto Neves,Marcelo Neves,13,PT,senador,advogado,61,masculino,ensino superior completo,casado(a),PE,branca
+2018,DF,31764002172,70000614413,180,Francisco Leite De Oliveira,Chico Leite,18,REDE,senador,servidor publico federal,54,masculino,ensino superior completo,divorciado(a),CE,branca
+2018,DF,32332491287,70000605782,160,Robson Raymundo Da Silva,Robson,16,PSTU,senador,professor de ensino medio,48,masculino,ensino superior completo,solteiro(a),RJ,parda
+2018,DF,38112167168,70000614987,444,Fadi Fayez Faraj,Fadi Faraj,44,PRP,senador,sacerdote ou membro de ordem ou seita religiosa,53,masculino,ensino superior completo,casado(a),ZZ,parda
+2018,DF,66226597887,70000624572,333,Everardo Alves Ribeiro,Juiz Everardo Ribeiro,33,PMN,senador,magistrado,64,masculino,ensino superior completo,casado(a),MG,parda
+2018,DF,66296676891,70000613826,777,Fernando De Castro Marques,Fernando Marques,77,SOLIDARIEDADE,senador,empresario,64,masculino,ensino superior incompleto,casado(a),MG,parda
+2018,DF,67011390863,70000625518,222,Amabile Aparecida Pacios De Andrade,Professora Amábile,22,PR,senador,professor de ensino medio,64,feminino,ensino superior completo,divorciado(a),SP,branca
+2018,DF,77460421804,70000615014,281,Atila Maia Da Rocha,Brigadeiro Atila Maia,28,PRTB,senador,membro das forcas armadas,62,masculino,ensino superior completo,divorciado(a),RN,branca
+2018,DF,85632406687,70000614410,408,Leila Gomes De Barros Rêgo,Leila Do Vôlei,40,PSB,senador,atleta profissional e tecnico em desportos,47,feminino,ensino superior incompleto,casado(a),DF,branca
+2018,PR,01567631924,160000617073,290,Gilson Mezarobba,Gilson Mezarobba,29,PCO,senador,professor de ensino medio,49,masculino,ensino superior completo,casado(a),RS,branca
+2018,PR,02471188931,160000621503,288,José Maria Boni,Zé Boni,28,PRTB,senador,administrador,41,masculino,ensino superior completo,casado(a),PR,branca
+2018,PR,05660890920,160000621960,151,Roberto Requiao De Mello E Silva,Requião,15,MDB,senador,senador,78,masculino,ensino superior completo,casado(a),PR,branca
+2018,PR,05871808972,160000621964,123,Nelton Miguel Friedrich,Nelton,12,PDT,senador,advogado,71,masculino,ensino superior completo,casado(a),PR,branca
+2018,PR,07087549880,160000625760,500,Jacqueline Parmigiani,Jacque Parmigiani,50,PSOL,senador,professor de ensino superior,55,feminino,ensino superior completo,casado(a),SP,branca
+2018,PR,18516440915,160000609967,181,Flavio Jose Arns,Flavio Arns,18,REDE,senador,professor de ensino superior,68,masculino,ensino superior completo,casado(a),PR,branca
+2018,PR,29436792832,160000625767,505,Rodrigo Tomazini Dias,Rodrigo Tomazini,50,PSOL,senador,servidor publico estadual,41,masculino,ensino superior incompleto,solteiro(a),SP,branca
+2018,PR,31404507884,160000626117,510,Roselaine Barroso Ferreira,Roselaine Barroso Ferreira,51,PATRIOTA,senador,advogado,35,feminino,ensino superior completo,solteiro(a),SP,parda
+2018,PR,31662625987,160000609227,191,Oriovisto Guimaraes,Professor Oriovisto Guimaraes,19,PODE,senador,empresario,73,masculino,ensino superior completo,divorciado(a),SP,branca
+2018,PR,36601101915,160000622846,144,Alex Canziani Silveira,Alex Canziani,14,PTB,senador,deputado,54,masculino,ensino superior completo,casado(a),PR,branca
+2018,PR,40478777949,160000609983,277,Luiz Adão Marques,Compadre Luiz Adão,27,DC,senador,advogado,56,masculino,ensino superior completo,casado(a),SC,branca
+2018,PR,54415853900,160000623011,131,Mirian Aparecida Gonçalves,Mirian Gonçalves,13,PT,senador,advogado,57,feminino,ensino superior completo,solteiro(a),SP,branca
+2018,PR,72897309920,160000621567,283,Rodrigo Braga Cortes Fialho Dos Reis,Rodrigo Reis,28,PRTB,senador,advogado,45,masculino,ensino superior completo,casado(a),PR,branca
+2014,RR,00131555200,230000000002,144,Francisco Mozarildo De Melo Cavalcanti,Mozarildo,14,PTB,senador,senador,70,masculino,ensino superior completo,casado(a),RR,branca
+2014,RR,04273230291,230000000255,123,Telmário Mota De Oliveira,Telmário Mota,12,PDT,senador,contador,57,masculino,ensino superior completo,casado(a),RR,parda
+2014,RR,12776181787,230000000250,223,Luciano De Souza Castro,Luciano Castro,22,PR,senador,deputado,65,masculino,ensino superior completo,divorciado(a),CE,branca
+2014,RR,32089562315,230000000006,456,Jose De Anchieta Junior,Anchieta,45,PSDB,senador,engenheiro,50,masculino,ensino superior completo,casado(a),CE,branca
+2014,RR,45812659249,230000000011,160,Dionisio Alves Da Silva,Dionisio Alves,16,PSTU,senador,outros,48,masculino,ensino medio completo,casado(a),PA,parda
+2014,RR,61256102172,230000000346,545,Josy Keila Bernardes De Carvalho,Dr. Josy Carvalho,54,PPL,senador,advogado,42,feminino,ensino superior completo,solteiro(a),GO,branca
+2018,ES,01720486727,80000625508,234,Marcos Ribeiro Do Val,Marcos Do Val,23,PPS,senador,outros,47,masculino,ensino medio completo,casado(a),ES,branca
+2018,ES,07943153723,80000607527,177,Sérgio De Assis Lopes,Subtenente Assis,17,PSL,senador,bombeiro militar,42,masculino,ensino superior completo,casado(a),ES,parda
+2018,ES,08534821798,80000627979,355,Rogerio Bernardo,Rogerio Bernardo,35,PMB,senador,advogado,40,masculino,ensino superior completo,casado(a),ES,preta
+2018,ES,09619452739,80000625723,500,Liudimila Katrini Proximozer,Liu Katrine,50,PSOL,senador,professor de ensino medio,36,feminino,ensino superior completo,solteiro(a),ES,branca
+2018,ES,10078946875,80000600185,300,Ulisses Pincelli,Ulisses Pincelli,30,NOVO,senador,outros,55,masculino,ensino superior completo,divorciado(a),SP,branca
+2018,ES,15272567404,80000607499,222,Magno Pereira Malta,Magno Malta,22,PR,senador,musico,61,masculino,ensino superior completo,casado(a),BA,preta
+2018,ES,38000814749,80000627612,144,Helder Paulo Carnielli,Helder Carnielli,14,PTB,senador,engenheiro,61,masculino,ensino superior completo,casado(a),ES,branca
+2018,ES,77488040791,80000625509,456,Ricardo De Rezende Ferraço,Ricardo Ferraço,45,PSDB,senador,senador,55,masculino,ensino medio completo,casado(a),ES,branca
+2018,ES,86364561772,80000612948,181,Fabiano Contarato,Fabiano Contarato,18,REDE,senador,policial civil,52,masculino,ensino superior completo,casado(a),ES,branca
+2018,ES,89063228791,80000626749,131,Celia Maria Vilela Tavares,Célia Tavares,13,PT,senador,professor de ensino superior,53,feminino,ensino superior completo,solteiro(a),ES,branca
+2018,ES,99820307791,80000625744,211,Mauro Ribeiro,Mauro Ribeiro,21,PCB,senador,servidor publico estadual,50,masculino,ensino superior completo,casado(a),ES,preta
+2018,PA,00018031234,140000621333,151,Jader Fontenelle Barbalho,Jader Barbalho,15,MDB,senador,senador,74,masculino,ensino superior completo,divorciado(a),PA,parda
+2018,PA,00107735253,140000610437,456,Fernando De Souza Flexa Ribeiro,Flexa Ribeiro,45,PSDB,senador,senador,73,masculino,ensino superior completo,divorciado(a),PA,branca
+2018,PA,03026292974,140000620621,444,Elleri Bogo,Bogo,44,PRP,senador,empresario,37,masculino,ensino superior completo,casado(a),SC,branca
+2018,PA,06651127268,140000621337,200,José Da Cruz Marinho,Zequinha Marinho,20,PSC,senador,pedagogo,59,masculino,ensino superior completo,casado(a),PA,branca
+2018,PA,17188326215,140000627201,131,José Geraldo Torres Da Silva,Zé Geraldo,13,PT,senador,deputado,57,masculino,ensino medio completo,divorciado(a),ES,branca
+2018,PA,18595669287,140000604134,161,Benedita Duarte Do Amaral,Benedita Do Amaral,16,PSTU,senador,professor de ensino fundamental,64,feminino,ensino superior completo,solteiro(a),PA,preta
+2018,PA,20622899287,140000620972,123,Osmar Da Silva Nascimento,Coronel Osmar Nascimento,12,PDT,senador,policial militar,53,masculino,ensino superior completo,casado(a),GO,branca
+2018,PA,30489040268,140000627357,434,Jarbas Vasconcelos Do Carmo,Jarbas Vasconcelos,43,PV,senador,advogado,52,masculino,ensino superior completo,casado(a),PA,parda
+2018,PA,31145574220,140000604468,543,Iromarto Lauriano Sobral Cardoso,Xaropinho Do Povo,54,PPL,senador,publicitario,52,masculino,ensino superior completo,casado(a),PA,branca
+2018,PA,31907881204,140000604415,500,Ursula Vidal Santiago De Mendonça,Ursula Vidal,50,PSOL,senador,jornalista e redator,47,feminino,ensino superior completo,casado(a),PE,parda
+2018,PA,32473184704,140000621028,400,Shydney Jorge Rosa,Sidney Rosa,40,PSB,senador,deputado,63,masculino,ensino superior completo,casado(a),ES,branca
+2018,PA,63543311204,140000627207,651,Gerson Dourao Da Costa,Professor Gerson Dourao,65,PC do B,senador,professor de ensino medio,41,masculino,ensino superior completo,casado(a),PA,branca
+2018,RJ,01103360701,190000628313,355,Gabrielle Burcci Alves Dos Reis,Gabrielle Burcci,35,PMB,senador,outros,45,feminino,ensino superior completo,casado(a),SP,branca
+2018,RJ,01616706287,190000607913,555,Arolde De Oliveira,Arolde De Oliveira,55,PSD,senador,deputado,82,masculino,ensino superior completo,casado(a),RS,branca
+2018,RJ,02571335774,190000607897,160,Samantha Araujo Guedes,Samantha Guedes,16,PSTU,senador,servidor publico municipal,45,feminino,ensino medio completo,divorciado(a),RJ,preta
+2018,RJ,03690288720,190000610856,188,Miro Teixeira,Miro Teixeira,18,REDE,senador,deputado,73,masculino,ensino superior completo,casado(a),RJ,branca
+2018,RJ,06947167825,190000621820,100,Eduardo Benedito Lopes,Senador Eduardo Lopes,10,PRB,senador,senador,54,masculino,ensino superior completo,casado(a),SP,branca
+2018,RJ,08701122797,190000614721,177,Flávio Nantes Bolsonaro,Flávio Bolsonaro,17,PSL,senador,deputado,37,masculino,ensino superior completo,casado(a),RJ,branca
+2018,RJ,22143556772,190000615552,123,Jose Bonifacio Ferreira Novelino,Jose Bonifacio,12,PDT,senador,economista,73,masculino,ensino superior completo,divorciado(a),RJ,branca
+2018,RJ,25881558715,190000612302,200,Everaldo Dias Pereira,Pastor Everaldo,20,PSC,senador,corretor de imoveis seguros titulos e valores,63,masculino,ensino superior completo,casado(a),RJ,parda
+2018,RJ,26451379700,190000602067,500,Francisco Rodrigues De Alencar Filho,Chico Alencar,50,PSOL,senador,deputado,69,masculino,ensino superior completo,divorciado(a),RJ,parda
+2018,RJ,30012180700,190000626243,281,Matusael Do Nascimento,Mattos Nascimento,28,PRTB,senador,musico,64,masculino,ensino medio completo,casado(a),RJ,branca
+2018,RJ,33318352772,190000607900,161,Cyro Garcia,Cyro Cargia,16,PSTU,senador,professor de ensino superior,64,masculino,ensino superior completo,casado(a),RJ,preta
+2018,RJ,37295527753,190000609936,255,Cesar Epitácio Maia,Cesar Maia,25,DEM,senador,vereador,73,masculino,ensino superior completo,casado(a),RJ,branca
+2018,RJ,38359014787,190000609940,455,Aspasia Brasileiro Alcantara De Camargo,Aspasia,45,PSDB,senador,servidor publico civil aposentado,76,feminino,ensino superior completo,casado(a),RJ,branca
+2018,RJ,67268692749,190000602070,211,Marta Maria Barçante Pires,Marta Barçante,21,PCB,senador,servidor publico civil aposentado,63,feminino,ensino superior completo,viuvo(a),RJ,branca
+2018,RJ,69049351468,190000613600,131,Luiz Lindbergh Farias Filho,Lindbergh,13,PT,senador,senador,49,masculino,ensino medio completo,solteiro(a),PB,branca
+2018,RS,06301525000,210000606874,151,José Alberto Fogaça De Medeiros,José Fogaça,15,MDB,senador,professor de ensino superior,72,masculino,ensino superior completo,casado(a),RS,branca
+2018,RS,11062975049,210000606445,131,Paulo Renato Paim,Paulo Paim,13,PT,senador,senador,69,masculino,ensino medio completo,casado(a),RS,preta
+2018,RS,14272954091,210000622364,111,Luis Carlos Heinze,Luis Carlos Heinze,11,PP,senador,deputado,68,masculino,ensino superior completo,casado(a),RS,branca
+2018,RS,15723569015,210000622363,234,Mario Bernd Neto,Mario Bernd,23,PPS,senador,medico,68,masculino,ensino superior completo,divorciado(a),RS,branca
+2018,RS,20187530025,210000605578,273,Luiz Carlos Machado,Machado,27,DC,senador,administrador,64,masculino,ensino superior completo,casado(a),RS,branca
+2018,RS,23529385034,210000604669,777,Sandra Regina Marçolla Weber,Dra. Sandra Weber,77,SOLIDARIEDADE,senador,medico,57,feminino,ensino superior completo,casado(a),SP,branca
+2018,RS,25051520049,210000610051,161,Marli Schaule,Marli Schaule,16,PSTU,senador,professor de ensino medio,62,feminino,ensino superior completo,casado(a),RS,branca
+2018,RS,33769460006,210000606869,400,Luiz Roberto De Albuquerque,Beto Albuquerque,40,PSB,senador,advogado,56,masculino,ensino superior completo,casado(a),RS,branca
+2018,RS,38512092068,210000606449,651,Dilce Abgail Rodrigues Pereira,Abigail Pereira,65,PC do B,senador,pedagogo,58,feminino,ensino superior completo,divorciado(a),RS,branca
+2018,RS,42264448091,210000600026,500,Romer Dos Santos Guex,Romer Guex,50,PSOL,senador,advogado,54,masculino,ensino superior completo,casado(a),RS,parda
+2018,RS,44656696072,210000603704,170,Carmen Zoleike Flores Inacio,Carmen Flores,17,PSL,senador,empresario,66,feminino,ensino medio completo,viuvo(a),RS,branca
+2018,RS,48610984087,210000610053,160,João Augusto De Moraes Gomes,João Augusto,16,PSTU,senador,servidor publico federal,49,masculino,ensino superior incompleto,casado(a),RS,branca
+2018,RS,52646246234,210000604671,190,Ana Carla Varela Do Nascimento,Ana Varela,19,PODE,senador,corretor de imoveis seguros titulos e valores,39,feminino,ensino medio completo,casado(a),PA,branca
+2018,RS,63052229087,210000600029,212,Cleber Barcelos Soares,Cleber Soares,21,PCB,senador,servidor publico federal,45,masculino,ensino superior completo,solteiro(a),RS,preta
+2014,PI,00135968372,180000000238,141,Elmano Férrer De Almeida,Elmano - O Veín Trabalhador,14,PTB,senador,advogado,72,masculino,ensino superior completo,casado(a),CE,branca
+2014,PI,06444555353,180000000046,400,Wilson Nunes Martins,Wilson Martins,40,PSB,senador,professor de ensino superior,61,masculino,ensino superior completo,casado(a),PI,branca
+2014,PI,14952972844,180000000033,544,Claudionor Chaves De Oliveira,Professor Claudionor,54,PPL,senador,torneiro mecanico,47,masculino,ensino superior completo,casado(a),PI,indigena
+2014,PI,15263622104,180000000003,160,Geraldo Do Nascimento Carvalho,Geraldo Carvalho,16,PSTU,senador,professor de ensino superior,56,masculino,ensino superior completo,casado(a),PI,preta
+2014,PI,47429631304,180000000014,200,Gustavo Henrique Leite Feijó,Gustavo Henrique,20,PSC,senador,servidor publico municipal,41,masculino,ensino superior completo,solteiro(a),MG,branca
+2018,SP,00415055814,250000604052,155,Maria Aparecida Pinto,Cidinha,15,MDB,senador,aposentado (exceto servidor publico),61,feminino,ensino superior completo,solteiro(a),SP,preta
+2018,SP,00502302801,250000615466,177,Sergio Olimpio Gomes,Major Olimpio,17,PSL,senador,deputado,57,masculino,ensino superior completo,casado(a),SP,branca
+2018,SP,00630930813,250000601941,300,Diogo Ribeiro Da Luz,Diogo Da Luz,30,NOVO,senador,piloto de aviacao comercial navegador mecanico de voo e assemelhados,61,masculino,ensino superior incompleto,casado(a),SP,branca
+2018,SP,01260207870,250000615144,191,Mário Covas Neto,Mario Covas Neto,19,PODE,senador,advogado,59,masculino,ensino superior completo,casado(a),SP,branca
+2018,SP,02278270826,250000604051,151,Marcelo Fortes Barbieri,Marcelo Barbieri,15,MDB,senador,administrador,62,masculino,ensino superior completo,casado(a),SP,branca
+2018,SP,03946999808,250000623886,132,Jilmar Augustinho Tatto,Jilmar Tatto,13,PT,senador,professor de ensino medio,53,masculino,ensino superior completo,casado(a),PB,branca
+2018,SP,05307973489,250000617722,188,Pedro Henrique Henriques Fernandes,Pedro Henrique De Cristo,18,REDE,senador,professor de ensino superior,36,masculino,ensino superior completo,divorciado(a),PB,parda
+2018,SP,05909198815,250000623887,131,Eduardo Matarazzo Suplicy,Eduardo Suplicy,13,PT,senador,vereador,77,masculino,ensino superior completo,divorciado(a),SP,branca
+2018,SP,09714851866,250000609178,161,Eliana Lúcia Ferreira,Dra. Eliana Ferreira,16,PSTU,senador,advogado,51,feminino,ensino superior completo,divorciado(a),SP,branca
+2018,SP,10809100851,250000601571,500,Silvia Andrea Ferraro,Professora Silvia Ferraro,50,PSOL,senador,professor de ensino fundamental,49,feminino,ensino superior completo,solteiro(a),SP,branca
+2018,SP,22273939809,250000617745,180,Moira Lázaro Da Silva,Moira Lázaro Mandato Coletivo,18,REDE,senador,professor de ensino fundamental,38,feminino,ensino superior completo,solteiro(a),SP,branca
+2018,SP,24731270855,250000612593,457,Mara Cristina Gabrilli,Mara Gabrilli,45,PSDB,senador,deputado,51,feminino,ensino superior completo,solteiro(a),SP,branca
+2018,SP,27093767842,250000601476,505,Daniel Tojeira Cara,Educador Daniel Cara,50,PSOL,senador,cientista politico,41,masculino,ensino superior completo,casado(a),SP,branca
+2018,SP,28014476840,250000615143,400,Maurren Higa Maggi,Maurren Maggi,40,PSB,senador,atleta profissional e tecnico em desportos,42,feminino,ensino medio completo,solteiro(a),SP,branca
+2018,SP,47796278853,250000612594,450,José Ricardo Alvarenga Tripoli,Tripoli,45,PSDB,senador,deputado,66,masculino,ensino superior completo,casado(a),SP,branca
+2018,SP,61044580844,250000623558,123,Antonio Fernandes Dos Santos Neto,Antonio Neto,12,PDT,senador,analista de sistemas,66,masculino,ensino superior completo,casado(a),SP,branca
+2018,SP,74564226720,250000609180,160,Luiz Carlos Prates,Mancha,16,PSTU,senador,eletricista e assemelhados,63,masculino,ensino superior incompleto,solteiro(a),SP,preta
