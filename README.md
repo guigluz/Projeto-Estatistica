@@ -7,8 +7,10 @@ Lista de conteúdo:
 
 * **Input**
   * **dados-eleitorais-senadores.R** - R Script que baixa os dados do BigQuery do Base dos Dados e os salva em um arquivo .rda
-  * **dado-eleitorais.rda** - arquivo .rda criado pelo R script
+  * **dados-eleitorais.rda** - arquivo .rda criado pelo R script
   * **macroregioes.xlsx** - arquivo de referência para as macroregiões
+
+* **csv** - dados do `dados-eleitorais.rda` em formato .csv
 
 * **analise_receitas_eleitorais_senadores.R** - R script que usa `dados-eleitorias.rda` como input e cria os gráficos usados no artigo
 
